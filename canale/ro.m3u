@@ -225,7 +225,68 @@ http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34154
 http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34155
 #EXTINF:-1,RO: Telekom Sport 5🇷🇴
 http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34156
-
+#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
+http://test.romania%E2%98%85
+#EXTINF:5276,TV 1000(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/264997
+#EXTINF:5276,TVR 1(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/148085
+#EXTINF:5276,TVR 2(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/264945
+#EXTINF:5276,REALITATEA TV(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/264952
+#EXTINF:5276,ANTENA 1(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/264941
+#EXTINF:5276,PRO TV(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/256338
+#EXTINF:5276,AXN(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/265004
+#EXTINF:5276,AXN BLACK(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/265005
+#EXTINF:5276,AXN SPIN(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/265007
+#EXTINF:5276,PRIMA TV(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/148086
+#EXTINF:5276,PRO 2(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/149256
+#EXTINF:5276,PRO CINEMA(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/148249
+#EXTINF:5276,PRO GOLD(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/253471
+#EXTINF:5276,PRO X(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/264950
+#EXTINF:5276,PARAMOUNR CHANNEL(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/264994
+#EXTINF:5276,TNT(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/264992
+#EXTINF:5276,AMC(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/265054
+#EXTINF:5276,BOLLYWOOD TV(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265003
+#EXTINF:5276,BOLLYWOOD CLASIC(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265002
+#EXTINF:5276,CINEMAX(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265011
+#EXTINF:5276,CINEMAX 2(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265012
+#EXTINF:5276,EPIC DRAMA(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/264995
+#EXTINF:5276,FILM BOX(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265025
+#EXTINF:5276,FILM CAFE(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/256238
+#EXTINF:5276,FILM NOW(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265001
 
 EXTINF:-1,🇷🇴📻 RADIO-ROMANIA📻🇷🇴
 https://pastebin.com/raw/%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4
