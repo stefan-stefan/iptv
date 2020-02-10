@@ -55,6 +55,9 @@ https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
 #EXTINF:-1,RO | Antena 1🇷🇴
 http://193.228.153.231:4240/bysid/40
+#EXTINF:5276,ANTENA 1(sopcast)
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/264941
 #EXTINF:-1,RO | Antena 3🇷🇴
 http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49845
 #EXTINF:-1,RO: Antena Comedy🇷🇴
