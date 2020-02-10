@@ -10,7 +10,7 @@ http://test.romania%E2%98%85
 #EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴
 http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8?iptv=1
 #EXTINF:-1,PRO TV MOLDOVA 1🇷🇴
-http://188.138.235.61:80/hls/protv.m3u8
+http://86.124.235.241:7300/hborox/index.m3u8
 #EXTINF:-1,MOLDOVA 2🇷🇴
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1,TVR Moldova🇷🇴
