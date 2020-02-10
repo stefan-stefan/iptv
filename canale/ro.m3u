@@ -105,7 +105,7 @@ http://myiptv.ddns.me:5000/emanuel/emrodaloho/3123
 http://alltvplay.ml/hlsjwt/692a4de2e860ac5a0e66f6a61dfbc39ae30d3b3c-2359-0-fol1971-None-860146829-1580278833--WJMOiWI2QExV5es1pW8L6KjtGyR2iVRq1JrsTsjpppw/index.m3u8
 #EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN
 #EXTVLCOPT:network-caching=1000
-http://edge81.rdsnet.ro/digiedge2/axnehq/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
+http://tv-he.orange.ro/shls/LIVE$axnhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
 #EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN
 #EXTVLCOPT:network-caching=1000
 http://82.76.40.81/digiedge2/axnemq/chunklist_w662046302.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
