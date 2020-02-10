@@ -229,16 +229,11 @@ http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34156
 #EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
 http://test.romania%E2%98%85
 #EXTINF:5276,ANTENA 1(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/264941
 #EXTINF:5276,PRO TV(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/256338
 #EXTINF:5276,ANTENA 3(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/148084
-#EXTINF:5276,ANTENA 1(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://185.122.59.8:3912/264941*
+sop://broker.sopcast.com:3912/148084*
 #EXTINF:5276,AXN(sopcast)🇷🇴
 sop://broker.sopcast.com:3912/265004
 #EXTINF:5276,AXN BLACK(sopcast)🇷🇴
