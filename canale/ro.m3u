@@ -287,7 +287,50 @@ sop://broker.sopcast.com:3912/256238
 #EXTINF:5276,FILM NOW(sopcast)🇷🇴
 #EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/265001
-
+#EXTINF:5276,HBO(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/264971
+#EXTINF:5276,HBO 2(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265067
+#EXTINF:5276,HBO 3(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265096
+#EXTINF:5276,PARAMOUNR CHANNEL(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/264994
+#EXTINF:5276,COMEDY CENTRAL(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/265044
+#EXTINF:5276,NATIONAL GEOGRAPHIC WILD(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265078
+#EXTINF:5276,NATIONAL GEOGRAPHIC(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265077
+#EXTINF:5276,E! ENTERTAINMENT(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265051
+#EXTINF:5276,DISCOVERY SCIENCE(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265082
+#EXTINF:5276,ID DISCOVERY(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265065
+#EXTINF:5276,CSB REALITY(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265047
+#EXTINF:5276,ANIMAL PLANET(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/265086
+#EXTINF:5276,VIASAT HISTORY(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/265079
+#EXTINF:5276,VIASAT NATURE(sopcast)🇷🇴
+sop://broker.sopcast.com:3912/265050
+#EXTINF:5276,VIASAT EXPLORER(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265054
+#EXTINF:5276,FISHING AND HUNTING(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265049
 EXTINF:-1,🇷🇴📻 RADIO-ROMANIA📻🇷🇴
 https://pastebin.com/raw/%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4
 #EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴
