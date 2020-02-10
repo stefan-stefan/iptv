@@ -240,8 +240,7 @@ http://82.76.40.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=app&
 http://82.76.40.81/digiedge2/smil:nationalgeographic.smil/playlist.m3u8?is=19&src=app&t=00000000000000000000000000000000
 #EXTINF:0 tvg-logo="http://stvron.com/canale/512/dtx.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]DTX (Discovery Turbo Xtra)
 http://94.177.136.29:7478/play/a03b
-#EXTINF:-1 tvg-id="" tvg-name="|RO| HISTORY" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HISTORY.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 1[/COLOR] HISTORY
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,History🇷🇴
 http://82.76.40.81/digiedge2/historychannelelq/chunklist_w602744170.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/history-2-canada.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]History Channel 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
