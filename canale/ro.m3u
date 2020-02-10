@@ -107,8 +107,8 @@ http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
 http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1,RO | DIGI Life🇷🇴
 http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49852
-#EXTINF:-1,RO | DIGI WORLD🇷🇴
-http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49851
+#EXTINF:-1,RO | DIGI ANIMAL WORLD🇷🇴
+http://82.76.40.81/digiedge2/smil:digianimalworld.smil/playlist.m3u8?is=16&src=app&t=00000000000000000000000000000000
 #EXTINF:-1,BBC Earth🇷🇴
 http://82.76.40.81/digiedge2/bbcearthemq/chunklist_w236495544.m3u8?is=67&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO: CBS Reality🇷🇴
