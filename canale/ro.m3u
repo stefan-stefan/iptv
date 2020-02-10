@@ -242,7 +242,7 @@ http://82.76.40.81/digiedge2/smil:nationalgeographic.smil/playlist.m3u8?is=19&sr
 http://94.177.136.29:7478/play/a03b
 #EXTINF:-1 tvg-id="" tvg-name="|RO| HISTORY" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HISTORY.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 1[/COLOR] HISTORY
 #EXTVLCOPT:network-caching=1000
-http://82.76.40.81/digiedge2/smil:historychannel.smil/playlist.m3u8?is=20&src=app&t=00000000000000000000000000000000
+http://82.76.40.81/digiedge2/historychannelelq/chunklist_w602744170.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/history-2-canada.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]History Channel 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 tvg-ID="Discovery Investigation" tvg-name="RO: Discovery ID" tvg-logo="https://iptvsensation.org/picons/discoveryid.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Discovery ID
