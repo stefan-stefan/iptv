@@ -6,487 +6,627 @@ http://89.136.209.26:1935/l
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="#STEFAN-TV-Romania #" tvg-logo="http://pici.life/RO/romania.png" group-title="Romania",#STEFAN-CEZAR-LISTA-TV #
 http://iptv.rent:8080/z57v4cnp7k/7cxiblicoh/5334
-#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴
-http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8?iptv=1
-#EXTINF:-1,PRO TV MOLDOVA 1🇷🇴
-http://86.124.235.241:7300/hborox/index.m3u8
-#EXTINF:-1,MOLDOVA 2🇷🇴
-http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
-#EXTINF:-1,TVR Moldova🇷🇴
-http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8?iptv=1
-#EXTINF:-1,Noroc TV🇷🇴
-http://live.noroc.tv/hls/noroctv_chisinau.m3u8
-#EXTINF:-1,Bucuresti TV🇷🇴
-http://89.38.8.130:39459
-#EXTINF:-1,AlfaOmegaTV🇷🇴
+#EXTINF:0 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=227x10000:format=jpg/path/s5ae1a1830c4003af/image/ia3791d53db91695c/version/1466759255/image.jpg" group-title="GENERALE",[COLOR red]Http.[/COLOR][COLOR red]# 1[/COLOR]Arcadia World
+http://89.38.8.131:39553
+#EXTINF:-1 tvg-logo="http://www.crestinulazi.ro/wp-content/uploads/2010/02/alfa-omega-logo.png" group-title="STIRI",[COLOR lawngreen]Http.[/COLOR][COLOR lawngreen]# 1[/COLOR]AlfaOmegaTV
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:-1,RO | AgroTV🇷🇴
-http://mytvonline.nl:80/live/2YQyltguql/XwEAnAWfE0/15679.m3u8
-#EXTINF:-1,UTV 🇷🇴
-http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
-#EXTINF:-1,RO: TVR 1🇷🇴
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1,RO: TVR 1🇷🇴
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1,RO: TVR 2🇷🇴
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/cinemaraton.jpg" group-title="STIRI",[COLOR lawnred]Http.[/COLOR][COLOR lawnred]# 1[/COLOR]Cinemaraton
+https://rebrand.ly/cinemaratons1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 1🇷🇴
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TVR 1" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVR1.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 2[/COLOR] TVR 1🇷🇴
+http://5.255.90.252:5004/play/a061
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 2🇷🇴
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:-1,Tvr 2🇷🇴
-http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49840
-#EXTINF:-1,RO: TVR 3🇷🇴
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u88
-#EXTINF:-1,Tvr 3🇷🇴
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 3🇷🇴
 http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:-1,TLC
-http://82.76.40.81/digiedge2/tlcemq/chunklist_w1451884700.m3u8?is=72&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,Epic Drama🇷🇴
-http://82.76.40.81/digiedge3/epicdramaehq/index.m3u8?is=95&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO AMC🇷🇴
-http://alltvplay.ml/hlsjwt/7f36cfb6ed50d2b389c93ced7840f3e3b3fffaad-2312-0-fol1971-None-860146829-1580278694--01fRjw2T2GF8HUvG1s61rM49ut7zpX7acQQBTMOLATA/index.m3u8
-#EXTINF:-1,RO: AMC 🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34142
-#EXTINF:-1,RO | PRO Gold🇷🇴
-https://vid.hls.protv.ro/progoldn/progold_2_34/index.m3u8?1
-#EXTINF:5276,PRIMA TV🇷🇴
-http://193.228.153.231:4242/bysid/60
-#EXTINF:-1,Pro 2🇷🇴
-https://vid.hls.protv.ro/pro2n/pro2_2_34/index.m3u8?1
-#EXTINF:-1,PRO X 🇷🇴
-https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
-#EXTINF:-1,PRO CINEMA 🇷🇴
-https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
-#EXTINF:-1,RO | Antena 1🇷🇴
-http://193.228.153.231:4240/bysid/40
-#EXTINF:5276,ANTENA 1(sopcast)
-sop://broker.sopcast.com:3912/264941
-#EXTINF:-1,RO | Antena 3🇷🇴
-http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49845
-#EXTINF:-1,RO: Antena Comedy🇷🇴
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
-#EXTINF:-1,Comedy Est🇷🇴
-https://cmn.digitalcable.ro/free/comedyest/chunks.m3u8?nimblesessionid=6099065
-#EXTINF:-1,Antena Stars🇷🇴
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/index.m3u8
-#EXTINF:-1,BO CLASSIC🇷🇴
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,BO TV🇷🇴
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Bollywood 🇷🇴
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,AXN🇷🇴
-http://82.76.40.81/digiedge2/smil:axn.smil/playlist.m3u8?is=44&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,AXN🇷🇴
-http://82.76.40.81/digiedge2/axnwhiteemq/chunklist_w1393127741.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,Comedy Central🇷🇴
-http://edge81.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO | AXN Black🇷🇴
-http://82.76.40.81/digiedge2/axnblackehq/index.m3u8?is=45&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO | AXN Black🇷🇴
-http://82.76.40.81/digiedge2/axnblackemq/chunklist_w750851132.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,AXN White🇷🇴
-http://82.76.40.81/digiedge2/axnwhiteemq/chunklist_w1393127741.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO | AXN SPIN🇷🇴
-http://edge81.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site
-#EXTINF:-1,AXN Spin🇷🇴
-http://82.76.40.81/digiedge2/axnspinemq/chunklist_w610324127.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO | B1🇷🇴
-http://82.76.40.81/digiedge2/smil:b1tv.smil/playlist.m3u8?is=29&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO | Cinemax🇷🇴
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-CinemaxHD-mp4a_98800_eng=3.m3u8
-#EXTINF:-1,RO | Cinemax 2🇷🇴
-http://televiziune.live/imagini/tv.mp4
-#EXTINF:-1,FILM CAFE🔇
-http://tv-he.orange.ro/shls/LIVE$filmcafe/10.m3u8/Level%282306867%29?start=LIVE&end=END
-#EXTINF:-1,FILM CAFE🇷🇴
-http://82.76.40.81/digiedge3/smil:filmcafe.smil/playlist.m3u8?is=94&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,Paramount🇷🇴
-http://televiziune.live/imagini/tv.mp4
-#EXTINF:-1,TV1000🇷🇴
-http://82.76.40.81/digiedge2/smil:tv1000.smil/playlist.m3u8?is=43&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO | DIGI 24🇷🇴
-http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,RO | DIGI 24🇷🇴
-http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,RO | DIGI Life🇷🇴
-http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49852
-#EXTINF:-1,RO | DIGI ANIMAL WORLD🇷🇴
-http://82.76.40.81/digiedge2/smil:digianimalworld.smil/playlist.m3u8?is=16&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,BBC Earth🇷🇴
-http://82.76.40.81/digiedge2/bbcearthemq/chunklist_w236495544.m3u8?is=67&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: CBS Reality🇷🇴
-http://edge84.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,History🇷🇴
-http://82.76.40.81/digiedge2/historychannelelq/chunklist_w602744170.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO | Discovery🇷🇴
-http://82.76.40.81/digiedge2/smil:discovery.smil/playlist.m3u8?is=71&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,Discovery Channel🇷🇴
-http://82.76.40.81/digiedge2/discoveryemq/chunklist_w2130687691.m3u8?is=71&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,DISCOVERY Science 🇷🇴
-http://94.177.136.29:7478/play/a039
-#EXTINF:-1,RO | Discovery ID🇷🇴
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1,Animal Planet🇷🇴
-http://list.deeplist.nl:80/live/diogosantus/diogo021/52581.m3u8
-#EXTINF:-1,Viasat Nature🇷🇴
-http://82.76.40.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO | Viasat_Explorer🇷🇴
-http://82.76.40.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,Fishing & Hunting🇷🇴
-http://edge81.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,E! Entertainment🇷🇴
-http://82.76.40.81/digiedge2/eentertainmentemq/chunklist_w37196768.m3u8?is=73&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,DTX 🇷🇴
-http://94.177.136.29:7478/play/a03b
-#EXTINF:-1,ARCADIA WORLD 🇷🇴
-http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
-#EXTINF:-1,TRAVEL MIX 🇷🇴
-http://89.38.8.131:39520
-#EXTINF:-1,RO | HBO 3🇷🇴
-http://51.159.21.231:2052/usapro2@source/799965@26641/1757
-#EXTINF:-1,(RO) HBO 3🇷🇴
-http://mylatinotv.com:8080/davidALBA2/jf2OjCtIYU/15522
-#EXTINF:-1,RO | HBO 🇷🇴
-http://51.159.21.231:2052/usapro2@source/799965@26641/1755
-#EXTINF:-1,HBO 🇷🇴
-http://mylatinotv.com:8080/davidALBA2/jf2OjCtIYU/15524
-#EXTINF:-1,RO | HBO 2 🇷🇴
-http://dragoniptv.club:8080/live/Kara/Kara/6249.m3u8
-#EXTINF:-1,(RO) HBO 2🇷🇴
-http://mylatinotv.com:8080/davidALBA2/jf2OjCtIYU/15523
-#EXTINF:-1,HBO 1🇷🇴(ACESTREAM)
-acestream://895d6a92042671cc483346dfdd3917bef2458da9
-#EXTINF:-1,RO | Prima TV 🇷🇴
-http://193.228.153.231:4242/bysid/60
-#EXTINF:-1,PRO CINEMA 🇷🇴
-https://vid.hls.protv.ro/procineman/procinema_2_34/index.m3u8?1
-#EXTINF:-1,RO: Pro TV🇷🇴
+#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/tvr-moldova.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]TVR Moldova🇷🇴
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] National TV🇷🇴
+http://5.255.90.252:5004/play/a072
+#EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV🇷🇴
+https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
+#EXTINF:-1 tvg-id="" tvg-name="|RO| PRO TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 2[/COLOR] PRO TV🇷🇴
 http://89.38.8.131:39532
-#EXTINF:-1,RO: ProTV News🇷🇴
-http://stream1.protv.ro/news/stream%3a1.stream/chunklist_w1582750279.m3u8
-#EXTINF:-1,RO | ROmania TV🇷🇴
-http://mytvonline.nl:80/live/2YQyltguql/XwEAnAWfE0/15755.m3u8
-#EXTINF:-1,Cinemaraton 🇷🇴
-https://cmn.digitalcable.ro/free/cm/playlist.m3u8
-#EXTINF:-1,Comedy Est🇷🇴
+#EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV🇷🇴
+http://193.228.153.231:4241/bysid/30
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1200px-logo_pro_tv_international-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Tv International🇷🇴
+http://78.109.108.62:2001/protv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV News🇷🇴
+http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
+#EXTINF:0 tvg-logo="https://adevarul.ro/assets/adevarul.ro/MRImage/2017/05/25/5926ccb25ab6550cb86f7cb0/646x404.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro TV Chisinau🇷🇴
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0 tvg-logo="http://www.frocus.net/images/logotv/original/ntv-moldova.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro TV Moldova🇷🇴
+http://188.138.235.61:80/hls/protv.m3u8
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro X🇷🇴
+https://vid.hls.protv.ro/proxhdn/proxhd_2_34/index.m3u8?1
+#EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] DIGI 24 HD🇷🇴
+http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1 tvg-id="Digi 24" tvg-name="Digi 24" tvg-logo="http://1.bp.blogspot.com/-kl2zn8Zm6UE/TxrIJ6HbIPI/AAAAAAAADu8/2f47v68VQJo/s1600/digi24+logo.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 2[/COLOR] Digi 24🇷🇴
+http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] B1🇷🇴
+http://193.228.153.231:4242/bysid/70
+#EXTINF:-1 tvg-id="B1 Tv" tvg-name="B1 Tv" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/B1TV-1-.png/revision/latest?cb=20150801160913" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 2[/COLOR] B1 Tv🇷🇴 
+http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49856
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR brown]Http.[/COLOR][COLOR brown]# 1[/COLOR] Romania Tv
+http://193.228.153.231:4243/bysid/125
+#EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 3🇷🇴 
+http://193.228.153.231:4240/bysid/120
+#EXTINF:-1 tvg-ID="RealitateaTV.ro" tvg-name="RO: Realitatea Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/realitatea_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Realitatea Tv🇷🇴
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR] Realitatea Tv🇷🇴
+http://5.255.90.252:5004/play/a063
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 1🇷🇴
+https://sportbar.biz/lba/123/g9/antena1.m3u8
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 1🇷🇴
+https://sport7.biz/lba/ZTVlYzA2YTEzN2I2ZmY2NmU5MDA3YTBjZjdkZTUyNDk=/g9/antena1.m3u8?
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 1🇷🇴
+http://193.228.153.231:4240/bysid/40
+#EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 3🇷🇴 
+http://193.228.153.231:4240/bysid/120
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Kanal D🇷🇴
+https://sportbar.biz/lba/123/g9/kanald.m3u8
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Kanal D🇷🇴
+http://193.228.153.231:4240/bysid/50
+#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Prima TV🇷🇴
+http://193.228.153.231:4242/bysid/60
+#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Prima TV🇷🇴
+http://5.255.90.252:5004/play/a081
+#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Prima TV🇷🇴
+http://5.255.90.252:5004/play/a062
+#EXTINF:0 tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]COMEDY EST🇷🇴
 https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
-#EXTINF:-1,Film Now🇷🇴
-http://televiziune.live/imagini/tv.mp4
-#EXTINF:-1,RO | TNT🇷🇴
-http://82.76.40.81/digiedge3/smil:filmcafe.smil/playlist.m3u8?is=94&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO | TNT🇷🇴
-http://82.76.40.81/digiedge3/tntehq/index.m3u8?is=91&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TV 1000 🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34097
-#EXTINF:-1,TV 1000 🇷🇴
+#EXTINF:0 tvg-logo="https://www.canadalandshow.com/wp-content/uploads/2017/02/cbc_comedy_jpeg.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Comedy Play🇷🇴
+#EXTVLCOPT:network-caching=1000
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
+#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:1234
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro 2 
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_Pro_Gold_%282017%29.svg/1280px-Logo_Pro_Gold_%282017%29.svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Gold
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Cinema
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Cinema
+http://193.228.153.231:4241/bysid/340
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Paramount Channel
+http://tv-he.orange.ro/shls/LIVE$paramountchannel/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Paramount Channel
+http://alltvplay.ml/hlsjwt/d2476adab6814484d1858fe1abd4548b927ae939-2345-0-fol1971-None-860146829-1580278877--HfYuwjFAtWyetJnBV8IXgaTGVC7-ALr35Acuyh9qMV4/index.m3u8
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax
+http://5.255.90.252:5004/play/a059
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax
+http://alltvplay.ml/hlsjwt/162a92430958d8100bd732ca0ee8e17e8be8c0dc-2358-0-fol1971-None-860146829-1580278791--qzKWCkrtXYFGYy55V_vdk9d8inv1tJebkWmSMnF1SM4/index.m3u8
+#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax 2
+#EXTVLCOPT:network-caching=1000
+http://myiptv.ddns.me:5000/emanuel/emrodaloho/3123
+#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax 2
+#EXTVLCOPT:network-caching=1000
+http://alltvplay.ml/hlsjwt/692a4de2e860ac5a0e66f6a61dfbc39ae30d3b3c-2359-0-fol1971-None-860146829-1580278833--WJMOiWI2QExV5es1pW8L6KjtGyR2iVRq1JrsTsjpppw/index.m3u8
+#EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN
+#EXTVLCOPT:network-caching=1000
+http://edge81.rdsnet.ro/digiedge2/axnehq/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.81/digiedge2/axnemq/chunklist_w662046302.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-ID="AXN Black" tvg-name="RO: AXN Black" tvg-logo="https://iptvsensation.org/picons/axnblack.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN Black
+#EXTVLCOPT:network-caching=1000
+http://edge81.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-ID="AXN White" tvg-name="RO: AXN White" tvg-logo="https://iptvsensation.org/picons/axnwhite.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN White
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.81/digiedge2/axnwhiteemq/chunklist_w1393127741.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN SPIN
+#EXTVLCOPT:network-caching=1000
+http://edge81.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site
+#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AMC FHD 
+http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34142
+#EXTINF:0 tvg-logo="http://ott.onlineott.tv/logos/1153.png" group-title="FILME",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Epic Drama
+#EXTVLCOPT:network-caching=1000
+http://edge81.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Film_cafe_hu.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Film Cafe 
+http://edge81.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Film_cafe_hu.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Film Cafe 
+#EXTVLCOPT:network-caching=1000
+http://edge81.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/TV1000_4.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Tv 1000 
+http://5.255.90.252:5004/play/a05j
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/TV1000_4.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Tv 1000 
 http://82.76.40.81/digiedge2/smil:tv1000.smil/playlist.m3u8?is=43&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,DS TV🇷🇴
-rtmp://46.249.95.140/live/livestream
-#EXTINF:-1,Look Plus
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist_w450923534_tkd293emF0b2tlbmVuZHRpbWU9MTU4MTIzNTE5MCZ3b3d6YXRva2VuaGFzaD1yQjFKbHdwazBlbW1QclVqN1gzNE9nTUhvRnNpaVpwbmRYb3FhUkVlWnI0PSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE1ODExOTE5OTA=.m3u8
-#EXTINF:-1,EUROSPORT 1 HD UK
-http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8%20%20
-#EXTINF:-1,EUROSPORT 1 HD🇷🇴
-http://82.76.40.81/digiedge2/smil:eurosport.smil/playlist.m3u8?is=31&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: DIGI Sport 1 🇷🇴
+#EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TNT
+#EXTVLCOPT:network-caching=1000
+http://edge81.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TNT RO" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TNTHD.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] TNT 
+http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49876
+#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO
+http://89.38.8.130:39476
+#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO 
+#EXTVLCOPT:network-caching=1000
+http://ch01.spr24.net/22912/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] HBO 
+#EXTVLCOPT:network-caching=1000
+http://dragoniptv.club:8080/live/Kara/Kara/6249.m3u8
+#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] HBO Family
+#EXTVLCOPT:network-caching=1000
+http://dragoniptv.club:8080/live/Kara/Kara/6255.m3u8
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Hbo 2
+#EXTVLCOPT:network-caching=1000
+http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/3009
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR red]# 2[/COLOR] Hbo 2
+#EXTVLCOPT:network-caching=1000
+http://mylatinotv.com:8080/davidALBA2/jf2OjCtIYU/15523
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/HBO3_gradient.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO 3
+http://mylatinotv.com:8080/davidALBA2/jf2OjCtIYU/15522
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/HBO3_gradient.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] HBO 3
+http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49863
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/HBO3_gradient.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO 3
+http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49864
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8G83qZu.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]BO CLASSIC
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]BO TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Bollywood HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://edge81.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 tvg-logo="https://www.infotravelromania.ro/foto%20mic/emisiuni_tv/travel-mix-channel.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Travel Mixt
+http://89.38.8.131:39520
+#EXTINF:-1 tvg-ID="DigiLife.ro" tvg-name="RO: Digi Life" tvg-logo="https://iptvsensation.org/picons/digilife.png" group-title="GENERALE",[COLOR red]Http.[/COLOR][COLOR red]# 1[/COLOR] Digi Life
+http://edge81.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png",[COLOR red]          ***      [/COLOR][COLOR red][B]      SPORT       [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:12346
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 1
+http://telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/DIGI_Sport_1.png", group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Digi Sport 1 
 http://82.76.40.81/digiedge/smil:digisport1.smil/playlist.m3u8?is=1&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: DIGI Sport 2 🇷🇴
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_Sport_2.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 2
+http://82.76.40.81/digiedge/digisport2emq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000&q=mq&s=digisport2&p=browser&pe=site
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_Sport_2.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 2
 http://82.76.40.81/digiedge/digisport2elq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000&q=lq&s=digisport2&p=browser&pe=site
-#EXTINF:-1,RO: DIGI Sport 3 🇷🇴
-http://82.76.40.81/digiedge/smil:digisport3.smil/playlist.m3u8?is=3&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,Digi Sport 4 🇷🇴
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_sport3_hu.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 3
+http://82.76.40.81/digiedge/digisport3emq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000&q=mq&s=digisport3&p=browser&pe=site
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_sport3_hu.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 3
+http://82.76.40.81/digiedge/digisport3elq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000&q=lq&s=digisport3&p=browser&pe=site
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digisport-4.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 4
 http://82.76.40.81/digiedge/digisport4emq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000&q=mq&s=digisport4&p=browser&pe=site
-#EXTINF:-1,ARENA SPORT
-https://sportbox.ws/lba/OTczZmI4ZDdhZjgxNzE2YTVjN2JkYWFmOTIzMGE0YmY=/g3/arena1.m3u8?token=OTczZmI4ZDdhZjgxNzE2YTVjN2JkYWFmOTIzMGE0YmY=&id=OTJiYzE0NmQzYWQwMzI3Mjk3OWJmNDNkOTZhZWNlMDQ=&vip=1581187848&dip=YTkyMTg0MTgxOTU3OThkZjNmNDc2OTJmOTJiNTAzMDM=&pip=MzE0NTlmNzdkMTM5M2M2OTJmMzYzOGYwOGFjZDFlMWI=&hip=ZTEwYWNkNDViMjRiY2E0N2FlNGVkNjdkNzI4ZjEyYmM=
-#EXTINF:-1,Canal 3
-http://194.67.220.30/hls/115.m3u8
-#EXTINF:-1,LOOKSPORT 2 🇷🇴
-http://94.177.136.29:7478/play/a03j
-#EXTINF:-1,LOOKSPORT 3 🇷🇴
-http://94.177.136.29:7478/play/a03k
-#EXTINF:-1,RO: Dolce Sport 1🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34144
-#EXTINF:-1,RO: Eurosport 1🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34146
-#EXTINF:-1,RO: Eurosport 2 🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34147
-#EXTINF:-1,RO: Digi Sport 1 🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34148
-#EXTINF:-1,RO: Digi Sport 2 🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34149
-#EXTINF:-1,RO: Digi Sport 3🇷🇴
-http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/77335
-#EXTINF:-1,RO: Digi Sport 4🇷🇴
-http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/77340
-#EXTINF:-1,RO: Telekom Sport 1🇷🇴
-https://d2.airhdx.com:30443/live/spstreamd1/chunks.m3u8?nimblesessionid=2359625&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIwIDY6NTA6NDMgUE0maGFzaF92YWx1ZT1kOTVZUiszYXU3WTFTN0ZKd0U2aFR3PT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:-1,RO: Telekom Sport 2🇷🇴
-http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/77365
-#EXTINF:-1,RO: Telekom Sport 3🇷🇴
-http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/77333
-#EXTINF:-1,RO: Telekom Sport 4🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34155
-#EXTINF:-1,RO: Telekom Sport 5🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34156
-#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 ACESTREAM-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
-http://test.romania%E2%98%85
-#EXTINF:0,ANTENA 1(ACESTREAM)
-acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea
-#EXTINF:0,ANTENA 1HD(acestream)
-acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182
-#EXTINF:0,PRO TV(ACESTREAM)
-acestream://f06645f552137d04a4e6a18f8cc654e2dfd312b1
-#EXTINF:0,PRIMA TV(ACESTREAM)
-acestream://17c1ac3da033775b6412e678b47832b2d10ef4c2
-#EXTINF:0,KANAL D(ACESTREAM)
-acestream://5583e0b72dfdbdf4d758173896c371aa71693230
-#EXTINF:0,FILM CAFE(ACESTREAM)
-acestream://e42976fa49ceb36c3b8cf16a84542b63d2b8b936
-#EXTINF:0,TV 1000(ACESTREAM
-acestream://d8dd7b7461a13693517e1c591e47be876f1649b3
-#EXTINF:0,PARAMOUNT CHANNEL(ACESTREAM)
-acestream://99a45b3739b0d3ce26af392ad4039256b6fb1741
-#EXTINF:0,AXN(ACESTREAM)
-acestream://ebddf12767655e5d9a859bcfe3d7d78e91f72f10
-#EXTINF:0,AXN BLACK(ACESTREAM)
-acestream://5d1cd83572135124cbcb324a449e1dabc21125b8
-#EXTINF:0,AXN SPIN(ACESTREAM)
-acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760
-#EXTINF:0,AXN WHITE(ACESTREAM)
-acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760
-#EXTINF:0,CINEMAX(ACESTREAM)
-acestream://34b1402557fb7faab2979361c4e9650fa0948724
-#EXTINF:0,CINEMAX 2(ACESTREAM)
-acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3
-#EXTINF:0,FILM BOX(ACESTREAM)
-acestream://d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c
-#EXTINF:0,FILMBOX FAMILY(ACESTREAM)
-acestream://a88f6617aa9c2d706632c7f7832e341dab280a07
-#EXTINF:0,AMC(ACESTREAM)
-acestream://ca2bf89ebd1fbd02e8ec4582310bbcaeaa71dc15
-#EXTINF:0,AMC(ACESTREAM)
-acestream://7e87e9dba371e4272bc4aeaf9f904165aed97e07
-#EXTINF:0,TNT(ACESTREAM)
-acestream://d15a0ddb66690bc018e0b22f6e2eb28e9edb945e
-#EXTINF:0,ACASA GOLD(ACESTREAM)
-acestream://e1fd28f6d90e057980b804de11d04ea537f0d045
-#EXTINF:0,HBO(ACESTREAM)
-acestream://895d6a92042671cc483346dfdd3917bef2458da9
-#EXTINF:0,HBO 2(ACESTREAM)
-acestream://bb814213a7aa8b4de31195daade2dd22258c637d
-#EXTINF:0,HBO3(ACESTREAM)
-acestream://3301c21ee4802d8be5c0ae73f858b28988e1ae86#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
-http://test.romania%E2%98%85
-#EXTINF:5276,TV 1000(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/264997
-#EXTINF:5276,TVR 1(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/148085
-#EXTINF:5276,TVR 2(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/264945
-#EXTINF:5276,REALITATEA TV(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/264952
-#EXTINF:5276,ANTENA 1(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/149257
-#EXTINF:5276,PRO TV(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265414
-#EXTINF:5276,AXN(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265004
-#EXTINF:5276,AXN BLACK(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265005
-#EXTINF:5276,AXN SPIN(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265007
-#EXTINF:5276,PRIMA TV(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/148086
-#EXTINF:5276,PRO 2(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/149256
-#EXTINF:5276,PRO CINEMA(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/148249
-#EXTINF:5276,PRO GOLD(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/253471
-#EXTINF:5276,PRO X(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/264950
-#EXTINF:5276,PARAMOUNR CHANNEL(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/264994
-#EXTINF:5276,TNT(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/264992
-#EXTINF:5276,AMC(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265054
-#EXTINF:5276,BOLLYWOOD TV(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265003
-#EXTINF:5276,BOLLYWOOD CLASIC(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265002
-#EXTINF:5276,CINEMAX(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265011
-#EXTINF:5276,CINEMAX 2(sopcast)🇷🇴
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digisport-4.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 4
+http://82.76.40.81/digiedge/digisport4elq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000&q=lq&s=digisport4&p=browser&pe=site
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digisport-4.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 4
+http://82.76.40.81/digiedge/smil:digisport3.smil/playlist.m3u8?is=3&src=app&t=00000000000000000000000000000000
+#EXTINF:0 tvg-logo="https://evz.ro/uploads/2018-08/sigla-look-sport-tb900.jpg" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]LookSport
+http://alltvplay.ml/hlsjwt/db3fbbccd147d88521b718a429473712c80fb662-2928-0-fol1971-None-860146829-1580279029--rIK1qmd9JTT45mHJCI_YChIaM4iRKR6crPUzz9VPULM/index.m3u8
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/800px-Eurosport_1_HD.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Eurosport 1
+http://82.76.40.81/digiedge2/smil:eurosport.smil/playlist.m3u8?is=31&src=app&t=00000000000000000000000000000000
+#EXTINF:#1 tvg-logo="http://kutuphane.balikesir.edu.tr/img/belgesel.png",[COLOR blue] ***  [/COLOR][COLOR red][B]  DOCUMENTARE [/B][/COLOR][COLOR red] ***[/COLOR]  
+http://0.0.0.0:12345
+#EXTINF:-1 tvg-ID="CBSReality.ro" tvg-name="RO: CBS REALITY" tvg-logo="https://iptvsensation.org/picons/cbsreality.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] CBS REALITY
+http://edge81.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Discovery
+http://82.76.40.81/digiedge2/smil:discovery.smil/playlist.m3u8?is=71&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-ID="NatGeoWildHD.ro" tvg-name="RO: Nat Geo Wild" tvg-logo="https://iptvsensation.org/picons/natgeowild.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Nat Geo Wild
+http://82.76.40.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="RO: National Geographic HD" tvg-logo="https://iptvsensation.org/logo/ro/NatGeo.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] National Geographic HD
+http://82.76.40.81/digiedge2/smil:nationalgeographic.smil/playlist.m3u8?is=19&src=app&t=00000000000000000000000000000000
+#EXTINF:0 tvg-logo="http://stvron.com/canale/512/dtx.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]DTX (Discovery Turbo Xtra)
+http://94.177.136.29:7478/play/a03b
+#EXTINF:-1 tvg-id="" tvg-name="|RO| HISTORY" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/HISTORY.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 1[/COLOR] HISTORY
 #EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265012
-#EXTINF:5276,EPIC DRAMA(sopcast)🇷🇴
+http://edge81.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/history-2-canada.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]History Channel 2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:-1 tvg-ID="Discovery Investigation" tvg-name="RO: Discovery ID" tvg-logo="https://iptvsensation.org/picons/discoveryid.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Discovery ID
 #EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/264995
-#EXTINF:5276,FILM BOX(sopcast)🇷🇴
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|RO| Discovery ID" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/INVESTIGATIONDISCOVERY.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] Discovery ID
+http://94.177.136.29:7478/play/a02y
+#EXTINF:-1 tvg-id="" tvg-name="|RO| ANIMAL PLANET HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANIMALPLANET.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] ANIMAL PLANET 
+http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digianimal.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Digi Animal World
 #EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265025
-#EXTINF:5276,FILM CAFE(sopcast)🇷🇴
+http://edge81.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Explorer.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Viasat Explorer
+http://82.76.40.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=app&t=00000000000000000000000000000000
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_History.png", group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Viasat Nature   
+http://82.76.40.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=app&t=00000000000000000000000000000000
+#EXTINF:0 tvg-logo="https://tvlogo.files.wordpress.com/2010/03/11397-pv_tv.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Fishing and Hunting
 #EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/256238
-#EXTINF:5276,FILM NOW(sopcast)🇷🇴
+http://edge81.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-ID="E! Entertainment" tvg-name="RO: E! Entertainment" tvg-logo="https://iptvsensation.org/picons/eentertainment.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] E! Entertainment
+http://edge81.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 tvg-ID="ViasatHistory.ro" tvg-name="RO: Viasat History" tvg-logo="https://iptvsensation.org/logo/ro/ViasatHistory.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Viasat History
+http://82.76.40.81/digiedge2/smil:viasathistory.smil/playlist.m3u8?is=41&src=app&t=00000000000000000000000000000000
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] BBC EARTH
+http://edge81.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.&t=00000000000000000000000000000000
+#EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      MUZICA    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:12348
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download-1-.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Impact TV
+http://89.36.10.12:8080/
+#EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-DC1wn7qRhoI/VLllUPC-NlI/AAAAAAAAAM4/yGuu40xYGTU/s1600/taraftv.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Taraf TV
+http://5.255.90.252:5004/play/a06w
+#EXTINF:-1 tvg-logo="http://flags.fmcdn.net/data/flags/w580/ro.png" group-title="STIRI",[COLOR green]Http.[/COLOR][COLOR green]# 2[/COLOR]RADIO TRADITIONAL MANELE
+http://manele.radiotraditional.ro:3750/stream 
+#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] U TV
+http://5.255.90.252:5004/play/a084
+#EXTINF:-1 tvg-ID="Etno TV" tvg-name="RO: Etno TV HD" tvg-logo="https://iptvsensation.org/picons/etnohd.png" group-title="MUZICA",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Etno TV
+http://5.255.90.252:5004/play/a073
+#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] U TV
+http://5.255.90.252:5004/play/a067
+#EXTINF:0,■■■■■ HTTP ■■■■■■■,[COLOR red]  [/COLOR][COLOR red][B]**** ADULTII-XXX *** [/B][/COLOR][COLOR red] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265001
-#EXTINF:5276,HBO(sopcast)🇷🇴
+http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JgcUO21.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Super One HD
+http://5.255.90.252:5004/play/a05h
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q8LP7EX.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR] Private HD
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTM3U
+#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]ACTUALIZATA 08.01.2020![/I][/B][/COLOR]
+http://89.136.209.26:1935/l
+#EXTINF:0,■■■■■ SOPCAST-ACESTREAM ■■■■■■■,[COLOR red]  [/COLOR][COLOR red][B] SOPCAST-ACESTREAM [/B][/COLOR][COLOR red] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/264971
-#EXTINF:5276,HBO 2(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265067
-#EXTINF:5276,HBO 3(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265096
-#EXTINF:5276,PARAMOUNR CHANNEL(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/264994
-#EXTINF:5276,COMEDY CENTRAL(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265044
-#EXTINF:5276,NATIONAL GEOGRAPHIC WILD(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265078
-#EXTINF:5276,NATIONAL GEOGRAPHIC(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265077
-#EXTINF:5276,E! ENTERTAINMENT(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265051
-#EXTINF:5276,DISCOVERY SCIENCE(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265082
-#EXTINF:5276,ID DISCOVERY(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265065
-#EXTINF:5276,CSB REALITY(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265047
-#EXTINF:5276,ANIMAL PLANET(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265086
-#EXTINF:5276,VIASAT HISTORY(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265079
-#EXTINF:5276,VIASAT NATURE(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265050
-#EXTINF:5276,VIASAT EXPLORER(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265054
-#EXTINF:5276,FISHING AND HUNTING(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265049
-EXTINF:-1,🇷🇴📻 RADIO-ROMANIA📻🇷🇴
-https://pastebin.com/raw/%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4
-#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴
-https://pastebin.com/raw/%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4
-#EXTINF:-1,[B]Rapsodia Tv Botosani[/B]
-rtmp://rapsodia1.arya.ro/live/rapsodiatv1
-#EXTINF:-1,[B]Radio ZU Video HD[/B]
-https://play.myovn.com/s1/cache/radiozu/chunklist.m3u8
-#EXTINF:-1,[B]ONE BY HD[/B]
-http://rtmp.one.by:1300
-#EXTINF:-1,[B]MTV Music 24[/B]
-http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/index_3500_av-b.m3u8
-#EXTINF:-1,[B]MCM[/B]
-http://ott-cdn.ucom.am/s49/04.m3u8
-#EXTINF:-1,[B]Magic TV[/B]
-http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
-#EXTINF:-1,[B]VH1[/B]
-http://89.38.8.130:39455
-#EXTINF:-1,[B]Alb Music[/B]
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1,[B]RETRO[/B]
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,[B]M2O TV[/B]
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,[B]CMC Music[/B]
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
-#EXTINF:-1,[B]Dee Jay[/B]
-https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,[B]ONE BY HD[/B]
-http://rtmp.one.by:1300
-#EXTINF:-1,[B]Top Latino[/B]
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
-#EXTINF:-1,[B]51 Radio TV[/B]
-http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
-#EXTINF:-1,[B]M2O TV[/B]
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,Antena Satelor📻
-http://stream2.srr.ro:8042
-#EXTINF:-1,RO: Radio Intens📻
-http://live.radiointens.ro:8010
-#EXTINF:-1,Bucuresti FM📻
-http://stream2.srr.ro:8032
-#EXTINF:-1,Radio Gangsta - Manele📻
-http://live.radiogangsta.ro:8800
-#EXTINF:-1,Energy FM📻
-http://relay.181.fm:8800
-#EXTINF:-1,Europa FM📻
-http://astreaming.europafm.ro:8000/europafm_aacp48k
-#EXTINF:-1,Gold FM📻
-http://80.86.106.110:8020/radiogoldfm-32.aac
-#EXTINF:-1,Itsy Bitsy📻
-http://live.itsybitsy.ro:8000/itsybitsy
-#EXTINF:-1,Radio Deea📻
-http://live.radiodeea.ro:8090
-#EXTINF:-1,Radio Impuls📻
-http://live.radio-impuls.ro
-#EXTINF:-1,Radio Liberty Dance📻
-http://asculta.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Manele📻
-http://manele.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Oldies📻
-http://oldies.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Populara📻
-http://populara.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty RO📻
-http://romaneasca.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Slagare📻
-http://slagare.radioliberty.ro:1989
-#EXTINF:-1,Radio Impuls📻
-http://live.radio-impuls.ro
-#EXTINF:-1,Radio Liberty Dance📻
-http://asculta.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Manele📻
-http://manele.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Oldies📻
-http://oldies.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Populara📻
-http://populara.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty RO📻
-http://romaneasca.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Slagare📻
-http://slagare.radioliberty.ro:1989
-#EXTINF:-1,Radio Impuls📻
-http://live.radio-impuls.ro
-#EXTINF:-1,Radio Liberty Dance📻
-http://asculta.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Manele📻
-http://manele.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Oldies📻
-http://oldies.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Populara📻
-http://populara.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty RO📻
-http://romaneasca.radioliberty.ro:1989
-#EXTINF:-1,Radio Liberty Slagare📻
-http://slagare.radioliberty.ro:1989
-#EXTINF:-1,Radio Minisat📻
-http://radio.minisat.ro:8000
-#EXTINF:-1,Radio Minisat📻
-http://radio.minisat.ro:8000
-#EXTINF:-1,Radio Minisat📻
-http://radio.minisat.ro:8000
-#EXTINF:-1,Radio Minisat📻
-http://radio.minisat.ro:8000
-#EXTINF:-1,Radio Minisat📻
-http://radio.minisat.ro:8000
-#EXTINF:-1,Radio Minisat📻
-http://radio.minisat.ro:8000
-#EXTINF:-1,Radio Mynele📻
-http://live.radiomynele.ro:8000
-#EXTINF:-1,Taraf📻
-http://live.radiotaraf.ro:8181
-#EXTINF:-1,Radio Popular📻
-http://mp3.radiopopular.ro:7777
-#EXTINF:-1,TV-ROMANIA
-https://pastebin.com/raw/5aXETiyh
+http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="#**TV-Romania** #" tvg-logo="http://pici.life/RO/romania.png" group-title="Romania",#STEFAN-CEZAR #
+http://iptv.rent:8080/z57v4cnp7k/7cxiblicoh/5334
+#EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue] *** [/COLOR][COLOR yellow][B]  [/B][/COLOR][COLOR red] ***[/COLOR]  
+http://0.0.0.0:123410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] TVR 1
+plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=AceStream
+#EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR lime]Sopcast.[/COLOR][COLOR lime]# 1[/COLOR] Tvr 1
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265390&name=SopProg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] TVR 2
+plugin://program.plexus/?mode=1&url=acestream://b2d90b86ca815fbefca68efb9b07749c92e07519&name=AceStream 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR deeppink]Sopcast.[/COLOR][COLOR deeppink]# 1[/COLOR] TVR 2
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR brown]Sopcast.[/COLOR][COLOR brown]# 1[/COLOR] Romania Tv
+plugin://program.plexus/?mode=2&url=//sop://broker.sopcast.com:3912/148258&name=SopProg
+#EXTINF:-1 tvg-ID="RealitateaTV.ro" tvg-name="RO: Realitatea Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/realitatea_tv.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Realitatea Tv
+plugin://program.plexus/?mode=1&url=acestream://a01f35da3e7230ed1e68e53600eb7be9f6df9f06&name=AceStream
+#EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR deeppink]Sopcast.[/COLOR][COLOR deeppink]# 1[/COLOR] Realitatea Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264952&name=SopProg
+#EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Realitatea Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253036&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download4.png",group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR]B1 TV 
+plugin://program.plexus/?mode=1&url=acestream://c962aad45c2182ad0416ee87bd72bde8be238ee3&name=AceStream
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download4.png",group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]B1 TV 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148087&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download4.png",group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR]B1 TV 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264954&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/national_24_plus.png",group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]National 24 + 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264949&name=SopProg
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/92/Logo-acasa-gold-high-rez.png/revision/latest?cb=20130310160556" group-title="FILME",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Acasa Gold
+
+plugin://program.plexus/?mode=1&url=acestream://e1fd28f6d90e057980b804de11d04ea537f0d045&name=AceStream
+
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/92/Logo-acasa-gold-high-rez.png/revision/latest?cb=20130310160556" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Acasa Gold
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253471&name=SopProg 
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Acasa_TV.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Acasa TV
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265000&name=Acasa
+
+
+
+#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Antena 1 
+plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream
+#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR blue]# 1[/COLOR] Antena 1 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=SopProg
+#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR blue]# 1[/COLOR] Antena 1 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264961&name=SopProg
+#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Antena 1 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264941&name=SopProg
+
+
+#EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] Antena 3 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148084&name=SopProg
+#EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Antena 3 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264951&name=SopProg
+#EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Antena Stars
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148255&name=SopProg
+#EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Antena Stars
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148084&name=SopProg
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 2[/COLOR] Pro 2 
+plugin://program.plexus/?mode=1&url=acestream://725d732e9997a45bf04eb85ba03fbfde9e4cd34d&name=AceStream
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro 2 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149256&name=SopProg
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Pro 2 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265000&name=SopProg
+
+#EXTINF:-1 tvg-id="" tvg-name="Pro Cinema" tvg-logo="https://iptv.live/images/logo/channel/smalls/78119e8e985dcd1890fd7ef82280a02b.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Pro Cinema
+
+plugin://program.plexus/?mode=1&url=acestream://06c01628d371f9b5bebcb50d7c493cda2203e268&name=AceStream
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7d/Pro_Cinema_Logo.jpg/revision/latest?cb=20130329130700" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro Cinema
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148249&name=SopProg
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7d/Pro_Cinema_Logo.jpg/revision/latest?cb=20130329130700" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Pro Cinema
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264999&name=SopProg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Pro TV News
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
+
+#EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Pro TV
+plugin://program.plexus/?mode=1&url=acestream://9ef9c84096f336d1e70851e5c185ff2260c1f69d&name=AceStream
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Pro Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265414&name=SopProg
+#EXTINF:#1  tvg-logo="https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro TV International
+
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264957&name=SopProg
+
+#EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Prima Tv 
+
+plugin://program.plexus/?mode=1&url=acestream://44d34962c09016d68973c3b6c1a1fcb15e757876&name=AceStream 
+#EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Prima Tv 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264944&name=SopProg
+#EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Prima Tv 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148086&name=SopProg
+#EXTINF:#1 tvg-logo="http://www.nationaltv.ro/assets/img/logo-ntv.png" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]#S1[/COLOR] National Tv 
+plugin://program.plexus/?mode=1&url=acestream://bd0a56e5d67ce43a3deb6782a2d4f3533cf5a2c4&name=AceStream
+#EXTINF:#1 tvg-logo="http://www.nationaltv.ro/assets/img/logo-ntv.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]#S1[/COLOR] National Tv 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264984&name=SopProg
+
+
+
+
+#EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Comedy Central
+
+plugin://program.plexus/?mode=1&url=acestream://fc0eef541255499ffe04d25414ca5f0e66c0284b&name=AceStream
+#EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]#1[/COLOR] Comedy Central 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265044&name=SopProg
+
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Kanal D
+plugin://program.plexus/?mode=1&url=acestream://b67ee5565eb9fb31d7222ab2815bed3c2f1fd1fb&name=AceStream
+#EXTINF:#1  tvg-logo="http://www.logoeps.net/wp-content/uploads/2014/02/kanal_d.jpg" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Kanal D 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149258&name=SopProg
+#EXTINF:#1  tvg-logo="http://www.logoeps.net/wp-content/uploads/2014/02/kanal_d.jpg" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Kanal D 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264942&name=SopProg
+
+
+#EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AXN
+plugin://program.plexus/?mode=1&url=acestream://ebddf12767655e5d9a859bcfe3d7d78e91f72f10&name=AceStream
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Axn
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265004&name=SopProg
+
+
+#EXTINF:-1 tvg-ID="AXN Black" tvg-name="RO: AXN Black" tvg-logo="https://iptvsensation.org/picons/axnblack.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AXN Black
+
+plugin://program.plexus/?mode=1&url=acestream://f8ad0688de8baa9246fd2ac72b7b80e53c915998&name=AceStream
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/e/e6/AXN_Black_logo.png/revision/20140311161504" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Axn Black
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265005&name=SopProg
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Axn White
+plugin://program.plexus/?mode=1&url=acestream://67205d7dae8ed607a1282c1081175afbfb8d2dc8&name=AceStream
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Axn White
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/265006&name=SopProg
+
+#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] AXN SPIN
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265007&name=SopProg
+
+#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 
+
+plugin://program.plexus/?mode=1&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9&name=AceStream
+#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] HBO 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/259497&name=SopProg
+#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] HBO 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264971&name=SopProg
+
+
+#EXTINF:-1 tvg-ID="HBO 2" tvg-name="RO: HBO 2" tvg-logo="https://iptvsensation.org/picons/hbo2.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 2
+
+plugin://program.plexus/?mode=1&url=acestream://bb814213a7aa8b4de31195daade2dd22258c637d&name=AceStream
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Hbo 2
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265067&name=SopProg
+
+#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 3 
+
+plugin://program.plexus/?mode=1&url=acestream://3301c21ee4802d8be5c0ae73f858b28988e1ae86&name=AceStream
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Hbo 3
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265096&name=SopProg
+#EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png/revision/latest?cb=20101001090312" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Diva Universal
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265083&name=SopProg
+
+#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AMC FHD
+
+plugin://program.plexus/?mode=1&url=acestream://ca2bf89ebd1fbd02e8ec4582310bbcaeaa71dc15&name=AceStream
+#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] AMC FHD 
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264990&name=SopProg
+
+#EXTINF:0 tvg-logo="http://ott.onlineott.tv/logos/1153.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Epic Drama
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264995&name=SopProg
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Filmcafe
+
+plugin://program.plexus/?mode=1&url=acestream://e42976fa49ceb36c3b8cf16a84542b63d2b8b936&name=AceStream
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Filmcafe
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256238&name=SopProg
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Filmcafe
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265018&name=SopProg
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] FILMBOX PREMIUM
+
+plugin://program.plexus/?mode=1&url=acestream://d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c&name=AceStream
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] FILMBOX PREMIUM
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/265009&name=SopProg
+
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX EXTRA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXEXTRA.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] FILMBOX FAMILY
+
+plugin://program.plexus/?mode=1&url=acestream://a88f6617aa9c2d706632c7f7832e341dab280a07&name=AceStream
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX EXTRA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXEXTRA.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] FILMBOX FAMILY
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/265010&name=SopProg
+
+#EXTINF:0 tvg-logo="https://i2.wp.com/mortu.eu/wp-content/uploads/2018/06/logo-film-now-Digi-film.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] Film Now
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265001&name=SopProg
+#EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="RO: Paramount Channel" tvg-logo="https://iptvsensation.org/logo/ro/ParamountChannel.ro.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Paramount Channel
+plugin://program.plexus/?mode=1&url=acestream://99a45b3739b0d3ce26af392ad4039256b6fb1741&name=AceStream
+#EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="RO: Paramount Channel" tvg-logo="https://iptvsensation.org/logo/ro/ParamountChannel.ro.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Paramount Channel
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264994&name=SopProg
+#EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] TNT
+plugin://program.plexus/?mode=1&url=acestream://d15a0ddb66690bc018e0b22f6e2eb28e9edb945e&name=AceStream
+#EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] TNT
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264992&name=SopProg
+#EXTINF:-1 tvg-id="" tvg-name="|RO| BOLLYWOOD TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/BOLLYWOOD.png" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] BOLLYWOOD TV
+
+plugin://program.plexus/?mode=1&url=acestream://df38332d13f6f451c9d74793e1e92706a42df55c&name=AceStream
+#EXTINF:-1 tvg-id="" tvg-name="|RO| BOLLYWOOD TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/BOLLYWOOD.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] BOLLYWOOD TV
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265002&name=SopProg
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png"group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]Bollywood TV 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265003&name=SopProg
+#EXTINF:-1 tvg-id="" tvg-name="|RO| BOLLYWOOD TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/BOLLYWOOD.png" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] BOLLYWOOD CLASIC
+
+plugin://program.plexus/?mode=1&url=acestream://2934387cbfa25aa280ef1cc9a85fadc87f4d9aee&name=AceStream
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png"group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 2[/COLOR]Bollywood TV 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265002&name=SopProg
+
+#EXTINF:-1 tvg-ID="TLC" tvg-name="RO: TLC" tvg-logo="https://iptvsensation.org/picons/tlc.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] TLC 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148256&name=SopProg
+#EXTINF:-1 tvg-ID="TLC" tvg-name="RO: TLC" tvg-logo="https://iptvsensation.org/picons/tlc.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] TLC 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265076&name=SopProg
+
+#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Cinemax 2
+plugin://program.plexus/?mode=1&url=acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3&name=AceStream
+#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Cinemax 2
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265012&name=SopProg
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Cinemax
+plugin://program.plexus/?mode=1&url=acestream://34b1402557fb7faab2979361c4e9650fa0948724&name=AceStream
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Cinemax
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265011&name=SopProg
+
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/25/TV1000_logo_2009.png/revision/latest?cb=20101226153307" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Tv1000
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264997&name=SopProg
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Filmbox
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265009&name=SopProg
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/filmbox-family.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Filmbox Family
+
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265010&name=SopProg
+
+
+#EXTINF:-1 tvg-ID="CBSReality.ro" tvg-name="RO: CBS REALITY" tvg-logo="https://iptvsensation.org/picons/cbsreality.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] CBS REALITY
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265047&name=SopProg
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] BBC EARTH
+
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265057&name=SopProg 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR]BBC EARTH
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148257&name=SopProg
+
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] History Channel
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265074&name=SopProg
+
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="RO: National Geographic HD" tvg-logo="https://iptvsensation.org/logo/ro/NatGeo.ro.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] National Geographic(acestream)
+plugin://program.plexus/?mode=1&url=acestream://c0ddde706358afafd809e3858b069132bca3a913&name=AceStream
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="RO: National Geographic HD" tvg-logo="https://iptvsensation.org/logo/ro/NatGeo.ro.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] National Geographic 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265077&name=SopProg
+
+#EXTINF:-1 tvg-ID="NatGeoWildHD.ro" tvg-name="RO: Nat Geo Wild" tvg-logo="https://iptvsensation.org/picons/natgeowild.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Nat Geo Wild
+plugin://program.plexus/?mode=1&url=acestream://23a63de6bcde494d621a07f4fbebf774995b19a9&name=AceStream
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Nat Geo Wild
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265078&name=SopProg
+#EXTINF:-1 tvg-ID="AnimalPlanet.ro" tvg-name="RO: Animal Planet HD" tvg-logo="https://iptvsensation.org/picons/animalplanethd.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Animal Planet HD
+
+plugin://program.plexus/?mode=1&url=acestream://b856f8416b23d7369a3fe55565175ef32fa60f77&name=AceStream
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ff/28/a0/ff28a096ed24ebd4197f5672392bfab1.png" group-title="GENERALE",[COLOR yellow]ACESTREAM.[/COLOR][COLOR yellow]# 1[/COLOR] ANIMAL PLANET
+plugin://program.plexus/?mode=1&url=acestream://b856f8416b23d7369a3fe55565175ef32fa60f77&name=AceStream
+#EXTINF:-1 tvg-ID="AnimalPlanet.ro" tvg-name="RO: Animal Planet HD" tvg-logo="https://iptvsensation.org/picons/animalplanethd.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Animal Planet HD 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265086&name=SopProg
+
+
+#EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Discovery
+
+plugin://program.plexus/?mode=1&url=acestream://925a1331e53377c4e5db2812eaf6b7ed831dc89d&name=AceStream
+#EXTINF:#1  tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Discovery Channel
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265080&name=SopProg
+#EXTINF:#1  tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="DOCUMENTARE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Discovery Channel
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256241&name=SopProg
+
+
+
+#EXTINF:0 tvg-logo="http://stvron.com/canale/512/dtx.png"group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR]DTX (Discovery Turbo Xtra
+
+plugin://program.plexus/?mode=1&url=acestream://6a2a1c7379043a4a5ebab950a54d467e714ce16c&name=AceStream 
+#EXTINF:0 tvg-logo="http://stvron.com/canale/512/dtx.png"group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]DTX (Discovery Turbo Xtra)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264946&name=SopProg
+
+
+
+#EXTINF:-1 tvg-ID="Discovery Investigation" tvg-name="RO: Discovery ID" tvg-logo="https://iptvsensation.org/picons/discoveryid.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Discovery ID
+
+plugin://program.plexus/?mode=1&url=acestream://9709802e6428d681118026807c7f445410a6afd2&name=AceStream
+#EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/a/ac/Investigation_Discovery.png/revision/latest?cb=20140409022854&path-prefix=es" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Discovery Id
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265065&name=SopProg
+#EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/a/ac/Investigation_Discovery.png/revision/latest?cb=20140409022854&path-prefix=es" group-title="DOCUMENTARE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Discovery Id
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265053&name=SopProg
+#EXTINF:-1 tvg-ID="DiscoveryScienceHD.ro" tvg-name="RO: Discovery Science" tvg-logo="https://iptvsensation.org/picons/discoveryscience.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Discovery Science 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265082&name=SopProg
+
+#EXTINF:-1 tvg-ID="ViasatHistory.ro" tvg-name="RO: Viasat History" tvg-logo="https://iptvsensation.org/logo/ro/ViasatHistory.ro.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Viasat History
+plugin://program.plexus/?mode=1&url=acestream://ba6727f955e541f7f83555bfc04e1c798a505941&name=AceStream
+#EXTINF:-1 tvg-ID="ViasatHistory.ro" tvg-name="RO: Viasat History" tvg-logo="https://iptvsensation.org/logo/ro/ViasatHistory.ro.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Viasat History 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265079&name=SopProg
+
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Nature.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Viasat Nature
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265050&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Nature.png" group-title="DOCUMENTARE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR]Viasat Nature
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149267&name=SopProg
+
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Explorer.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Viasat Explorer
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265054&name=SopProg
+#EXTINF:0 tvg-logo="http://static.est.hu/kepek/328/640/328186_640_davinci.jpg" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Da Vinci Kids
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265052&name=SopProg
+
+#EXTINF:0 tvg-logo="https://tvlogo.files.wordpress.com/2010/03/11397-pv_tv.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Fishing and Hunting
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265049&name=SopProg
+
+#EXTINF:-1 tvg-ID="E! Entertainment" tvg-name="RO: E! Entertainment" tvg-logo="https://iptvsensation.org/picons/eentertainment.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] E! Entertainment 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265051&name=SopProg
+
+#EXTINF:-1 tvg-ID="Travel Channel" tvg-name="RO: Travel Channel" tvg-logo="https://iptvsensation.org/logo/ro/TravelChannel.ro.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Travel Channel
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148885&name=SopProg
+
+
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_sport3_hu.png" group-title="SPORT",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]Digi Sport 3
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265415&name=SopProg
+#EXTINF:#1  tvg-logo="http://oklivetv.com/wp-content/uploads/media/a269f18cae49989792ef2d8e873b18db.jpeg" group-title="SPORT",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Digi Sport 4  
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265416&name=SopProg
+#EXTINF:-1 tvg-logo="http://static.manutv.net/canale/mari/look-sport.png" group-title="SPORT",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]Look Sport
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/265099&name=SopProg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iDDYzO5.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Pro X
+
+plugin://program.plexus/?mode=1&url=acestream://40209e26a80c381bbcdcfe71712d31a31d9b0061&name=AceStream
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="SPORT",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]Pro X
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264950&name=SopProg
+
+#EXTINF:#1  tvg-logo="https://lh5.googleusercontent.com/-e393ZEo6prI/UgWF2uAJV7I/AAAAAAAABOE/O46JvRFvjus/h250/eurosport+2+live.png" group-title="SPORT",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] Eurosport 2
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264986&name=SopProg
+
+#EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      MUZICA    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:12348
+#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] U TV
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264978&name=SopProg
+#EXTINF:-1 tvg-ID="Happy Channel" tvg-name="RO: Happy Channel HDTel" tvg-logo="https://iptvsensation.org/logo/ro/HappyChannel.ro.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Happy Channel HD
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264969&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/logo_400x400.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Kiss TV
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264979&name=SopProg
+#EXTINF:-1 tvg-ID="Etno TV" tvg-name="RO: Etno TV HD" tvg-logo="https://iptvsensation.org/picons/etnohd.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Etno TV
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264976&name=SopProg
+
+#EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-DC1wn7qRhoI/VLllUPC-NlI/AAAAAAAAAM4/yGuu40xYGTU/s1600/taraftv.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Taraf TV
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264978&name=SopProg
+#EXTINF:#1 tvg-logo="http://www.invictory.com/public/pictures/news/16/15509/l3457692703c1bb81e85873494e8182651302701031.jpg" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Impact TV
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/108790&name=SopProg
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/hora_tv1.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Hora TV 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265061&name=SopProg
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/favorit_tv_ro.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Favorit Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264977&name=SopProg
+#EXTINF:-1 tvg-id="" tvg-name="####▆ ▇ █ DESENE-ANIMATE █ ▇ ▆####" tvg-logo="http://icons.iconarchive.com/icons/softskin/series-folder/256/Folder-TV-Disney-icon.png" group-title="ROMANIA",▇ DESENE-ANIMATE █ 
+
+http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
+#EXTINF:-1 tvg-ID="BabyTV.uk" tvg-name="UK: Baby TV" tvg-logo="http://iptvsensation.org/picons/babytv.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Baby TV
+
+plugin://program.plexus/?mode=1&url=acestream://14ba9380ff2ae82dc9e599b5eaff24cc1531e200&name=AceStream
+#EXTINF:-1 tvg-id="Minimax" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Minimax" tvg-logo="http://nextgen-iptv.com/logo/Minimax_SRB.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Minimax
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265035&name=SopProg
+#EXTINF:-1 tvg-ID="" tvg-name="RO: Cartoon Network" tvg-logo="https://iptvsensation.org/logo/ro/CartoonNetwork.ro.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Cartoon Network 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265032&name=SopProg
+#EXTINF:-1 tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/nickelodeon_logo_a_l.jpg" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Nickelodeon
+
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265041&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Megamax.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] MegaMax
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265036&name=SopProg
+#EXTINF:-1 tvg-ID="DisneyJunior.ro" tvg-name="RO: Disney Junior" tvg-logo="https://iptvsensation.org/picons/disneyjunior.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Disney Junior
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265034&name=SopProg
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="RO: Boomerang" tvg-logo="https://iptvsensation.org/picons/boomerang.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Boomerang 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265031&name=SopProg
