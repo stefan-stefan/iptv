@@ -260,8 +260,21 @@ acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3
 #EXTINF:0,FILM BOX(ACESTREAM)
 acestream://d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c
 #EXTINF:0,FILMBOX FAMILY(ACESTREAM)
-acestream://a88f6617aa9c2d706632c7f7832e341dab280a07acestream://5583e0b72dfdbdf4d758173896c371aa71693230
-#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
+acestream://a88f6617aa9c2d706632c7f7832e341dab280a07
+#EXTINF:0,AMC(ACESTREAM)
+acestream://ca2bf89ebd1fbd02e8ec4582310bbcaeaa71dc15
+#EXTINF:0,AMC(ACESTREAM)
+acestream://7e87e9dba371e4272bc4aeaf9f904165aed97e07
+#EXTINF:0,TNT(ACESTREAM)
+acestream://d15a0ddb66690bc018e0b22f6e2eb28e9edb945e
+#EXTINF:0,ACASA GOLD(ACESTREAM)
+acestream://e1fd28f6d90e057980b804de11d04ea537f0d045
+#EXTINF:0,HBO(ACESTREAM)
+acestream://895d6a92042671cc483346dfdd3917bef2458da9
+#EXTINF:0,HBO 2(ACESTREAM)
+acestream://bb814213a7aa8b4de31195daade2dd22258c637d
+#EXTINF:0,HBO3(ACESTREAM)
+acestream://3301c21ee4802d8be5c0ae73f858b28988e1ae86#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
 http://test.romania%E2%98%85
 #EXTINF:5276,TV 1000(sopcast)🇷🇴
 sop://broker.sopcast.com:3912/264997
