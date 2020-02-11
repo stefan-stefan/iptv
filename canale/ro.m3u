@@ -282,7 +282,7 @@ acestream://895d6a92042671cc483346dfdd3917bef2458da9
 acestream://bb814213a7aa8b4de31195daade2dd22258c637d
 #EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 3 
 acestream://3301c21ee4802d8be5c0ae73f858b28988e1ae86
-#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 ACESTREAM-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
+#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
 http://test.romania%E2%98%85
 #EXTINF:5276,TV 1000(sopcast)🇷🇴
 sop://broker.sopcast.com:3912/264997
