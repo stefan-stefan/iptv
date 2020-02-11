@@ -227,6 +227,18 @@ http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/77333
 http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34155
 #EXTINF:-1,RO: Telekom Sport 5🇷🇴
 http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34156
+#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 ACESTREAM-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
+http://test.romania%E2%98%85
+#EXTINF:0,ANTENA 1(ACESTREAM)
+acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea
+#EXTINF:0,ANTENA 1HD(acestream)
+acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182
+#EXTINF:0,PRO TV(ACESTREAM)
+acestream://f06645f552137d04a4e6a18f8cc654e2dfd312b1
+#EXTINF:0,PRIMA TV(ACESTREAM)
+acestream://17c1ac3da033775b6412e678b47832b2d10ef4c2
+#EXTINF:0,KANAL D(ACESTREAM)
+acestream://5583e0b72dfdbdf4d758173896c371aa71693230
 #EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
 http://test.romania%E2%98%85
 #EXTINF:5276,TV 1000(sopcast)🇷🇴
