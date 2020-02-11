@@ -284,10 +284,10 @@ acestream://895d6a92042671cc483346dfdd3917bef2458da9
 acestream://bb814213a7aa8b4de31195daade2dd22258c637d
 #EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 3 
 acestream://3301c21ee4802d8be5c0ae73f858b28988e1ae86
+#EXTINF:#1 tvg-logo="http://kutuphane.balikesir.edu.tr/img/belgesel.png",[COLOR blue] ***  [/COLOR][COLOR red][B]  DOCUMENTARE [/B][/COLOR][COLOR red] ***[/COLOR]  
+http://0.0.0.0:12345
 #EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="DOCUMENTARE",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] History Channel
 acestream://53934766c05e71adc277d7fbc310f24abda2dd11
-#EXTINF:#1  tvg-logo="https://lh5.googleusercontent.com/-e393ZEo6prI/UgWF2uAJV7I/AAAAAAAABOE/O46JvRFvjus/h250/eurosport+2+live.png" group-title="SPORT",[COLOR orange]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Eurosport 2
-acestream://89122a1bb3fab471ce54ba405e28c2efa592fffe
 #EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Discovery
 acestream://925a1331e53377c4e5db2812eaf6b7ed831dc89d
 #EXTINF:-1 tvg-ID="NatGeoWildHD.ro" tvg-name="RO: Nat Geo Wild" tvg-logo="https://iptvsensation.org/picons/natgeowild.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Nat Geo Wild
