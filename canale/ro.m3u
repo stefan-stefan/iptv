@@ -246,9 +246,9 @@ acestream://f06645f552137d04a4e6a18f8cc654e2dfd312b1
 acestream://17c1ac3da033775b6412e678b47832b2d10ef4c2
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Kanal D
 acestream://5583e0b72dfdbdf4d758173896c371aa71693230
-#EXTINF:0,FILM CAFE(ACESTREAM)
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Film_cafe_hu.png" group-title="GENERALE",[COLOR yellow]Acestream.[/COLOR][COLOR yellow]# 1[/COLOR]Film Cafe 
 acestream://e42976fa49ceb36c3b8cf16a84542b63d2b8b936
-#EXTINF:0,TV 1000(ACESTREAM
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/TV1000_4.png" group-title="GENERALE",[COLOR yellow]Acestream.[/COLOR][COLOR yellow]# 1[/COLOR]Tv 1000 
 acestream://d8dd7b7461a13693517e1c591e47be876f1649b3
 #EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="RO: Paramount Channel" tvg-logo="https://iptvsensation.org/logo/ro/ParamountChannel.ro.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Paramount Channel
 acestream://99a45b3739b0d3ce26af392ad4039256b6fb1741
@@ -264,6 +264,8 @@ acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760
 acestream://34b1402557fb7faab2979361c4e9650fa0948724
 #EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Cinemax 2
 acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] FILMBOX PREMIUM
+acestream://d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png" group-title="FILME",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] Filmbox
 acestream://d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/filmbox-family.png" group-title="FILME",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR]Filmbox Family
@@ -282,7 +284,22 @@ acestream://895d6a92042671cc483346dfdd3917bef2458da9
 acestream://bb814213a7aa8b4de31195daade2dd22258c637d
 #EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 3 
 acestream://3301c21ee4802d8be5c0ae73f858b28988e1ae86
-#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="DOCUMENTARE",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] History Channel
+acestream://53934766c05e71adc277d7fbc310f24abda2dd11
+#EXTINF:#1  tvg-logo="https://lh5.googleusercontent.com/-e393ZEo6prI/UgWF2uAJV7I/AAAAAAAABOE/O46JvRFvjus/h250/eurosport+2+live.png" group-title="SPORT",[COLOR orange]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Eurosport 2
+acestream://89122a1bb3fab471ce54ba405e28c2efa592fffe
+#EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Discovery
+acestream://925a1331e53377c4e5db2812eaf6b7ed831dc89d
+#EXTINF:-1 tvg-ID="NatGeoWildHD.ro" tvg-name="RO: Nat Geo Wild" tvg-logo="https://iptvsensation.org/picons/natgeowild.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Nat Geo Wild
+acestream://23a63de6bcde494d621a07f4fbebf774995b19a9
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="RO: National Geographic HD" tvg-logo="https://iptvsensation.org/logo/ro/NatGeo.ro.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] National Geographic
+acestream://c0ddde706358afafd809e3858b069132bca3a913
+#EXTINF:-1 tvg-ID="Discovery Investigation" tvg-name="RO: Discovery ID" tvg-logo="https://iptvsensation.org/picons/discoveryid.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Discovery ID
+acestream://9709802e6428d681118026807c7f445410a6afd2
+#EXTINF:-1 tvg-ID="DiscoveryScienceHD.ro" tvg-name="RO: Discovery Science" tvg-logo="https://iptvsensation.org/picons/discoveryscience.png" group-title="DOCUMENTARE",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] Discovery Science 
+acestream://8db30f7946f550cb9b32632fc6c02ce960f241ca
+#EXTINF:-1 tvg-ID="Travel Channel" tvg-name="RO: Travel Channel" tvg-logo="https://iptvsensation.org/logo/ro/TravelChannel.ro.png" group-title="DOCUMENTARE",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] Travel Channel
+acestream://712330ea8bb35c84bbae7c7bdbd578cf267681c5#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
 http://test.romania%E2%98%85
 #EXTINF:5276,TV 1000(sopcast)🇷🇴
 sop://broker.sopcast.com:3912/264997
