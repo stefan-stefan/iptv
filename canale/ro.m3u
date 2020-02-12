@@ -370,8 +370,10 @@ plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264995&name=SopProg
 sop://broker.sopcast.com:3912/264995
 #EXTINF:5276,FILM BOX(sopcast)🇷🇴
 sop://broker.sopcast.com:3912/265025
-#EXTINF:5276,FILM CAFE(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/256238
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Filmcafe
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256238&name=SopProg
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Filmcafe
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265018&name=SopProg
 #EXTINF:5276,FILM NOW(sopcast)🇷🇴
 #EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/265001
