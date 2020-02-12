@@ -46,8 +46,6 @@ http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
 http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] B1🇷🇴
 http://193.228.153.231:4242/bysid/70
-#EXTINF:-1 tvg-id="B1 Tv  " tvg-name="B1 Tv  " tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/B1TV-1-.png/revision/latest?cb=20150801160913" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 2[/COLOR] B1 Tv🇷🇴 
-http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49856
 #EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR brown]Http.[/COLOR][COLOR brown]# 1[/COLOR] Romania Tv
 http://193.228.153.231:4243/bysid/125
 #EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 3🇷🇴 
@@ -56,8 +54,6 @@ http://193.228.153.231:4240/bysid/120
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 1🇷🇴
 http://193.228.153.231:4240/bysid/40
-#EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 3🇷🇴 
-http://193.228.153.231:4240/bysid/120
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Kanal D🇷🇴
 http://193.228.153.231:4240/bysid/50
 #EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Prima TV🇷🇴
@@ -75,12 +71,8 @@ https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
 https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Cinema
 https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Cinema
-http://193.228.153.231:4241/bysid/340
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Paramount Channel
 http://tv-he.orange.ro/shls/LIVE$paramountchannel/10.m3u8/Level%282306867%29?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Paramount Channel
-http://alltvplay.ml/hlsjwt/d2476adab6814484d1858fe1abd4548b927ae939-2345-0-fol1971-None-860146829-1580278877--HfYuwjFAtWyetJnBV8IXgaTGVC7-ALr35Acuyh9qMV4/index.m3u8
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax
 http://alltvplay.ml/hlsjwt/162a92430958d8100bd732ca0ee8e17e8be8c0dc-2358-0-fol1971-None-860146829-1580278791--qzKWCkrtXYFGYy55V_vdk9d8inv1tJebkWmSMnF1SM4/index.m3u8
 #EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax 2
@@ -108,36 +100,19 @@ http://edge81.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online
 http://edge81.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/TV1000_4.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Tv 1000 
 http://5.255.90.252:5004/play/a05j
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/TV1000_4.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Tv 1000 
-http://82.76.40.81/digiedge2/smil:tv1000.smil/playlist.m3u8?is=43&src=app&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TNT
 #EXTVLCOPT:network-caching=1000
 http://edge81.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-id="" tvg-name="|RO| TNT RO" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TNTHD.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] TNT 
-http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49876
 #EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO
 http://89.38.8.130:39476
-#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO 
-#EXTVLCOPT:network-caching=1000
-http://ch01.spr24.net/22912/mpegts?token=qEpFWQ3Hys7242
-#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] HBO 
-#EXTVLCOPT:network-caching=1000
-http://dragoniptv.club:8080/live/Kara/Kara/6249.m3u8
 #EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] HBO Family
 #EXTVLCOPT:network-caching=1000
 http://dragoniptv.club:8080/live/Kara/Kara/6255.m3u8
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Hbo 2
 #EXTVLCOPT:network-caching=1000
 http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/3009
-#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR red]# 2[/COLOR] Hbo 2
-#EXTVLCOPT:network-caching=1000
-http://mylatinotv.com:8080/davidALBA2/jf2OjCtIYU/15523
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/HBO3_gradient.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO 3
 http://mylatinotv.com:8080/davidALBA2/jf2OjCtIYU/15522
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/HBO3_gradient.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] HBO 3
-http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49863
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/HBO3_gradient.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO 3
-http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49864
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8G83qZu.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]BO CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]BO TV
