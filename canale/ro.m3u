@@ -101,7 +101,6 @@ http://edge81.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&s
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/TV1000_4.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Tv 1000 
 http://5.255.90.252:5004/play/a05j
 #EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TNT
-#EXTVLCOPT:network-caching=1000
 http://edge81.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO
 http://89.38.8.130:39476
