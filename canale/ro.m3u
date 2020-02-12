@@ -302,24 +302,24 @@ acestream://9709802e6428d681118026807c7f445410a6afd2
 acestream://8db30f7946f550cb9b32632fc6c02ce960f241ca
 #EXTINF:-1 tvg-ID="Travel Channel" tvg-name="RO: Travel Channel" tvg-logo="https://iptvsensation.org/logo/ro/TravelChannel.ro.png" group-title="DOCUMENTARE",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] Travel Channel
 acestream://712330ea8bb35c84bbae7c7bdbd578cf267681c5
+#EXTINF:0 tvg-logo="http://stvron.com/canale/512/dtx.png" group-title="GENERALE",[COLOR yellow]Acestream.[/COLOR][COLOR yellow]# 1[/COLOR]DTX (Discovery Turbo Xtra)
+acestream://6a2a1c7379043a4a5ebab950a54d467e714ce16c
 #EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png",[COLOR red]          ***      [/COLOR][COLOR red][B]      SPORT       [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:12346
 #EXTINF:#1  tvg-logo="https://lh5.googleusercontent.com/-e393ZEo6prI/UgWF2uAJV7I/AAAAAAAABOE/O46JvRFvjus/h250/eurosport+2+live.png" group-title="SPORT",[COLOR orange]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Eurosport 2
 acestream://89122a1bb3fab471ce54ba405e28c2efa592fffe
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 1
 acestream://181fe99618ba1d7ace7ceebed9318391f358b037
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 2
 acestream://79efe2b3bf81354cae62c8fcd2b6956ec66caab0
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 3
 acestream://cc4e1b96f65250a59a6bef1e9814bce6370a136a
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 4
 acestream://4c4116749607daf31bc19f20fdcf0135505ad3af
 #EXTINF:0 tvg-logo="https://evz.ro/uploads/2018-08/sigla-look-sport-tb900.jpg" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]LookSport
 acestream://8887852b7465078a0f3c3c4e8843fc230394ec6b
 #EXTINF:-1 tvg-logo="http://static.manutv.net/canale/mari/look-sport.png" group-title="SPORT",[COLOR orange]Acestream.[/COLOR][COLOR red]# 1[/COLOR]Look Sport
 acestream://fd4a0e91fbaf49acb8708b7f884a0ecb4c3effde
-#EXTINF:0 tvg-logo="http://stvron.com/canale/512/dtx.png" group-title="GENERALE",[COLOR yellow]Acestream.[/COLOR][COLOR yellow]# 1[/COLOR]DTX (Discovery Turbo Xtra)
-acestream://6a2a1c7379043a4a5ebab950a54d467e714ce16c
 #EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴
 http://test.romania%E2%98%85
 #EXTINF:5276,TV 1000(sopcast)🇷🇴
