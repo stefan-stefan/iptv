@@ -14,8 +14,6 @@ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 https://rebrand.ly/cinemaratons1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 1🇷🇴
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|RO| TVR 1" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/TVR1.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 2[/COLOR] TVR 1🇷🇴
-http://5.255.90.252:5004/play/a061
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 2🇷🇴
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 3🇷🇴
@@ -26,10 +24,6 @@ http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
 http://5.255.90.252:5004/play/a072
 #EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV🇷🇴
 https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="|RO| PRO TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/PROOTV.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 2[/COLOR] PRO TV🇷🇴
-http://89.38.8.131:39532
-#EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV🇷🇴
-http://193.228.153.231:4241/bysid/30
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1200px-logo_pro_tv_international-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Tv International🇷🇴
 http://78.109.108.62:2001/protv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV News🇷🇴
@@ -41,8 +35,6 @@ http://188.138.235.61:80/hls/protv.m3u8
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro X🇷🇴
 https://vid.hls.protv.ro/proxhdn/proxhd_2_34/index.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] DIGI 24 HD🇷🇴
-http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 tvg-id="Digi 24" tvg-name="Digi 24" tvg-logo="http://1.bp.blogspot.com/-kl2zn8Zm6UE/TxrIJ6HbIPI/AAAAAAAADu8/2f47v68VQJo/s1600/digi24+logo.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR red]# 2[/COLOR] Digi 24🇷🇴
 http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] B1🇷🇴
 http://193.228.153.231:4242/bysid/70
@@ -179,8 +171,6 @@ http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 tvg-ID="Discovery Investigation" tvg-name="RO: Discovery ID" tvg-logo="https://iptvsensation.org/picons/discoveryid.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Discovery ID
 #EXTVLCOPT:network-caching=1000
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Discovery ID" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/INVESTIGATIONDISCOVERY.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] Discovery ID
-http://94.177.136.29:7478/play/a02y
 #EXTINF:-1 tvg-id="" tvg-name="|RO| ANIMAL PLANET HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/ANIMALPLANET.png" group-title="STIRI",[COLOR red]Http.[/COLOR][COLOR red]# 2[/COLOR] ANIMAL PLANET 
 http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digianimal.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Digi Animal World
