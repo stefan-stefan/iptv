@@ -397,6 +397,10 @@ sop://broker.sopcast.com:3912/265096
 #EXTINF:5276,PARAMOUNR CHANNEL(sopcast)🇷🇴
 #EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/264994
+#EXTINF:-1 tvg-ID="TLC" tvg-name="RO: TLC" tvg-logo="https://iptvsensation.org/picons/tlc.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] TLC 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148256&name=SopProg
+#EXTINF:-1 tvg-ID="TLC" tvg-name="RO: TLC" tvg-logo="https://iptvsensation.org/picons/tlc.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] TLC 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265076&name=SopProg
 #EXTINF:5276,COMEDY CENTRAL(sopcast)🇷🇴
 sop://broker.sopcast.com:3912/265044
 #EXTINF:5276,NATIONAL GEOGRAPHIC WILD(sopcast)🇷🇴
