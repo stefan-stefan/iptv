@@ -224,7 +224,7 @@ http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34154
 http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34155
 #EXTINF:-1,RO: Telekom Sport 5🇷🇴
 http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34156
-#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      ACESTREAM   [/B][/COLOR][COLOR red]       ***[/COLOR]  
+#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]  LISTA-ACESTREAM-RO   [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
 #EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Antena 1 
 acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea
@@ -312,7 +312,7 @@ acestream://4c4116749607daf31bc19f20fdcf0135505ad3af
 acestream://8887852b7465078a0f3c3c4e8843fc230394ec6b
 #EXTINF:-1 tvg-logo="http://static.manutv.net/canale/mari/look-sport.png" group-title="SPORT",[COLOR orange]Acestream.[/COLOR][COLOR red]# 1[/COLOR]Look Sport
 acestream://fd4a0e91fbaf49acb8708b7f884a0ecb4c3effde
-#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      SOPCAST    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]    LISTA-SOPCAST-RO    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
 #EXTINF:5276,TV 1000(sopcast)🇷🇴
 sop://broker.sopcast.com:3912/264997
