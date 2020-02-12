@@ -139,6 +139,10 @@ http://82.76.40.81/digiedge/digisport4elq/index.m3u8?is=49&src=digi-online.ro&t=
 http://82.76.40.81/digiedge/smil:digisport3.smil/playlist.m3u8?is=3&src=app&t=00000000000000000000000000000000
 #EXTINF:0 tvg-logo="https://evz.ro/uploads/2018-08/sigla-look-sport-tb900.jpg" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]LookSport
 http://alltvplay.ml/hlsjwt/db3fbbccd147d88521b718a429473712c80fb662-2928-0-fol1971-None-860146829-1580279029--rIK1qmd9JTT45mHJCI_YChIaM4iRKR6crPUzz9VPULM/index.m3u8
+#EXTINF:0,LOOKSPORT 2
+http://94.177.136.29:7478/play/a03j
+#EXTINF:0,LOOKSPORT 3
+http://94.177.136.29:7478/play/a03k
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/800px-Eurosport_1_HD.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Eurosport 1
 http://82.76.40.81/digiedge2/smil:eurosport.smil/playlist.m3u8?is=31&src=app&t=00000000000000000000000000000000
 #EXTINF:-1,RO: Telekom Sport 1🇷🇴
