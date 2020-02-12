@@ -62,10 +62,6 @@ http://193.228.153.231:4240/bysid/120
 http://193.228.153.231:4240/bysid/50
 #EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Prima TV🇷🇴
 http://193.228.153.231:4242/bysid/60
-#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Prima TV🇷🇴
-http://5.255.90.252:5004/play/a081
-#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Prima TV🇷🇴
-http://5.255.90.252:5004/play/a062
 #EXTINF:0 tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]COMEDY EST🇷🇴
 https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.canadalandshow.com/wp-content/uploads/2017/02/cbc_comedy_jpeg.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Comedy Play🇷🇴
