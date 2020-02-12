@@ -434,9 +434,8 @@ sop://broker.sopcast.com:3912/265050
 #EXTINF:5276,VIASAT EXPLORER(sopcast)🇷🇴
 #EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/265054
-#EXTINF:5276,FISHING AND HUNTING(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265049
+#EXTINF:0 tvg-logo="https://tvlogo.files.wordpress.com/2010/03/11397-pv_tv.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Fishing and Hunting
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265049&name=SopProg
 #EXTINF:-1,🇷🇴📻 RADIO-ROMANIA📻🇷🇴
 https://pastebin.com/raw/%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4%F0%9F%87%B7%F0%9F%87%B4
 #EXTINF:-1,Antena Satelor📻
