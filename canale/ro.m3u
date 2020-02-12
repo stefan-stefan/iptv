@@ -418,5 +418,6 @@ sop://broker.sopcast.com:3912/265054
 #EXTINF:0 tvg-logo="https://tvlogo.files.wordpress.com/2010/03/11397-pv_tv.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Fishing and Hunting
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265049&name=SopProg
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]    FILME-ONLINE-SUBTITRATE-RO    [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:1234#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.filmdrive21.com/wp-content/uploads/2020/01/i8QWXu6dGuTKKerJtnd0A4lUpbv-60x90.jpg" group-title="NETIZEN | CINEMA",Terminator "Dark Fate" (2019)
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.filmdrive21.com/wp-content/uploads/2020/01/i8QWXu6dGuTKKerJtnd0A4lUpbv-60x90.jpg" group-title="NETIZEN | CINEMA",Terminator "Dark Fate" (2019)
 https://cloud2.videomega.co/cdn/176.31.126.40//freeload/5e1daae181507/97d5c7309592e6342d7012a3ac7e2f95?md5=LH8-HtLsEQpTNpz8BY6BMw&expires=1580834992&files=4b112a235905476f7afa0ce566288de7.mp4
