@@ -1,21 +1,13 @@
 #EXTM3U
 #EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]ACTUALIZATA 08.01.2020![/I][/B][/COLOR]
 http://89.136.209.26:1935/l
-#EXTINF:0,■■■■■ HTTP ■■■■■■■,[COLOR red]  [/COLOR][COLOR red][B]**** REVIZIE LISTA *** [/B][/COLOR][COLOR red] ***[/COLOR]  
+#EXTINF:0,■■■■■ HTTP ■■■■■■■,[COLOR red]  [/COLOR][COLOR red][B]****HTTP-ACESTREAM-SOPCAST *** [/B][/COLOR][COLOR red] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="#STEFAN-TV-Romania #" tvg-logo="http://pici.life/RO/romania.png" group-title="Romania",#LISTA TV MENTENANTA #
 http://iptv.rent:8080/z57v4cnp7k/7cxiblicoh/5334
 #EXTINF:0 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=227x10000:format=jpg/path/s5ae1a1830c4003af/image/ia3791d53db91695c/version/1466759255/image.jpg" group-title="GENERALE",[COLOR red]Http.[/COLOR][COLOR red]# 1[/COLOR]Arcadia World
 http://89.38.8.131:39553
-#EXTINF:-1,📺 Televiziune.Live-Stefan📺
-http://televiziune.live/imagini/tv.mp4
-#EXTINF:-1,🇷🇴TV-ROMANIA🇷🇴
-http://test.romania%E2%98%85
-#EXTINF:-1,🇷🇴 STEFAN-TV-ROMANIA 🇷🇴
-http://test.romania%E2%98%85
-#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴🇷🇴
-http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8?iptv=1
 #EXTINF:-1,PRO TV MOLDOVA 1🇷🇴
 http://188.138.235.61:80/hls/protv.m3u8
 #EXTINF:-1,MOLDOVA 2🇷🇴
@@ -232,8 +224,8 @@ http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34154
 http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34155
 #EXTINF:-1,RO: Telekom Sport 5🇷🇴
 http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34156
-#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 ACESTREAM-TV-ROMANIA 🇷🇴🇷🇴🇷🇴🇷🇴
-http://test.romania%E2%98%85
+#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      ACESTREAM   [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:1234
 #EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Antena 1 
 acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea
 #EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Antena 1 
@@ -320,8 +312,8 @@ acestream://4c4116749607daf31bc19f20fdcf0135505ad3af
 acestream://8887852b7465078a0f3c3c4e8843fc230394ec6b
 #EXTINF:-1 tvg-logo="http://static.manutv.net/canale/mari/look-sport.png" group-title="SPORT",[COLOR orange]Acestream.[/COLOR][COLOR red]# 1[/COLOR]Look Sport
 acestream://fd4a0e91fbaf49acb8708b7f884a0ecb4c3effde
-#EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴
-http://test.romania%E2%98%85
+#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      SOPCAST    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:1234
 #EXTINF:5276,TV 1000(sopcast)🇷🇴
 sop://broker.sopcast.com:3912/264997
 #EXTINF:5276,TVR 1(sopcast)🇷🇴
