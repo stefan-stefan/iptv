@@ -378,36 +378,28 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148256&name=So
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265076&name=SopProg
 #EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]#1[/COLOR] Comedy Central 
 sop://broker.sopcast.com:3912/265044
-#EXTINF:5276,NATIONAL GEOGRAPHIC WILD(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265078
-#EXTINF:5276,NATIONAL GEOGRAPHIC(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265077
-#EXTINF:5276,E! ENTERTAINMENT(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265051
-#EXTINF:5276,DISCOVERY SCIENCE(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265082
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Nat Geo Wild
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265078&name=SopProg
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="RO: National Geographic HD" tvg-logo="https://iptvsensation.org/logo/ro/NatGeo.ro.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] National Geographic 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265077&name=SopProg
+#EXTINF:-1 tvg-ID="E! Entertainment" tvg-name="RO: E! Entertainment" tvg-logo="https://iptvsensation.org/picons/eentertainment.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] E! Entertainment 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265051&name=SopProg
+#EXTINF:-1 tvg-ID="DiscoveryScienceHD.ro" tvg-name="RO: Discovery Science" tvg-logo="https://iptvsensation.org/picons/discoveryscience.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Discovery Science 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265082&name=SopProg
 #EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/a/ac/Investigation_Discovery.png/revision/latest?cb=20140409022854&path-prefix=es" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Discovery Id
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265065&name=SopProg
 #EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/a/ac/Investigation_Discovery.png/revision/latest?cb=20140409022854&path-prefix=es" group-title="DOCUMENTARE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Discovery Id
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265053&name=SopProg
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265065
-#EXTINF:5276,CSB REALITY(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265047
-#EXTINF:5276,ANIMAL PLANET(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265086
-#EXTINF:5276,VIASAT HISTORY(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265079
-#EXTINF:5276,VIASAT NATURE(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/265050
-#EXTINF:5276,VIASAT EXPLORER(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265054
+#EXTINF:-1 tvg-ID="CBSReality.ro" tvg-name="RO: CBS REALITY" tvg-logo="https://iptvsensation.org/picons/cbsreality.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] CBS REALITY
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265047&name=SopProg
+#EXTINF:-1 tvg-ID="AnimalPlanet.ro" tvg-name="RO: Animal Planet HD" tvg-logo="https://iptvsensation.org/picons/animalplanethd.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Animal Planet HD 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265086&name=SopProg
+#EXTINF:-1 tvg-ID="ViasatHistory.ro" tvg-name="RO: Viasat History" tvg-logo="https://iptvsensation.org/logo/ro/ViasatHistory.ro.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Viasat History 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265079&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Nature.png" group-title="DOCUMENTARE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR]Viasat Nature
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265050&name=SopProg
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Explorer.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Viasat Explorer
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265054&name=SopProg
 #EXTINF:0 tvg-logo="https://tvlogo.files.wordpress.com/2010/03/11397-pv_tv.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Fishing and Hunting
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265049&name=SopProg
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]    FILME-ONLINE-SUBTITRATE-RO    [/B][/COLOR][COLOR red]       ***[/COLOR]  
