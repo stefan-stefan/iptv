@@ -357,19 +357,14 @@ sop://broker.sopcast.com:3912/265003
 #EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/265002
 #EXTINF:5276,CINEMAX(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/265011
 #EXTINF:5276,CINEMAX 2(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/265012
 #EXTINF:5276,EPIC DRAMA(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/264995
 #EXTINF:5276,FILM BOX(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/265025
 #EXTINF:5276,FILM CAFE(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/256238
 #EXTINF:5276,FILM NOW(sopcast)🇷🇴
 #EXTVLCOPT:network-caching=1000
