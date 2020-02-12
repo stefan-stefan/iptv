@@ -396,6 +396,8 @@ sop://broker.sopcast.com:3912/265096
 #EXTINF:5276,PARAMOUNR CHANNEL(sopcast)🇷🇴
 #EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/264994
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/25/TV1000_logo_2009.png/revision/latest?cb=20101226153307" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Tv1000
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264997&name=SopProg
 #EXTINF:-1 tvg-ID="TLC" tvg-name="RO: TLC" tvg-logo="https://iptvsensation.org/picons/tlc.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] TLC 
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148256&name=SopProg
 #EXTINF:-1 tvg-ID="TLC" tvg-name="RO: TLC" tvg-logo="https://iptvsensation.org/picons/tlc.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] TLC 
