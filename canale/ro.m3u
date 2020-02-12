@@ -139,6 +139,7 @@ http://82.76.40.81/digiedge2/smil:eurosport.smil/playlist.m3u8?is=31&src=app&t=0
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 1
 http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/6668
 #EXTINF:-1,RO: Telekom Sport 2🇷🇴
+#EXTVLCOPT:network-caching=1000
 http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/77365
 #EXTINF:-1,RO: Telekom Sport 3🇷🇴
 http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/77333
