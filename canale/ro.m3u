@@ -82,12 +82,7 @@ http://tv-he.orange.ro/shls/LIVE$paramountchannel/10.m3u8/Level%282306867%29?sta
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Paramount Channel
 http://alltvplay.ml/hlsjwt/d2476adab6814484d1858fe1abd4548b927ae939-2345-0-fol1971-None-860146829-1580278877--HfYuwjFAtWyetJnBV8IXgaTGVC7-ALr35Acuyh9qMV4/index.m3u8
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax
-http://5.255.90.252:5004/play/a059
-#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax
 http://alltvplay.ml/hlsjwt/162a92430958d8100bd732ca0ee8e17e8be8c0dc-2358-0-fol1971-None-860146829-1580278791--qzKWCkrtXYFGYy55V_vdk9d8inv1tJebkWmSMnF1SM4/index.m3u8
-#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax 2
-#EXTVLCOPT:network-caching=1000
-http://myiptv.ddns.me:5000/emanuel/emrodaloho/3123
 #EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax 2
 #EXTVLCOPT:network-caching=1000
 http://alltvplay.ml/hlsjwt/692a4de2e860ac5a0e66f6a61dfbc39ae30d3b3c-2359-0-fol1971-None-860146829-1580278833--WJMOiWI2QExV5es1pW8L6KjtGyR2iVRq1JrsTsjpppw/index.m3u8
