@@ -10,8 +10,6 @@ http://iptv.rent:8080/z57v4cnp7k/7cxiblicoh/5334
 http://89.38.8.131:39553
 #EXTINF:-1,📺 Televiziune.Live-Stefan📺
 http://televiziune.live/imagini/tv.mp4
-#EXTINF:-1,📺 Vizionare placuta 📺
-http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1,🇷🇴TV-ROMANIA🇷🇴
 http://test.romania%E2%98%85
 #EXTINF:-1,🇷🇴 STEFAN-TV-ROMANIA 🇷🇴
@@ -304,6 +302,7 @@ acestream://712330ea8bb35c84bbae7c7bdbd578cf267681c5
 http://0.0.0.0:12346
 #EXTINF:#1  tvg-logo="https://lh5.googleusercontent.com/-e393ZEo6prI/UgWF2uAJV7I/AAAAAAAABOE/O46JvRFvjus/h250/eurosport+2+live.png" group-title="SPORT",[COLOR orange]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Eurosport 2
 acestream://89122a1bb3fab471ce54ba405e28c2efa592fffe
+
 #EXTINF:-1,🇷🇴🇷🇴🇷🇴🇷🇴 SOPCAST-TV-ROMANIA 🇷🇴🇷🇴🇷🇴
 http://test.romania%E2%98%85
 #EXTINF:5276,TV 1000(sopcast)🇷🇴
