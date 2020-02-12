@@ -59,8 +59,6 @@ http://193.228.153.231:4240/bysid/40
 #EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 3🇷🇴 
 http://193.228.153.231:4240/bysid/120
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Kanal D🇷🇴
-https://sportbar.biz/lba/123/g9/kanald.m3u8
-#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Kanal D🇷🇴
 http://193.228.153.231:4240/bysid/50
 #EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Prima TV🇷🇴
 http://193.228.153.231:4242/bysid/60
