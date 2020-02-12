@@ -376,9 +376,8 @@ sop://broker.sopcast.com:3912/265025
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256238&name=SopProg
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Filmcafe
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265018&name=SopProg
-#EXTINF:5276,FILM NOW(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/265001
+#EXTINF:0 tvg-logo="https://i2.wp.com/mortu.eu/wp-content/uploads/2018/06/logo-film-now-Digi-film.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] Film Now
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265001&name=SopProg
 #EXTINF:5276,HBO(sopcast)🇷🇴
 #EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/264971
