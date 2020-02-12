@@ -421,3 +421,6 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265049&name=So
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.filmdrive21.com/wp-content/uploads/2020/01/i8QWXu6dGuTKKerJtnd0A4lUpbv-60x90.jpg" group-title="NETIZEN | CINEMA",Terminator "Dark Fate" (2019)
 https://cloud2.videomega.co/cdn/176.31.126.40//freeload/5e1daae181507/97d5c7309592e6342d7012a3ac7e2f95?md5=LH8-HtLsEQpTNpz8BY6BMw&expires=1580834992&files=4b112a235905476f7afa0ce566288de7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg" group-title="PELICULAS", MALEFICA 2
+#EXTVLCOPT:network-caching=1000
+https://cloud5.videomega.co/cdn/176.31.126.9//freeload/5e0c362c51f6b/98d56dc8578038fcf3dd0e89442f52f8?md5=S-m7X9UnP1MHfRyoH96KJw&expires=1580836968&files=c90673ca0d250594d7141efe165d589f.mp
