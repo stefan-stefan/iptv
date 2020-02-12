@@ -416,7 +416,10 @@ sop://broker.sopcast.com:3912/265051
 #EXTINF:5276,DISCOVERY SCIENCE(sopcast)🇷🇴
 #EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/265082
-#EXTINF:5276,ID DISCOVERY(sopcast)🇷🇴
+#EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/a/ac/Investigation_Discovery.png/revision/latest?cb=20140409022854&path-prefix=es" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Discovery Id
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265065&name=SopProg
+#EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/a/ac/Investigation_Discovery.png/revision/latest?cb=20140409022854&path-prefix=es" group-title="DOCUMENTARE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Discovery Id
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265053&name=SopProg
 #EXTVLCOPT:network-caching=1000
 sop://broker.sopcast.com:3912/265065
 #EXTINF:5276,CSB REALITY(sopcast)🇷🇴
