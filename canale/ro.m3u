@@ -100,8 +100,7 @@ http://89.38.8.130:39476
 #EXTVLCOPT:network-caching=1000
 http://dragoniptv.club:8080/live/Kara/Kara/6255.m3u8
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Hbo 2
-#EXTVLCOPT:network-caching=1000
-http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/3009
+http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80772.ts
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/HBO3_gradient.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO 3
 http://mylatinotv.com:8080/davidALBA2/jf2OjCtIYU/15522
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8G83qZu.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]BO CLASSIC
