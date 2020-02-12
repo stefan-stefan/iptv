@@ -174,7 +174,7 @@ http://edge81.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro
 http://0.0.0.0:12346
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 1
 http://telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/DIGI_Sport_1.png", group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Digi Sport 1 
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/DIGI_Sport_1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Digi Sport 1 
 http://82.76.40.81/digiedge/smil:digisport1.smil/playlist.m3u8?is=1&src=app&t=00000000000000000000000000000000
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_Sport_2.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Digi Sport 2
 http://82.76.40.81/digiedge/digisport2emq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000&q=mq&s=digisport2&p=browser&pe=site
@@ -194,6 +194,16 @@ http://82.76.40.81/digiedge/smil:digisport3.smil/playlist.m3u8?is=3&src=app&t=00
 http://alltvplay.ml/hlsjwt/db3fbbccd147d88521b718a429473712c80fb662-2928-0-fol1971-None-860146829-1580279029--rIK1qmd9JTT45mHJCI_YChIaM4iRKR6crPUzz9VPULM/index.m3u8
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/800px-Eurosport_1_HD.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Eurosport 1
 http://82.76.40.81/digiedge2/smil:eurosport.smil/playlist.m3u8?is=31&src=app&t=00000000000000000000000000000000
+#EXTINF:-1,RO: Telekom Sport 1🇷🇴
+http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34152
+#EXTINF:-1,RO: Telekom Sport 2🇷🇴
+http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34153
+#EXTINF:-1,RO: Telekom Sport 3🇷🇴
+http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34154
+#EXTINF:-1,RO: Telekom Sport 4🇷🇴
+http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34155
+#EXTINF:-1,RO: Telekom Sport 5🇷🇴
+http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34156
 #EXTINF:#1 tvg-logo="http://kutuphane.balikesir.edu.tr/img/belgesel.png",[COLOR blue] ***  [/COLOR][COLOR red][B]  DOCUMENTARE [/B][/COLOR][COLOR red] ***[/COLOR]  
 http://0.0.0.0:12345
 #EXTINF:-1 tvg-ID="CBSReality.ro" tvg-name="RO: CBS REALITY" tvg-logo="https://iptvsensation.org/picons/cbsreality.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] CBS REALITY
@@ -254,16 +264,7 @@ http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JgcUO21.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Super One HD
 http://5.255.90.252:5004/play/a05h
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q8LP7EX.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR] Private HD
-http://188.35.9.5:10005/stolen/153a/imposter.rar#EXTINF:-1,RO: Telekom Sport 1🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34152
-#EXTINF:-1,RO: Telekom Sport 2🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34153
-#EXTINF:-1,RO: Telekom Sport 3🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34154
-#EXTINF:-1,RO: Telekom Sport 4🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34155
-#EXTINF:-1,RO: Telekom Sport 5🇷🇴
-http://avatar-iptv.net:80/yTZBoeWYmM/Sdq6ioDf9V/34156
+http://188.35.9.5:10005/stolen/153a/imposter.rar
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]  LISTA-ACESTREAM-RO   [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
 #EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Antena 1 
