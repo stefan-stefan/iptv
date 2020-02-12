@@ -291,9 +291,9 @@ acestream://99a45b3739b0d3ce26af392ad4039256b6fb1741
 acestream://ebddf12767655e5d9a859bcfe3d7d78e91f72f10
 #EXTINF:-1 tvg-ID="AXN Black" tvg-name="RO: AXN Black" tvg-logo="https://iptvsensation.org/picons/axnblack.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AXN Black
 acestream://5d1cd83572135124cbcb324a449e1dabc21125b8
-#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="FILME",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] AXN SPIN
+#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="FILME",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] AXN SPIN(lipsa stream)
 acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760
-#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Axn White
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Axn White(lipsa stream)
 acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Cinemax
 acestream://34b1402557fb7faab2979361c4e9650fa0948724
