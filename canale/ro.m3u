@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]ACTUALIZATA 12.01-2.2020![/I][/B][/COLOR]
+#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]ACTUALIZATA 12.02.2020![/I][/B][/COLOR]
 http://89.136.209.26:1935/l
 #EXTINF:0,■■🇷🇴🇷🇴■■,[COLOR red]  [/COLOR][COLOR red][B]**** HTTP-KODI *** [/B][/COLOR][COLOR red] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
