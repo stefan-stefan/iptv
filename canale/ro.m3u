@@ -112,7 +112,7 @@ http://edge81.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro
 #EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png",[COLOR red]          ***      [/COLOR][COLOR red][B]      SPORT       [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:12346
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 1
-http://telekomtv-ro.akamaized.net/shls/LIVE$DolceSportHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/77366
 #EXTINF:-1,RO: Telekom Sport 2🇷🇴
 http://ok2.se:80/ff45F7U4LTT7lRRx6/1debF9UuLUYeXMsZJ/77365
 #EXTINF:-1,RO: Telekom Sport 3🇷🇴
