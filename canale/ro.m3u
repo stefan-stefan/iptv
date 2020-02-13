@@ -310,8 +310,7 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=So
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR blue]# 1[/COLOR] Antena 1 
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264941&name=SopProg
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 2[/COLOR] Pro Tv
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/256338
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Axn
 sop://broker.sopcast.com:3912/265004
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/e/e6/AXN_Black_logo.png/revision/20140311161504" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Axn Black
