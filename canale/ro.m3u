@@ -406,11 +406,19 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265050&name=So
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265054&name=SopProg
 #EXTINF:0 tvg-logo="https://tvlogo.files.wordpress.com/2010/03/11397-pv_tv.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Fishing and Hunting
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265049&name=SopProg
-#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]   LISTA-TV-TS-RO    [/B][/COLOR][COLOR red]       ***[/COLOR]  
+#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]   LISTA-TV-TESTE    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
 #EXTINF:-1,RO: 1 Music Channel
 http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80823.ts
-#EXTINF:-1,RO: Actualitatea TV
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80822.ts
-#EXTINF:-1,RO: Acum TV
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80821.ts
+#EXTINF:-1,TF1
+http://frryacineuuk.ddns.net:8000/live/muhammed/muhammed/26.ts
+#EXTINF:-1,[FR] MANGAS
+http://frryacineuuk.ddns.net:8000/live/muhammed/muhammed/33.ts
+#EXTINF:-1,RMC DECOUVERTE FHD
+http://frryacineuuk.ddns.net:8000/live/muhammed/muhammed/27.ts
+#EXTINF:-1,PLANETE  CI
+http://frryacineuuk.ddns.net:8000/live/muhammed/muhammed/28.ts
+#EXTINF:-1,France2
+http://frryacineuuk.ddns.net:8000/live/muhammed/muhammed/29.ts
+#EXTINF:-1,FR: W9
+http://frryacineuuk.ddns.net:8000/live/muhammed/muhammed/25.ts
