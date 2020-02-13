@@ -146,7 +146,7 @@ http://94.177.136.29:7478/play/a03j
 http://94.177.136.29:7478/play/a03k
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/800px-Eurosport_1_HD.png" group-title="STIRI",[COLOR deeppink]Http.[/COLOR][COLOR deeppink]# 1[/COLOR]Eurosport 1
 http://82.76.40.81/digiedge2/smil:eurosport.smil/playlist.m3u8?is=31&src=app&t=00000000000000000000000000000000
-#EXTINF:0 Eurosport 2
+#EXTINF:-1,RO: Eurosport 2🇷🇴
 http://82.76.40.81/digiedge2/smil:eurosport2.smil/playlist.m3u8?is=32&src=app&t=00000000000000000000000000000000
 #EXTINF:#1 tvg-logo="http://kutuphane.balikesir.edu.tr/img/belgesel.png",[COLOR blue] ***  [/COLOR][COLOR red][B]  DOCUMENTARE [/B][/COLOR][COLOR red] ***[/COLOR]  
 http://0.0.0.0:12345
