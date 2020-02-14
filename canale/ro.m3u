@@ -412,15 +412,8 @@ http://0.0.0.0:1234
 http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80823.ts
 #EXTINF:-1,RO: Actualitatea TV
 http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80822.ts
-#EXTINF:-1,RO: Acum TV
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80821.ts
-#EXTINF:-1,RO: AMC
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80820.ts
-#EXTINF:-1,RO: Antena 1 FHD
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80819.ts
-#EXTINF:-1,RO: Antena 3 FHD
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80818.ts
-#EXTINF:-1,RO: Antena Stars FHD
-http://ilnuovolook.xyz:80/live/amy3_bf14a8/940354/80817.ts
-#EXTINF:-1,RO: AXN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9712.ts
+#EXTINF:0,■■■■■ HTTP ■■■■■■■,[COLOR red]  [/COLOR][COLOR red][B]**** FILME-ONLINE-SUBTITRATE-RO *** [/B][/COLOR][COLOR red] ***[/COLOR]  
+#EXTVLCOPT:network-caching=1000
+http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.filmdrive21.com/wp-content/uploads/2020/01/i8QWXu6dGuTKKerJtnd0A4lUpbv-60x90.jpg" group-title="NETIZEN | CINEMA",Terminator "Dark Fate" (2019)
+https://cloud2.videomega.co/cdn/176.31.126.40//freeload/5e1daae181507/97d5c7309592e6342d7012a3ac7e2f95?md5=LH8-HtLsEQpTNpz8BY6BMw&expires=1580834992&files=4b112a235905476f7afa0ce566288de7.mp4
