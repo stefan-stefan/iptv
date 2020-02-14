@@ -408,103 +408,70 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265049&name=So
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]   LISTA-TV-TESTE    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
 #EXTINF:0,Euro Sport 1
-#EXTVLCOPT:network-caching=1000
 http://ott.artmott.com/eurosport1/playlist.m3u8
 #EXTINF:0,Euro Sport 2
-#EXTVLCOPT:network-caching=1000
 http://ott.artmott.com/eurosport2/playlist.m3u8
 #EXTINF:0,SuperSports 4HD
-#EXTVLCOPT:network-caching=1000
 http://62.210.148.7:8090/CR/3/index.m3u8
 #EXTINF:0,SuperSports 3HD
-#EXTVLCOPT:network-caching=1000
 http://sg.ocache.xyz/sports/supersp3.m3u8
 #EXTINF:0,SuperSports 3HD
-#EXTVLCOPT:network-caching=1000
 http://us.ocache.xyz/sports/supersp3.m3u8
 #EXTINF:0,Fox Sport 1 live alemania
-#EXTVLCOPT:network-caching=1000
 http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
 #EXTINF:0,Eurosport 1HD INGLES
-#EXTVLCOPT:network-caching=1000
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 #EXTINF:0,Eurosport 2 HD INGLES
-#EXTVLCOPT:network-caching=1000
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
 #EXTINF:0,Eurosport 1HD ruso
-#EXTVLCOPT:network-caching=1000
 http://mfe.svc.ott.zala.by/hls/CH_EU...S/variant.m3u8
 #EXTINF:0,Fox Sports live ingles
-#EXTVLCOPT:network-caching=1000
 https://liveanevia.mncnow.id/live/ed...FOXSports.m3u8
 #EXTINF:0,beIN Sports HD
-#EXTVLCOPT:network-caching=1000
 https://ch.iptvmate.net/8c43016148b4...332037556.m3u8
 #EXTINF:0,beIN Sports HD 1
-#EXTVLCOPT:network-caching=1000
 https://ch.iptvmate.net/da84b14c3b9a...96cd3ec20.m3u8
 #EXTINF:0,Diema Sports 2HD
-#EXTVLCOPT:network-caching=1000
 http://server4.xtim.tv:9090/DiemaSpo...ken=81H84NfjI3
 #EXTINF:0,Eleven Sports 1 HD
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a04f
 #EXTINF:0,Eleven Sports 2 HD
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a04v
 #EXTINF:0,Eleven Sports 3
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a05d
 #EXTINF:0,Eleven Sports 4
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a04g
 #EXTINF:0,Eleven Sports 5
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a04h
 #EXTINF:0,Eleven Sports 6
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a05o
 #EXTINF:0,Eurochannel
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a06q
 #EXTINF:0,Euronews
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a03y
 #EXTINF:0,Eurosport 1
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a06m
 #EXTINF:0,Eurosport 1 HD
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a04b
 #EXTINF:0,Eurosport 2
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a05m
 #EXTINF:0,SPORT TV 1
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a051
 #EXTINF:0,SPORT TV 1 HD
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a04p
 #EXTINF:0,SPORT TV 2
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a05u
 #EXTINF:0,SPORT TV 2 HD
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a04q
 #EXTINF:0,SPORT TV 3
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a060
 #EXTINF:0,SPORT TV 3 HD
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a04r
 #EXTINF:0,SPORT TV 4
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a06z
 #EXTINF:0,SPORT TV 5
-#EXTVLCOPT:network-caching=1000
 http://45.92.69.76:8000/play/a040
 #EXTINF:0,la liga bar
-#EXTVLCOPT:network-caching=1000
 https://sportzonline.co/channels/hd/hd6.php
 #EXTINF:0,■■,[COLOR red]  [/COLOR][COLOR red][B]**** FILME-ONLINE-SUBTITRATE-RO *** [/B][/COLOR][COLOR red] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
