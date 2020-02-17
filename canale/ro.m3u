@@ -409,95 +409,162 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265054&name=So
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265049&name=SopProg
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]   LISTA-TV-TESTE    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="B1 TV">
-    <display-name lang="ro">B1 TV</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="TVR 2">
-    <display-name lang="ro">TVR 2</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Antena Stars">
-    <display-name lang="ro">Antena Stars</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Digi 24">
-    <display-name lang="ro">Digi 24</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Digi 24 HD">
-    <display-name lang="ro">Digi 24 HD</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-
-#EXTINF:0,Euro Sport 1
-http://ott.artmott.com/eurosport1/playlist.m3u8
-#EXTINF:0,Euro Sport 2
-http://ott.artmott.com/eurosport2/playlist.m3u8
-#EXTINF:0,SuperSports 4HD
-http://62.210.148.7:8090/CR/3/index.m3u8
-#EXTINF:0,SuperSports 3HD
-http://sg.ocache.xyz/sports/supersp3.m3u8
-#EXTINF:0,SuperSports 3HD
-http://us.ocache.xyz/sports/supersp3.m3u8
-#EXTINF:0,Fox Sport 1 live alemania
-http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
-#EXTINF:0,Eurosport 1HD INGLES
-http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
-#EXTINF:0,Eurosport 2 HD INGLES
-http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
-#EXTINF:0,Eurosport 1HD ruso
-http://mfe.svc.ott.zala.by/hls/CH_EU...S/variant.m3u8
-#EXTINF:0,Fox Sports live ingles
-https://liveanevia.mncnow.id/live/ed...FOXSports.m3u8
-#EXTINF:0,beIN Sports HD
-https://ch.iptvmate.net/8c43016148b4...332037556.m3u8
-#EXTINF:0,beIN Sports HD 1
-https://ch.iptvmate.net/da84b14c3b9a...96cd3ec20.m3u8
-#EXTINF:0,Diema Sports 2HD
-http://server4.xtim.tv:9090/DiemaSpo...ken=81H84NfjI3
-#EXTINF:0,Eleven Sports 1 HD
-http://45.92.69.76:8000/play/a04f
-#EXTINF:0,Eleven Sports 2 HD
-http://45.92.69.76:8000/play/a04v
-#EXTINF:0,Eleven Sports 3
-http://45.92.69.76:8000/play/a05d
-#EXTINF:0,Eleven Sports 4
-http://45.92.69.76:8000/play/a04g
-#EXTINF:0,Eleven Sports 5
-http://45.92.69.76:8000/play/a04h
-#EXTINF:0,Eleven Sports 6
-http://45.92.69.76:8000/play/a05o
-#EXTINF:0,Eurochannel
-http://45.92.69.76:8000/play/a06q
-#EXTINF:0,Euronews
-http://45.92.69.76:8000/play/a03y
-#EXTINF:0,Eurosport 1
-http://45.92.69.76:8000/play/a06m
-#EXTINF:0,Eurosport 1 HD
-http://45.92.69.76:8000/play/a04b
-#EXTINF:0,Eurosport 2
-http://45.92.69.76:8000/play/a05m
-#EXTINF:0,SPORT TV 1
-http://45.92.69.76:8000/play/a051
-#EXTINF:0,SPORT TV 1 HD
-http://45.92.69.76:8000/play/a04p
-#EXTINF:0,SPORT TV 2
-http://45.92.69.76:8000/play/a05u
-#EXTINF:0,SPORT TV 2 HD
-http://45.92.69.76:8000/play/a04q
-#EXTINF:0,SPORT TV 3
-http://45.92.69.76:8000/play/a060
-#EXTINF:0,SPORT TV 3 HD
-http://45.92.69.76:8000/play/a04r
-#EXTINF:0,SPORT TV 4
-http://45.92.69.76:8000/play/a06z
-#EXTINF:0,SPORT TV 5
-http://45.92.69.76:8000/play/a040
-#EXTINF:0,la liga bar
-https://sportzonline.co/channels/hd/hd6.php
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="Sport",Premier Football HD 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="Sport",Premier Football HD 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg" group-title="Sport",Premier Football HD 3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg" group-title="Sport",Premier Football HD 4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="Sport",Premier Football HD 5
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg" group-title="Sport",Fox Sport 1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg" group-title="Sport",Fox Sport 2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg" group-title="Sport",Fox Sport 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://c7.uihere.com/files/292/377/196/2017u201318-nba-season-los-angeles-lakers-brooklyn-nets-logo-basketball-nba-transparent-background.jpg" group-title="Sport",NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.dprom.tv/public/img/true_tennis_hd.png" group-title="Sport",True Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://edge.thailandworldmasters.com/wp-content/uploads/2013/04/Golf-Channel-Thailand-HD-1.png" group-title="Sport",Golf Channel HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="Sport",TrueSport HD 1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="Sport",TrueSport HD 2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="Sport",TrueSport HD 3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Sport",TrueSport HD 4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title="Sport",TrueSport 2
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="Sport",TrueSport 5
+https://www.livedoomovie.com//02_sport5_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="Sport",TrueSport 6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="Sport",TrueSport 7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg" group-title="Sport",Bein Sports 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg" group-title="Sport",Bein Sports 2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein3.jpg" group-title="Sport",Bein Sports 3
+https://www.livedoomovie.com/02_epl3_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein4.jpg" group-title="Sport",Bein Sports 4
+https://www.livedoomovie.com/02_epl4_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg" group-title="Sport",BT Sport 1 HD
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg" group-title="Sport",BT Sport 2 HD
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport",SkyNet Sport HD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png" group-title="Sport",SkyNet Sport 1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png" group-title="Sport",SkyNet Sport 2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png" group-title="Sport",SkyNet Sport 3
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="Sport",SkyNet Sport 4
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title="Sport",SkyNet Sport 5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sport",SkyNet Sport 6
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Sport",Sport TV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Sport",Sport TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="Sport",Sport TV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="Sport",Sport TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Sport",Sport TV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.edailysports.com/wp-content/uploads/2019/06/rugby-world-cup-japan-2019.jpg" group-title="Sport",Rugby World Cup 2019
+https://www.livedoomovie.com/RugbyWorldCup/chunklist.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 1 (AU)
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/80782
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 2 (AU)
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/80781
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 3 (AU)
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/80780
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,*BEIN SPORTS HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/171
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN DEPORTES HD (ES)
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/236
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 1 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4814
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 2 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4813
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 3 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4812
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 4 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4811
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 5 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4810
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 6 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4809
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 7 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4808
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 8 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4807
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 9 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4806
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 10 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4805
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 11 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/74480
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 12 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/74479
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 13 HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/74478
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS NEWS (AR)
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4815
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,NBC SPORTS HD
+http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/81965
 #EXTINF:0,■■,[COLOR red]  [/COLOR][COLOR red][B]**** FILME-ONLINE-SUBTITRATE-RO *** [/B][/COLOR][COLOR red] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
