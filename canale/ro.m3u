@@ -632,5 +632,56 @@ http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/81965
 #EXTINF:0,■■,[COLOR red]  [/COLOR][COLOR red][B]**** FILME-ONLINE-SUBTITRATE-RO *** [/B][/COLOR][COLOR red] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.filmdrive21.com/wp-content/uploads/2020/01/i8QWXu6dGuTKKerJtnd0A4lUpbv-60x90.jpg" group-title="NETIZEN | CINEMA",Terminator "Dark Fate" (2019)
-https://cloud2.videomega.co/cdn/176.31.126.40//freeload/5e1daae181507/97d5c7309592e6342d7012a3ac7e2f95?md5=LH8-HtLsEQpTNpz8BY6BMw&expires=1580834992&files=4b112a235905476f7afa0ce566288de7.mp4
+#EXTINF:-1 tvg-logo="http://documentarys.do.am/tvonlineromy/romytvlist/tv-png-free-download-3-1-.png",[COLORred][B]HTTP, SOPCAST & ACESTREAM[/COLOR][/B]
+http://89.136.209.26
+#EXTINF:-1 tvg-logo="",lkjjkjjkll
+http://documentarys.do.am/tvonlineromy/howimetyourmo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://documentarys.do.am/proba/logo/tvr1.png" group-title="TVR 1",Tvr 1 (Stream 1)
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://documentarys.do.am/proba/logo/tvr1.png" group-title="TVR 1",Tvr 1 (Stream 2)
+http://5.255.90.252:5004/play/a061
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/tvr1.png"  group-title="TVR 1",Tvr 1 (Sopcast 1)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265390
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/tvr1.png"  group-title="TVR 1",Tvr 1 (Sopcast 2)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148085
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/tvr1.png"  group-title="TVR 1",Tvr 1 (Acestream 1)
+acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/tvr1.png"  group-title="TVR 1",Tvr 1 (Acestream 2)
+acestream://669143da2e50acc3850735945f9ae2e01cf334a3
+
+#EXTINF:-1 tvg-logo="http://documentarys.do.am/proba/logo/tvr2.png" group-title="TVR 2",Tvr 2 (Stream)
+http://mn-nl.mncdn.com/tvr_2_live/tvr_2_live2/chunklist.m3u8?
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/tvr2.png"  group-title="TVR 2",Tvr 2 (Sopcast)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/tvr2.png"  group-title="TVR 2",Tvr 2 (Acestream 1)
+acestream://27c1ca2cfc1253a05f1dd58d430cf16f5e52c248
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/tvr2.png"  group-title="TVR 2",Tvr 2 (Acestream 2)
+acestream://b2d90b86ca815fbefca68efb9b07749c92e07519
+
+#EXTINF:-1 tvg-logo="http://documentarys.do.am/proba/logo/TVR_3-2008-2010-.png" group-title="TVR 3",Tvr 3 (Stream 1)
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://documentarys.do.am/proba/logo/TVR_3-2008-2010-.png" group-title="TVR 3",Tvr 3 (Stream 2)
+http://mn-nl.mncdn.com/tvr_3_live/tvr_3_live2/chunklist.m3u8?
+#EXTINF:-1 tvg-logo="http://documentarys.do.am/proba/logo/TVR_3-2008-2010-.png" group-title="TVR 3",Tvr 3 (Stream 3)
+http://ch01.spr24.net/22303/mpegts?token=qEpFWQ3Hys7242
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/logo_main_tvri.png",Tvr International (Acestream)
+acestream://e504ba0d4a5e2d70ceb8b3f1323d82c29d2c5d0f
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png" group-title="Pro TV",Pro TV (Stream 1)
+https://rebrand.ly/protvHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png" group-title="Pro TV",Pro TV (Stream 2)
+http://myiptv.ddns.me:5000/emanuel/emrodaloho/3134
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Sopcast 1)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Sopcast 2)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265414
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Sopcast 3)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265419
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Acestream 1)
+acestream://9ef9c84096f336d1e70851e5c185ff2260c1f69d
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Acestream 2)
+acestream://71f75c30001e80fc03627fab0d58738613d5dc3b
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Acestream 3)
+acestream://c4db018703fb4f631663798b15009cae9a9d3642
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Acestream 4)
+acestream://41179e2c37145e8e8d4f840c8d00df979e87854f
