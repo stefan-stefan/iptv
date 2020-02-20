@@ -8,241 +8,225 @@ http://89.136.209.26:1935/l
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="#STEFAN-TV-Romania #" tvg-logo="http://pici.life/RO/romania.png" group-title="Romania",#MOMENTAN LISTA IN MENTENANTA #
 http://iptv.rent:8080/z57v4cnp7k/7cxiblicoh/5334
-#EXTINF:0 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=227x10000:format=jpg/path/s5ae1a1830c4003af/image/ia3791d53db91695c/version/1466759255/image.jpg" group-title="GENERALE",[COLOR red]Http.[/COLOR][COLOR red]# 1[/COLOR]Arcadia World
-http://89.38.8.131:39553
-#EXTINF:-1,(RO) AXN RO
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15526
-#EXTINF:-1,(RO) AXN WHITE
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15525
-#EXTINF:-1,(RO) HBO Romania
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15524
-#EXTINF:-1,(RO) HBO 2
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15523
-#EXTINF:-1,(RO) HBO 3
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15522
-#EXTINF:-1,(RO) DIGI FILIM
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15521
-#EXTINF:-1,(RO) Digi World
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15520
-#EXTINF:-1,(RO) Digi Life
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15519
-#EXTINF:-1,(RO) Digi Animal World
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15518
-#EXTINF:-1,(RO) Digi 24
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15517
-#EXTINF:-1,(RO) KISS TV
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15516
-#EXTINF:-1,(RO) Look Plus
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15515
-#EXTINF:-1,(RO) N24 Plus
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15501
-#EXTINF:-1,(RO) Nat Geo Wild SD
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15500
-#EXTINF:-1,(RO) Paramount Channel
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15499
-#EXTINF:-1,(RO) ProTV International
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15498
-#EXTINF:-1,(RO) Realitatea Tv
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15497
-#EXTINF:-1,(RO) Nat Geo Wild
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15496
-#EXTINF:-1,(RO) ProTV
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15495
-#EXTINF:-1,(RO) Pro Gold
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15494
-#EXTINF:-1,(RO) Pro X
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15493
-#EXTINF:-1,(RO) ProCinema
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15492
-#EXTINF:-1,(RO) SOMAX TV
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15491
-#EXTINF:-1,(RO) TLC
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15490
-#EXTINF:-1,(RO) TNT
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15489
-#EXTINF:-1,(RO)  Agro TV
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15476
-#EXTINF:-1,(RO)  Bollywood TV
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15475
-#EXTINF:-1,(RO) CBS Reality
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15474
-#EXTINF:-1,(RO) Cinemax 2 Europe
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15473
-#EXTINF:-1,(RO) Credo TV
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15472
-#EXTINF:-1,(RO) Etno TV
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15471
-#EXTINF:-1,(RO) HBO 3 Central Europe
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15470
-#EXTINF:-1,(RO) JimJam EMEA
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15469
-#EXTINF:-1,(RO) Pro 2
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15468
-#EXTINF:-1,(RO) RTV (Romania)
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15467
-#EXTINF:-1,(RO) Diva Universal Romania
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15466
-#EXTINF:-1,(RO) Discovery Channel Romania
-http://mylatinotv.com:8080/PoqShAIOtQ/zSB7KR4cpS/15465
-#EXTINF:-1,(RO) Viasat Explore
-#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]   LISTA-TV-TESTE    [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="Sport",Premier Football HD 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="Sport",Premier Football HD 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg" group-title="Sport",Premier Football HD 3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg" group-title="Sport",Premier Football HD 4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="Sport",Premier Football HD 5
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg" group-title="Sport",Fox Sport 1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg" group-title="Sport",Fox Sport 2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg" group-title="Sport",Fox Sport 3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://c7.uihere.com/files/292/377/196/2017u201318-nba-season-los-angeles-lakers-brooklyn-nets-logo-basketball-nba-transparent-background.jpg" group-title="Sport",NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.dprom.tv/public/img/true_tennis_hd.png" group-title="Sport",True Tennis HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://edge.thailandworldmasters.com/wp-content/uploads/2013/04/Golf-Channel-Thailand-HD-1.png" group-title="Sport",Golf Channel HD
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="Sport",TrueSport HD 1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="Sport",TrueSport HD 2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="Sport",TrueSport HD 3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Sport",TrueSport HD 4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title="Sport",TrueSport 2
-https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="Sport",TrueSport 5
-https://www.livedoomovie.com//02_sport5_480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="Sport",TrueSport 6
-https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="Sport",TrueSport 7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg" group-title="Sport",Bein Sports 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg" group-title="Sport",Bein Sports 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein3.jpg" group-title="Sport",Bein Sports 3
-https://www.livedoomovie.com/02_epl3_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein4.jpg" group-title="Sport",Bein Sports 4
-https://www.livedoomovie.com/02_epl4_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg" group-title="Sport",BT Sport 1 HD
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg" group-title="Sport",BT Sport 2 HD
-https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport",SkyNet Sport HD
-https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png" group-title="Sport",SkyNet Sport 1
-https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png" group-title="Sport",SkyNet Sport 2
-https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png" group-title="Sport",SkyNet Sport 3
-https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="Sport",SkyNet Sport 4
-https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title="Sport",SkyNet Sport 5
-https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sport",SkyNet Sport 6
-https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="Sport",Sport TV 1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="Sport",Sport TV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="Sport",Sport TV 3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="Sport",Sport TV 4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="Sport",Sport TV 5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.edailysports.com/wp-content/uploads/2019/06/rugby-world-cup-japan-2019.jpg" group-title="Sport",Rugby World Cup 2019
-https://www.livedoomovie.com/RugbyWorldCup/chunklist.m3u8
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 1 (AU)
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/80782
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 2 (AU)
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/80781
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 3 (AU)
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/80780
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,*BEIN SPORTS HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/171
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN DEPORTES HD (ES)
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/236
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 1 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4814
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 2 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4813
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 3 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4812
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 4 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4811
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 5 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4810
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 6 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4809
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 7 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4808
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 8 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4807
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 9 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4806
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 10 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4805
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 11 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/74480
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 12 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/74479
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS 13 HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/74478
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,BEIN SPORTS NEWS (AR)
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/4815
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2018/06/beIN_Logo.jpg" group-title="SPORT",,NBC SPORTS HD
-http://ok2.se:8000/54d4F7UdF8moM2kfG/56c3F9UGv75rgeRMa/81965
-#EXTINF:0,■■,[COLOR red]  [/COLOR][COLOR red][B]**** FILME-ONLINE-SUBTITRATE-RO *** [/B][/COLOR][COLOR red] ***[/COLOR]  
-#EXTVLCOPT:network-caching=1000
-http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
+#EXTINF:-1 ,1 Music Channel RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14597
+#EXTINF:-1 ,AMC RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14647
+#EXTINF:-1 ,AXN Black RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14661
+#EXTINF:-1 ,AXN HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14634
+#EXTINF:-1 ,AXN White RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14660
+#EXTINF:-1 ,Pro Gold RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14648
+#EXTINF:-1 ,PRO 2 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14635
+#EXTINF:-1 ,Antena 1 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14636
+#EXTINF:-1 ,Antena 3 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14637
+#EXTINF:-1 ,Antena Stars RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14638
+#EXTINF:-1 ,B1 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14632
+#EXTINF:-1 ,Cartoon Network RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14631
+#EXTINF:-1 ,Cinemax HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14629
+#EXTINF:-1 ,Da Vinci Learning RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14628
+#EXTINF:-1 ,Animal Planet RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14626
+#EXTINF:-1 ,Digi Life RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14624
+#EXTINF:-1 ,Digi Sport 1 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14623
+#EXTINF:-1 ,Digi Sport 1 HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/20428
+#EXTINF:-1 ,Digi Sport 2 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14622
+#EXTINF:-1 ,Digi Sport 2 HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/20427
+#EXTINF:-1 ,Digi Sport 3 HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14621
+#EXTINF:-1 ,Digi Sport 4 HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14620
+#EXTINF:-1 ,Digi World HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14619
+#EXTINF:-1 ,Digi 24 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14627
+#EXTINF:-1 ,TLC RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14616
+#EXTINF:-1 ,Disney Channel RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14614
+#EXTINF:-1 ,Disney Junior RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14613
+#EXTINF:-1 ,Discovery Channel RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/24904
+#EXTINF:-1 ,Diva Universal RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14612
+#EXTINF:-1 ,Etno TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14611
+#EXTINF:-1 ,Eurosport 1 HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14609
+#EXTINF:-1 ,Eurosport 2 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14610
+#EXTINF:-1 ,Favorit TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14608
+#EXTINF:-1 ,Film Cafe RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14607
+#EXTINF:-1 ,Fine Living RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14645
+#EXTINF:-1 ,Fishing & Hunting RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14650
+#EXTINF:-1 ,HBO RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14604
+#EXTINF:-1 ,HBO 3 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14605
+#EXTINF:-1 ,History RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14603
+#EXTINF:-1 ,Kanal D RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14601
+#EXTINF:-1 ,Kiss TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14600
+#EXTINF:-1 ,LookPlus RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14599
+#EXTINF:-1 ,Minimax RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14644
+#EXTINF:-1 ,National Geographic Wild RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14593
+#EXTINF:-1 ,National Geographic RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14596
+#EXTINF:-1 ,Național TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14595
+#EXTINF:-1 ,Neptun TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14594
+#EXTINF:-1 ,Paramount Channel RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14633
+#EXTINF:-1 ,Prima TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14642
+#EXTINF:-1 ,Pro Cinema RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14590
+#EXTINF:-1 ,Pro TV International RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14589
+#EXTINF:-1 ,Pro TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14591
+#EXTINF:-1 ,Realitatea TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14641
+#EXTINF:-1 ,Romania TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14587
+#EXTINF:-1 ,PRO X RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14640
+#EXTINF:-1 ,TV 1000 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14582
+#EXTINF:-1 ,TVR 1 HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/15393
+#EXTINF:-1 ,TVR 1 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14581
+#EXTINF:-1 ,TVR 2 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14580
+#EXTINF:-1 ,TVR 3 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/15391
+#EXTINF:-1 ,TVR International RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/15386
+#EXTINF:-1 ,Taraf TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14584
+#EXTINF:-1 ,U TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/14579
+#EXTINF:-1 ,Telekom sport 1 HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/16546
+#EXTINF:-1 ,Cinemax 2 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/16558
+#EXTINF:-1 ,HBO 2 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/16559
+#EXTINF:-1 ,Happy Channel RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/13385
+#EXTINF:-1 ,Mooz RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/18332
+#EXTINF:-1 ,ZU TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/23853
+#EXTINF:-1 ,Antena 1 HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/23851
+#EXTINF:-1 ,DocuBox RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/23947
+#EXTINF:-1 ,Telekom sport 2 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/24226
+#EXTINF:-1 ,Telekom sport 3 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/24227
+#EXTINF:-1 ,Telekom sport 4 RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/24228
+#EXTINF:-1 ,Pro TV HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/25754
+#EXTINF:-1 ,HBO FHD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/27550
+#EXTINF:-1 ,LookSport HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/27539
+#EXTINF:-1 ,Film Now HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/27662
+#EXTINF:-1 ,Mooz Dance RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/27674
+#EXTINF:-1 ,Discovery Science RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/27675
+#EXTINF:-1 ,Hora TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/30306
+#EXTINF:-1 ,BBC Earth RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/30307
+#EXTINF:-1 ,Duck TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/30308
+#EXTINF:-1 ,CineMaraton HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/30309
+#EXTINF:-1 ,Magic TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/30310
+#EXTINF:-1 ,Rock TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/30311
+#EXTINF:-1 ,Cinethronix RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/30312
+#EXTINF:-1 ,National 24 Plus RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/30443
+#EXTINF:-1 ,Animal Planet HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/30444
+#EXTINF:-1 ,Discovery Showcase HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/30445
+#EXTINF:-1 ,DTX RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/30446
+#EXTINF:-1 ,Travel Channel HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/31520
+#EXTINF:-1 ,Boomerang RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/31960
+#EXTINF:-1 ,JimJam RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/31961
+#EXTINF:-1 ,Extreme Sports Channel RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/31962
+#EXTINF:-1 ,PRO 2 HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32689
+#EXTINF:-1 ,PRO X HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32690
+#EXTINF:-1 ,National Geographic Wild HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32691
+#EXTINF:-1 ,Nickelodeon RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32815
+#EXTINF:-1 ,Comedy Central RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32816
+#EXTINF:-1 ,NickToons RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32823
+#EXTINF:-1 ,HBO 2 HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32877
+#EXTINF:-1 ,HBO 3 HD RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32878
+#EXTINF:-1 ,AXN Spin RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32879
+#EXTINF:-1 ,TNT RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32880
+#EXTINF:-1 ,Mezzo RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32881
+#EXTINF:-1 ,E! Entertainment RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32882
+#EXTINF:-1 ,Bollywood TV RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32883
+#EXTINF:-1 ,Eurosport RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32884
+#EXTINF:-1 ,FilmBox Premium RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32885
+#EXTINF:-1 ,FilmBox RO
+http://clientportal.link:80/SamsungSmat/jC3Uri2970/32886
