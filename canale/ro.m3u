@@ -38,13 +38,13 @@ http://188.138.235.61:80/hls/protv.m3u8
 https://vid.hls.protv.ro/proxhdn/proxhd_2_34/index.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] DIGI 24 HD
 http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] B1🇷🇴
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] B1
 http://193.228.153.231:4242/bysid/70
 #EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR brown]Http.[/COLOR][COLOR brown]# 1[/COLOR] Romania Tv
 http://193.228.153.231:4243/bysid/125
 #EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 3 
 http://193.228.153.231:4240/bysid/120
-#EXTINF:-1 tvg-ID="RealitateaTV.ro" tvg-name="RO: Realitatea Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/realitatea_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Realitatea Tv🇷🇴
+#EXTINF:-1 tvg-ID="RealitateaTV.ro" tvg-name="RO: Realitatea Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/realitatea_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Realitatea Tv
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 1
 http://193.228.153.231:4240/bysid/40
