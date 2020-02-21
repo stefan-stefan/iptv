@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:6475,Black and Blue
-#EXTVLCOPT:network-caching=1000
-https://ryzen.hlssrv.com/hls_serve/BT5Rugnyakqqb0iSEE7PgQ/1580596987/WK1A2X6dvgkCDI6TgyZo/pl2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/qwLbQSeFy6ht8skBtao7lAZjsDo.jpg"group-title="PELICULAS", AVENGERS END GAME
 #EXTVLCOPT:network-caching=1000
 https://superb.hlssrv.com/hls_serve/DBjvEYPlr4gM2m9zimeqIA/1580577763/YM70OYkXkx1J9pwhzTsq/pl2.m3u8
