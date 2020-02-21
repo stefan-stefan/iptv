@@ -33,21 +33,25 @@ http://ch01.spr24.net/22303/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/logo_main_tvri.png",Tvr International (Acestream)
 acestream://e504ba0d4a5e2d70ceb8b3f1323d82c29d2c5d0f
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png" group-title="Pro TV",Pro TV (Stream 1)
-https://rebrand.ly/protvHD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png" group-title="Pro TV",Pro TV (Stream 2)
-http://myiptv.ddns.me:5000/emanuel/emrodaloho/3134
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Sopcast 1)
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Sopcast 2)
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265414
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Sopcast 3)
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265419
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Acestream 1)
-acestream://9ef9c84096f336d1e70851e5c185ff2260c1f69d
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Acestream 2)
-acestream://71f75c30001e80fc03627fab0d58738613d5dc3b
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Acestream 3)
-acestream://c4db018703fb4f631663798b15009cae9a9d3642
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Pro_TV_%282016%29.svg/1024px-Logo_Pro_TV_%282016%29.svg.png"  group-title="Pro TV",Pro TV (Acestream 4)
-acestream://41179e2c37145e8e8d4f840c8d00df979e87854f
+#EXTINF:-1 tvg-ID="Happy Channel" tvg-name="RO: Happy Channel HDTel" tvg-logo="https://iptvsensation.org/logo/ro/HappyChannel.ro.png" group-title="MUZICA",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] Happy Channel HD
+acestream://1618ad4debdff785c863bd320b5e7d16d563a283
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Film_cafe_hu.png" group-title="GENERALE",[COLOR yellow]Acestream.[/COLOR][COLOR yellow]# 1[/COLOR]Film Cafe 
+acestream://e42976fa49ceb36c3b8cf16a84542b63d2b8b936
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/TV1000_4.png" group-title="GENERALE",[COLOR yellow]Acestream.[/COLOR][COLOR yellow]# 1[/COLOR]Tv 1000 
+acestream://d8dd7b7461a13693517e1c591e47be876f1649b3
+#EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="RO: Paramount Channel" tvg-logo="https://iptvsensation.org/logo/ro/ParamountChannel.ro.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Paramount Channel
+acestream://99a45b3739b0d3ce26af392ad4039256b6fb1741
+#EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AXN
+acestream://ebddf12767655e5d9a859bcfe3d7d78e91f72f10
+#EXTINF:-1 tvg-ID="AXN Black" tvg-name="RO: AXN Black" tvg-logo="https://iptvsensation.org/picons/axnblack.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AXN Black
+acestream://5d1cd83572135124cbcb324a449e1dabc21125b8
+#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="FILME",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] AXN SPIN(lipsa stream)
+acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Axn White(lipsa stream)
+acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Cinemax
+acestream://34b1402557fb7faab2979361c4e9650fa0948724
+#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Cinemax 2
+acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] FILMBOX PREMIUM
+acestream://d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c
