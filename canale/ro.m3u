@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-logo="http://documentarys.do.am/tvonlineromy/romytvlist/tv-png-free-download-3-1-.png",[COLORred][B]HTTP, SOPCAST & ACESTREAM[/COLOR][/B]
 http://89.136.209.26
-#EXTINF:-1 tvg-logo="",lkjjkjjkll
-http://documentarys.do.am/tvonlineromy/howimetyourmo/playlist.m3u8
 #EXTINF:-1 tvg-ID="Happy Channel" tvg-name="RO: Happy Channel HDTel" tvg-logo="https://iptvsensation.org/logo/ro/HappyChannel.ro.png" group-title="MUZICA",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] Happy Channel HD
 acestream://1618ad4debdff785c863bd320b5e7d16d563a283
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Film_cafe_hu.png" group-title="GENERALE",[COLOR yellow]Acestream.[/COLOR][COLOR yellow]# 1[/COLOR]Film Cafe 
