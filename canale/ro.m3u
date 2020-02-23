@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* LISTA INCHISA IN ACEST PLUGIN! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
-#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]ACTUALIZATA 12.02.2020![/I][/B][/COLOR]
+#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]LISTA E MUTATA IN NOUL (Stefan Plugin Playground) [/I][/B][/COLOR]
 http://89.136.209.26:1935/l
 #EXTINF:-1 tvg-id="" tvg-name="#STEFAN-TV-Romania #" tvg-logo="http://pici.life/RO/romania.png" group-title="Romania",#LISTA INCISA IMI CER SCUZE #
 http://iptv.rent:8080/z57v4cnp7k/7cxiblicoh/5334
