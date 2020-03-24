@@ -3,6 +3,19 @@
 http://89.136.209.26:1935/l
 #EXTINF:#1 tvg-logo="  https://lh3.googleusercontent.com/wC0Y9BYziEOJIt-iYZPBM1lYLfVqg1nx1Rvt7Rtwe-nlxI7exDmtRlp9yPJyQvIAdLYw=w300",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      GENERALE    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:12349
+#EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      STIRI       [/B][/COLOR][COLOR red]       ***[/COLOR]  
+http://0.0.0.0:123410
+
+#EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Realitatea Tv
+sop://broker.sopcast.com:3912/253036
+#EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Realitatea Tv
+http://89.163.148.31:8000/live/saban/saban/8272.ts
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Romania Tv
+sop://broker.sopcast.com:3912/148258
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Romania Tv
+http://89.163.148.31:8000/live/saban/saban/8273.ts
+#EXTINF:#1 tvg-logo="http://www.digi24.ro/static/theme#1616-repo/dist/assets/imgs/digi24.ro-logo.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] DIGI 24
+http://89.163.148.31:8000/live/saban/saban/8273.ts
 #EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Tvr 1[/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148085
 #EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR][B] Tvr 1[/B]
@@ -18,6 +31,8 @@ sop://broker.sopcast.com:3912/151301"
 http://89.43.138.29/live/playlist13.m3u8
 #EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR red]# 4[/COLOR][B] Antena 1 [/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Antena3.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Antena 3
+sop://broker.sopcast.com:3912/148084
 #EXTINF:#1  tvg-logo="http://www.logoeps.net/wp-content/uploads/2014/02/kanal_d.jpg" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Kanal D [/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149258
 #EXTINF:#1 tvg-logo="http://www.nationaltv.ro/assets/img/logo-ntv.png" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]#S1[/COLOR][B] National Tv [/B]
@@ -148,32 +163,7 @@ sop://broker.sopcast.com:3912/148248
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/ff/National_Geographic_Society.png/revision/latest?cb=20100927231400" group-title="DOCUMENTARE",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] National Geographic
 http://89.163.148.31:8000/live/saban/saban/8268.ts
  
-#EXTINF:#1 tvg-logo="http://www.desene-animate.com/wp-content/uploads/2016/02/logo.png",[COLOR blue]    ***      [/COLOR][COLOR yellow][B]    Desene [/B][/COLOR][COLOR pink][B] Animate[/B][/COLOR][COLOR red]     ***    [/COLOR]
-http://0.0.0.0:12347
-#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Boomerang  
-sop://broker.sopcast.com:3912/149264
-#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/1a/301px-Cartoon_Network_2004.svg.png/revision/latest?cb=20140721162109" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Cartoon Network
-sop://broker.sopcast.com:3912/148254
-#EXTINF:#1 " tvg-logo="http://www.forbes.ro/wp-content/uploads/2014/07/Disney-Channel.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Disney Channel
-sop://broker.sopcast.com:3912/253031
-#EXTINF:#1  tvg-logo="http://www.forbes.ro/wp-content/uploads/2014/07/Disney-Channel.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Disney Channel
-sop://151.80.76.190:3912/253031
-#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Disney Junior
-sop://broker.sopcast.com:3912/256239
-#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Disney Junior [
-http://89.163.148.31:8000/live/saban/saban/8257.ts
-#EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-dR4Y8zCj64I/AAAAAAAAAAI/AAAAAAAAAAA/FKjacrrD_sc/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Duck Tv
-sop://broker.sopcast.com:3912/148259
-#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d6/268453-logo-megamax.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Megamax Tv
-sop://broker.sopcast.com:3912/256328
-#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d6/268453-logo-megamax.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Megamax Tv
-http://89.163.148.31:8000/live/saban/saban/8265.ts
-#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/minimax_ro1.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Minimax
-sop://broker.sopcast.com:3912/148263
-#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/minimax_ro1.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Minimax
-http://89.163.148.31:8000/live/saban/saban/8266.ts
-#EXTINF:#1 tvg-logo="http://tvron.net/static/canal/nickelodeon.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Nickelodeon
-sop://broker.sopcast.com:3912/253472
+
  
 #EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      SPORT       [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:12346
@@ -205,20 +195,34 @@ http://89.163.148.31:8000/live/saban/saban/8260.ts
 sop://broker.sopcast.com:3912/124991
 #EXTINF:#1  tvg-logo="https://lh5.googleusercontent.com/-e393ZEo6prI/UgWF2uAJV7I/AAAAAAAABOE/O46JvRFvjus/h250/eurosport+2+live.png" group-title="SPORT",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Eurosport 2  
 http://89.163.148.31:8000/live/saban/saban/8261.ts
+
+#EXTINF:#1 tvg-logo="http://www.desene-animate.com/wp-content/uploads/2016/02/logo.png",[COLOR blue]    ***      [/COLOR][COLOR yellow][B]    Desene [/B][/COLOR][COLOR pink][B] Animate[/B][/COLOR][COLOR red]     ***    [/COLOR]
+http://0.0.0.0:12347
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Boomerang  
+sop://broker.sopcast.com:3912/149264
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/1a/301px-Cartoon_Network_2004.svg.png/revision/latest?cb=20140721162109" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Cartoon Network
+sop://broker.sopcast.com:3912/148254
+#EXTINF:#1 " tvg-logo="http://www.forbes.ro/wp-content/uploads/2014/07/Disney-Channel.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Disney Channel
+sop://broker.sopcast.com:3912/253031
+#EXTINF:#1  tvg-logo="http://www.forbes.ro/wp-content/uploads/2014/07/Disney-Channel.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Disney Channel
+sop://151.80.76.190:3912/253031
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Disney Junior
+sop://broker.sopcast.com:3912/256239
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Disney Junior [
+http://89.163.148.31:8000/live/saban/saban/8257.ts
+#EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-dR4Y8zCj64I/AAAAAAAAAAI/AAAAAAAAAAA/FKjacrrD_sc/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Duck Tv
+sop://broker.sopcast.com:3912/148259
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d6/268453-logo-megamax.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Megamax Tv
+sop://broker.sopcast.com:3912/256328
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d6/268453-logo-megamax.jpg" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Megamax Tv
+http://89.163.148.31:8000/live/saban/saban/8265.ts
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/minimax_ro1.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Minimax
+sop://broker.sopcast.com:3912/148263
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/minimax_ro1.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Minimax
+http://89.163.148.31:8000/live/saban/saban/8266.ts
+#EXTINF:#1 tvg-logo="http://tvron.net/static/canal/nickelodeon.png" group-title="Desene Animate",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Nickelodeon
+sop://broker.sopcast.com:3912/253472
  
  
  
-#EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      STIRI       [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:123410
-#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Antena3.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Antena 3
-sop://broker.sopcast.com:3912/148084
-#EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Realitatea Tv
-sop://broker.sopcast.com:3912/253036
-#EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR] Realitatea Tv
-http://89.163.148.31:8000/live/saban/saban/8272.ts
-#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Romania Tv
-sop://broker.sopcast.com:3912/148258
-#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Romania Tv
-http://89.163.148.31:8000/live/saban/saban/8273.ts
-#EXTINF:#1 tvg-logo="http://www.digi24.ro/static/theme#1616-repo/dist/assets/imgs/digi24.ro-logo.png" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] DIGI 24
-http://89.163.148.31:8000/live/saban/saban/8273.ts
+
