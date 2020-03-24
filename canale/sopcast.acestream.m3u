@@ -1,55 +1,26 @@
-#EXTINF:-1 tvg-id="Bollywood Clasic" tvg-name="Bollywood Clasic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBr2gWvg997mbuVPTM2nuM5V-TPH16ohVsOmQPXXWwE_kK6w86" group-title="FILME",Bollywood Clasic
-#EXTINF:-1, tvg-logo="Bollywood Clasic",Bollywood Classic
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="Bollywood Tv Film" tvg-name="Bollywood Tv Film" tvg-logo="https://2.bp.blogspot.com/-67-gsy_3YnU/U0qiEq7Df8I/AAAAAAAAAzg/MK0SFJ48l7c/s1600/%D9%82%D9%86%D8%A7%D8%A9+mbc+bollywood+2014.PNG" group-title="FILME",Bollywood Tv Film
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="http://www.logoeps.net/wp-content/uploads/2014/02/kanal_d.jpg" group-title="GENERALE",Kanal D
-http://80.86.107.169:8100/stream.flv
-#EXTINF:-1 tvg-id="Agro Tv" tvg-name="Agro Tv" tvg-logo="http://www.agrotv.bg/images/logo.png" group-title="STIRI",Agro Tv
-http://agrotv.streamnet.ro:9000/
-#EXTINF:-1 tvg-id="Digi 24" tvg-name="Digi 24" tvg-logo="http://1.bp.blogspot.com/-kl2zn8Zm6UE/TxrIJ6HbIPI/AAAAAAAADu8/2f47v68VQJo/s1600/digi24+logo.png" group-title="STIRI",Digi 24
-http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 tvg-id="Digi 24" tvg-name="Digi 24" tvg-logo="http://1.bp.blogspot.com/-kl2zn8Zm6UE/TxrIJ6HbIPI/AAAAAAAADu8/2f47v68VQJo/s1600/digi24+logo.png" group-title="STIRI",Digi 24 (2)
-http://81.196.0.126/digi24edge/digi24hdlqhls/index.m3u8
-#EXTINF:-1 tvg-id="Romania Tv" tvg-name="Romania Tv" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",Romania Tv
-http://rtv.smcmobile.ro:8080/RTV.m3u8
-#EXTINF:-1 tvg-id="Neptun Tv" tvg-name="Neptun Tv" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/082012/neptun-tv-logo.png?itok=73027eiG" group-title="GENERALE",Neptun Tv
-http://webmobile.xdev.ro:81/tv30/playlist.m3u8
-#EXTINF:-1 tvg-id="Tv Sud Est" tvg-name="Tv Sud Est" tvg-logo="http://itutorial.ro/wp-content/uploads/2014/04/tvsudest.jpg" group-title="GENERALE",Tv Sud Est
-http://iptv.tvsatrm.ro/livestream/tvse.m3u8
-#EXTINF:-1 tvg-id="Antena Monden" tvg-name="Antena Monden" tvg-logo="http://ulango.tv/uploads/channels/162976/logo_antena%20monden3.png" group-title="GENERALE",Antena Monden
-http://stream1.aplay.ro:1935/live/smil:AntenaMonden/playlist.m3u8
-#EXTINF:-1 tvg-id="Info Pescar" tvg-name="Info Pescar" tvg-logo="http://www.infopescar.tv/wp-content/uploads/2014/03/LogoItalicRosu.png" group-title="DOCUMENTAR",Info Pescar
-https://www.youtube.com/watch?v=kP8NAzcuKkk
-#EXTINF:-1 tvg-id="Pro Tv News" tvg-name="Pro Tv News" tvg-logo="http://assets.sport.ro/assets/sport/2012/07/25/image_galleries/162605/voyo-news-devine-canalul-de-stiri-online-protv-news_1_size1.jpg" group-title="STIRI",Pro Tv News
-http://m2.live.protv.ro:1935/news/1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Realitatea Tv" tvg-name="Realitatea Tv" tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",Realitatea Tv
-http://realitatea.m247.ro/hls/live.m3u8
-#EXTINF:-1 tvg-id="Realitatea Plus" tvg-name="Realitatea Plus" tvg-logo="http://4.bp.blogspot.com/-snDlLDGqhrM/VMoF2EnAiJI/AAAAAAAAGsk/HQpxfo6Somc/s320/realitatea-plus-plus.PNG" group-title="STIRI",Realitatea Plus
-rtmp://plus.realitatea.net:1935/livertmp/plus.flv
-#EXTINF:-1 tvg-id="Romania Tv " tvg-name="Romania Tv " tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",Romania Tv
-http://rtvflash.smcmobile.ro:8020/rtv.flv
-#EXTINF:-1 tvg-id="Antena News " tvg-name="Antena News " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/849px-Antenna_TV_logo.svg.png" group-title="STIRI",Antena News
-http://stream1.aplay.ro:1935/live/smil:AntenaNews/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena 1 Cluj " tvg-name="Antena 1 Cluj " tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/1/2/5/8/12584497/12584497_logoa1cj_1353437010,640x360,b:1.jpg" group-title="GENERALE",Antena 1 Cluj
-http://iphone-streaming.ustream.tv/uhls/12584497/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="Tv H " tvg-name="Tv H " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tvh_logo.svg/1280px-Tvh_logo.svg.png" group-title="GENERALE",Tv H
-http://89.35.158.176:8010/TVH20.m3u8
-#EXTINF:-1 tvg-id="B1 Tv  " tvg-name="B1 Tv  " tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/66/B1TV-1-.png/revision/latest?cb=20150801160913" group-title="GENERALE",B1 Tv
-http://89.35.158.176:8010/B1.m3u8
-#EXTINF:-1 tvg-id="Antena 3  " tvg-name="Antena 3  " tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Antena3.png" group-title="GENERALE",Antena 3
-http://89.35.158.177:8010/Antena3.m3u8
-#EXTINF:-1,tvg-logo="5USA_logo_2011.png", Info7
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-#EXTINF:-1 [COLOR blue][B]--***MUZICA***--[/B][/COLOR]
-http://10.0.0.0
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-QuQCNkeCRKQ/VsSRpdcaN4I/AAAAAAAAAY0/radpvO3CtLQ/s640/vevo-tv-logo-new.png",[COLOR blue][B]--Muzica US--[/B][/COLOR] Vevo HD1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 tvg-id="Atomic TV" tvg-name="Atomic TV" tvg-logo="http://iamericaa.com/wp-content/uploads/2016/04/zatom.png" group-title="MUZICA",Atomic TV
-http://5.154.185.153/hls/live.m3u8
-#EXTINF:-1 tvg-id="DJing Tv" tvg-name="DJing Tv" tvg-logo="http://www.djing.com/img/facebook.png" group-title="MUZICA",DJing Tv
-http://www.djing.com/tv/noaudio_RO.m3u8
-#EXTINF:-1 tvg-id="U TV" tvg-name="U TV" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",U TV
-http://81.196.0.126/utvedge/utvlivehls/index.m3u8
-#EXTINF:-1 tvg-id="C Music Tv" tvg-name="C Music Tv" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b4/C_Music_TV.png/revision/latest?cb=20100526203333" group-title="MUZICA",C Music Tv
-mmsh://88.150.142.12:80/cmusic-tv
+#EXTINF:0  tvg-logo="https://static.iptv-epg.com/ro/TVR1.ro.png" ,TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_TVR_HD.svg/2000px-Logo_TVR_HD.svg.png",TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:0  tvg-logo="https://static.iptv-epg.com/ro/TVR2.ro.png" ,TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:0  tvg-logo="https://static.iptv-epg.com/ro/TVR3.ro.png" ,TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_TVR_Interna%C8%9Bional_%282004%29.svg/1200px-Logo_TVR_Interna%C8%9Bional_%282004%29.svg.png",TVR INTERNATIONAL
+http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
+#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/d/de/Logo_TVR_Moldova.svg/1024px-Logo_TVR_Moldova.svg.png" ,TVR MOLDOVA
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_TVR_Ia%C8%99i.svg/253px-Logo_TVR_Ia%C8%99i.svg.png" ,TVR Iasi
+http://82.208.151.107:8088/high/tvriasi/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_TVR_Cluj.svg/2000px-Logo_TVR_Cluj.svg.png",TVR Cluj
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_TVR_Craiova.svg/389px-Logo_TVR_Craiova.svg.png" ,TVR Craiova
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_TVR_T%C3%AErgu-Mure%C8%99.svg/800px-Logo_TVR_T%C3%AErgu-Mure%C8%99.svg.png">,TVR Targu Mures
+http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Logo_TVR_Timi%C8%99oara.svg/800px-Logo_TVR_Timi%C8%99oara.svg.png",TVR Timisoara
+http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_Pro_Cinema_%282017%29.svg/234px-Logo_Pro_Cinema_%282017%29.svg.png",Pro Cinema
+http://89.45.201.132:2222/udp/224.0.0.3:504
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Pro_TV_HD_logo_2017.png/800px-Pro_TV_HD_logo_2017.png",PRO TV HD
+http://89.38.8.131:39532
