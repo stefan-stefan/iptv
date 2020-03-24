@@ -6,15 +6,15 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148087&name=So
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dvbnews.ro/wp-content/uploads/2018/11/TVR1_HD-1024x408.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 1
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148087&name=SopProg#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+plugin://program.plexus/?mode=2&url=//sop://broker.sopcast.com:3912/148258&name=SopProg
 #EXTINF:0 tvg-logo="http://stvron.com/canale/mari/tvr-moldova.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]TVR Moldova
-http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+plugin://program.plexus/?mode=2&url=//sop://broker.sopcast.com:3912/148258&name=SopProg
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] National TV
-http://tv-he.orange.ro/shls/LIVE$nationaltv/10.m3u8/Level%282306867%29?start=LIVE&end=END
+plugin://program.plexus/?mode=2&url=//sop://broker.sopcast.com:3912/148258&name=SopProg
 #EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV🇷🇴
-https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
+plugin://program.plexus/?mode=2&url=//sop://broker.sopcast.com:3912/148258&name=SopProg
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1200px-logo_pro_tv_international-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Tv International🇷🇴
-http://78.109.108.62:2001/protv
+plugin://program.plexus/?mode=2&url=//sop://broker.sopcast.com:3912/148258&name=SopProg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV News
 http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:0 tvg-logo="https://adevarul.ro/assets/adevarul.ro/MRImage/2017/05/25/5926ccb25ab6550cb86f7cb0/646x404.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro TV Chisinau
