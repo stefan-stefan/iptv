@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]LISTA IN CONSTRUCTIE (Imi cer scuze)) [/I][/B][/COLOR]
+#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]LISTA IN CONSTRUCTIE (Imi cer scuze) [/I][/B][/COLOR]
 http://89.136.209.26:1935/l
 #EXTINF:#1 tvg-logo="  https://lh3.googleusercontent.com/wC0Y9BYziEOJIt-iYZPBM1lYLfVqg1nx1Rvt7Rtwe-nlxI7exDmtRlp9yPJyQvIAdLYw=w300",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      GENERALE    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:12349
-#EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      STIRI       [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:123410
+
 
 #EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] Realitatea Tv
 sop://broker.sopcast.com:3912/253036
@@ -65,35 +64,6 @@ http://89.163.148.31:8000/live/saban/saban/8248.ts
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/38/Digi_life_ro.png/revision/latest?cb=20130717184115" group-title="GENERALE",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] DIGI LIFE[/B]
 http://89.163.148.31:8000/live/saban/saban/8251.ts
  
- 
-#EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      MUZICA    [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:12348
-#EXTINF:#1 tvg-logo="http://zutv.ro/templates/default/img/biglogo.png" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Zu Tv [/B]
-sop://broker.sopcast.com:3912/148252
-#EXTINF:#1 tvg-logo="http://www.livestream.com/filestore/logos/3b2fdfc1-ca40# 52ca-d7b9-dde430b43d96-banner.jpg" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 4[/COLOR][B] Kiss TV [/B]
-http://fms75.mediadirect.ro:1937/live3/_definst_/kiss_low/playlist.m3u8?publisher=83&token=7bdb215d44e8244dbc593adece3c7a3eba57b54ba410258f
-"#EXTINF:#1 tvg-logo="http://www.livestream.com/filestore/logos/3b2fdfc1-ca40# 52ca-d7b9-dde430b43d96-banner.jpg" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 4[/COLOR][B] Kiss TV [/B]
-"sop://broker.sopcast.com:3912/148883
-#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] U TV[/B]
-http://81.196.0.126:80/utvedge/utvlivehls/index.m3u8
-"#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR][B] U TV[/B]
-sop://broker.sopcast.com:3912/256332"
-"#EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 4[/COLOR][B] U TV[/B]
-acestream://14df6a45433ba386e132fa36ee9d7c164a5f4a3e  "
-#EXTINF:#1  tvg-logo="http://iamericaa.com/wp-content/uploads/2016/04/zatom.png" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Atomic TV[/B]
-http://5.154.185.153/hls/live.m3u8
-"#EXTINF:#1  tvg-logo="http://www.livetvswatch.com/uploads/1-music-channel-tv-live-from-romania#1446180705.jpg" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] 1 Music Channel[/B]
-"http://ichunk.livestream.com/212.94/livestreamiphone/1_music_channel-musicchannel000020161101#165124_446/chunklist.m3u8?wowzasessionid=1500628962
-"#EXTINF:#1  tvg-logo="http://www.livetvswatch.com/uploads/1-music-channel-tv-live-from-romania#1446180705.jpg" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR blue]# 2[/COLOR][B] 1 Music Channel[/B]
-"http://82.76.40.81/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
-"#EXTINF:#1  tvg-logo="http://www.djing.com/img/facebook.png" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR] DJing Tv
-"http://www.djing.com/tv/noaudio_RO.m3u8
-"#EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-DC1wn7qRhoI/VLllUPC-NlI/AAAAAAAAAM4/yGuu40xYGTU/s1600/taraftv.png" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Taraf TV [/B]
-"sop://broker.sopcast.com:3912/148250
-#EXTINF:#1 tvg-logo="http://www.invictory.com/public/pictures/news/16/15509/l3457692703c1bb81e85873494e8182651302701031.jpg" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Impact TV[/B]
-sop://broker.sopcast.com:3912/108790
-"#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/favorit_tv_ro.png" group-title="MUZICA",[COLOR orange]Serv.[/COLOR][COLOR green]# 1[/COLOR][B] Favorit Tv[/B]
-"http://fms75.mediadirect.ro:1937/live3/_definst_/favorit_low/playlist.m3u8?publisher=17&token=ec96ccac98c273d1d6838e150a388e0b9730642a44f61923
  
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
