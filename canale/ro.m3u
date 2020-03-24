@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]LISTA IN CONSTRUCTIE (Imi cer scuze)) [/I][/B][/COLOR]
+#EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png",[COLORred][B][I]LISTA IN CONSTRUCTIE! (Imi cer scuze) [/I][/B][/COLOR]
 http://89.136.209.26:1935/l
 #EXTINF:-1 tvg-logo="http://www.crestinulazi.ro/wp-content/uploads/2010/02/alfa-omega-logo.png" group-title="STIRI",[COLOR lawngreen]Http.[/COLOR][COLOR lawngreen]# 1[/COLOR]AlfaOmegaTV
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
