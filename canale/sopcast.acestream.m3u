@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="" tvg-name="•●★ Generaliste & Stiri ★●•" tvg-logo="" group-title="ROMANIA",•●★ Generaliste & Stiri ★●•
-http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12097
-#EXTINF:-1 tvg-id="" tvg-name="Antena1" tvg-logo="https://a1.ro/templates/default/img/a1logo.png" group-title="ROMANIA",Antena1
-http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6406
 #EXTINF:-1 tvg-id="" tvg-name="Antena1 HD" tvg-logo="" group-title="ROMANIA",Antena1 HD
 http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17387
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena1 FHD" tvg-logo="https://4.bp.blogspot.com/--iKtLoNlMlY/U3nea7gqcTI/AAAAAAAAffc/HJ1ipbU8PCM/s1600/Antena+1+HD+16+9.jpg" group-title="ROMANIA",Antena1 FHD
