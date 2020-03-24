@@ -1,55 +1,51 @@
 #EXTM3U
-#EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* LISTA INCHISA IN ACEST PLUGIN! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
-#EXTVLCOPT:network-caching=1000
-#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]LISTA E MUTATA IN NOUL (Stefan Plugin Playground) [/I][/B][/COLOR]
+#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]LISTA IN CONSTRUCTIE (Imi cer scuze)) [/I][/B][/COLOR]
 http://89.136.209.26:1935/l
-#EXTINF:-1 tvg-id="" tvg-name="#STEFAN-TV-Romania #" tvg-logo="http://pici.life/RO/romania.png" group-title="Romania",#LISTA INCISA IMI CER SCUZE #
-http://iptv.rent:8080/z57v4cnp7k/7cxiblicoh/5334
 #EXTINF:-1 tvg-logo="http://www.crestinulazi.ro/wp-content/uploads/2010/02/alfa-omega-logo.png" group-title="STIRI",[COLOR lawngreen]Http.[/COLOR][COLOR lawngreen]# 1[/COLOR]AlfaOmegaTV
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/cinemaraton.jpg" group-title="STIRI",[COLOR lawnred]Http.[/COLOR][COLOR lawnred]# 1[/COLOR]Cinemaraton
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/vSnm-EQXOfo/maxresdefault.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 1🇷🇴
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 2🇷🇴
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 2
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 3🇷🇴
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 3
 http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/tvr-moldova.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]TVR Moldova🇷🇴
+#EXTINF:0 tvg-logo="http://stvron.com/canale/mari/tvr-moldova.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]TVR Moldova
 http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] National TV🇷🇴
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] National TV
 http://tv-he.orange.ro/shls/LIVE$nationaltv/10.m3u8/Level%282306867%29?start=LIVE&end=END
 #EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV🇷🇴
 https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1200px-logo_pro_tv_international-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Tv International🇷🇴
 http://78.109.108.62:2001/protv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV News🇷🇴
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV News
 http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:0 tvg-logo="https://adevarul.ro/assets/adevarul.ro/MRImage/2017/05/25/5926ccb25ab6550cb86f7cb0/646x404.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro TV Chisinau🇷🇴
+#EXTINF:0 tvg-logo="https://adevarul.ro/assets/adevarul.ro/MRImage/2017/05/25/5926ccb25ab6550cb86f7cb0/646x404.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro TV Chisinau
 http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0 tvg-logo="http://www.frocus.net/images/logotv/original/ntv-moldova.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro TV Moldova🇷🇴
+#EXTINF:0 tvg-logo="http://www.frocus.net/images/logotv/original/ntv-moldova.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro TV Moldova
 http://188.138.235.61:80/hls/protv.m3u8
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro X🇷🇴
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro X
 https://vid.hls.protv.ro/proxhdn/proxhd_2_34/index.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] DIGI 24 HD🇷🇴
+#EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] DIGI 24 HD
 http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] B1🇷🇴
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] B1
 http://193.228.153.231:4242/bysid/70
 #EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR brown]Http.[/COLOR][COLOR brown]# 1[/COLOR] Romania Tv
 http://193.228.153.231:4243/bysid/125
-#EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 3🇷🇴 
+#EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 3 
 http://193.228.153.231:4240/bysid/120
-#EXTINF:-1 tvg-ID="RealitateaTV.ro" tvg-name="RO: Realitatea Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/realitatea_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Realitatea Tv🇷🇴
+#EXTINF:-1 tvg-ID="RealitateaTV.ro" tvg-name="RO: Realitatea Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/realitatea_tv.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Realitatea Tv
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 1🇷🇴
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 1
 http://193.228.153.231:4240/bysid/40
-#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Kanal D🇷🇴
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Kanal D
 http://193.228.153.231:4240/bysid/50
-#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Prima TV🇷🇴
+#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Prima TV
 http://193.228.153.231:4242/bysid/60
-#EXTINF:0 tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]COMEDY EST🇷🇴
+#EXTINF:0 tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]COMEDY EST
 https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.canadalandshow.com/wp-content/uploads/2017/02/cbc_comedy_jpeg.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Comedy Play🇷🇴
+#EXTINF:0 tvg-logo="https://www.canadalandshow.com/wp-content/uploads/2017/02/cbc_comedy_jpeg.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Comedy Play
 #EXTVLCOPT:network-caching=1000
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
