@@ -1,258 +1,541 @@
 #EXTM3U
 #EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
-#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]ACTUALIZATA 12.02.2020![/I][/B][/COLOR]
-http://89.136.209.26:1935/l
-#EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR red][B]**** HTTP-ACESTREAM-SOPCAST *** [/B][/COLOR][COLOR red] ***[/COLOR]  
-#EXTVLCOPT:network-caching=1000
-http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="##### |RO| ROMANIA #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",##### |RO| ROMANIA #####
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106808
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| TVR 1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| TVR 1
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106921
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| TVR 2" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| TVR 2
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106922
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| TVR 3" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| TVR 3
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106923
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| TVR HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| TVR HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106924
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| ROMANIA TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| ROMANIA TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106912
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| ANTENA 1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| ANTENA 1
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106818
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| ANTENA 1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| ANTENA 1 HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106819
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| ANTENA 3" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| ANTENA 3
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106820
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| ANTENA STARS" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| ANTENA STARS
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106821
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| PRO TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| PRO TV HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106910
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| PRO TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| PRO TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106907
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| PRO X" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| PRO X
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106909
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| PRO 2" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| PRO 2
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106904
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DIGI WORLD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DIGI WORLD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106844
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DIGI LIFE" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DIGI LIFE
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106837
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DIGI 24 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DIGI 24 HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106932
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| AXN WHITE" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| AXN WHITE
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106825
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| AXN ROMANIA" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| AXN ROMANIA
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106824
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| AXN BLACK" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| AXN BLACK
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106823
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| B1 TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| B1 TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106826
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DTX" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DTX
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106854
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| FAVORIT TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| FAVORIT TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106864
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| HAPPY CHANNEL" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| HAPPY CHANNEL
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106872
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| HBO Romania" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| HBO Romania
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106876
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| HBO HD RO" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| HBO HD RO
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106875
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| HBO2" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| HBO2
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106877
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| HBO 3 RO" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| HBO 3 RO
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106874
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| HBO 3" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| HBO 3
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106873
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| E! ENTERTAINMENT" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| E! ENTERTAINMENT
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106856
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| HORA TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| HORA TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106880
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| JIMJAM" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| JIMJAM
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106882
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| KANAL D" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| KANAL D
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106883
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| KISS TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| KISS TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106884
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| LOOK PLUS HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| LOOK PLUS HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106885
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| LOOKPLUS" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| LOOKPLUS
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106887
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| NATIONAL TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| NATIONAL TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106900
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| PRIMA TV RO" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| PRIMA TV RO
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106903
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| REALITATEA TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| REALITATEA TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106911
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| TARAF" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| TARAF
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106915
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| TNT RO" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| TNT RO
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106916
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| NGRO" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| NGRO
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106902
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| NATIONAL 24" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| NATIONAL 24
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106897
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| FINE LIVING" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| FINE LIVING
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106871
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| ETNO" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| ETNO
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106859
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DUNA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DUNA HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106855
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DOCUBOX" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DOCUBOX
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106853
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DIVA" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DIVA
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106852
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DAVINCI LEARNING" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DAVINCI LEARNING
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106835
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| TRAVEL CHANNEL HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| TRAVEL CHANNEL HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106918
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| TV PAPRIKA" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| TV PAPRIKA
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106920
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| ZU TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| ZU TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106931
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| U TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| U TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106925
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| TV 1000" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| TV 1000
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106919
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| SPERANTA TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| SPERANTA TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106914
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| RTL LOUNGE" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| RTL LOUNGE
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106913
-#EXTINF:-1 tvg-ID="" tvg-name="##### |RO| KIDS #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",##### |RO| KIDS #####
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106810
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| BOOMERANG" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| BOOMERANG
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106828
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| CARTOON" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| CARTOON
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106829
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| CARTOON NETWORK" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| CARTOON NETWORK
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106830
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DISNEY CHANNEL" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DISNEY CHANNEL
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106849
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DISNEY JR" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DISNEY JR
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106850
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DISNEY RO" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DISNEY RO
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106851
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| MINIMAX" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| MINIMAX
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106890
-#EXTINF:-1 tvg-ID="" tvg-name="##### |RO| CINEMA #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",##### |RO| CINEMA #####
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106812
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| CINEMAX 2" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| CINEMAX 2
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106834
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| CINEMAX" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| CINEMAX
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106833
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| FILMBOX PREMIUM
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106870
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| FILMBOX EXTRA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| FILMBOX EXTRA HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106869
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| FILMBOX" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| FILMBOX
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106868
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| FILM NOW" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| FILM NOW
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106867
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| FILM CAFE" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| FILM CAFE
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106866
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| PRO GOLD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| PRO GOLD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106906
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| PRO CINEMA" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| PRO CINEMA
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106905
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| MEGAMAX" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| MEGAMAX
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106889
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| CINEMARATON" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| CINEMARATON
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106832
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| CBS REALITY" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| CBS REALITY
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106831
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| BOLLYWOOD TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| BOLLYWOOD TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106827
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| AMC" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| AMC
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106815
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| AGRO TV" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| AGRO TV
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106814
-#EXTINF:-1 tvg-ID="" tvg-name="##### |RO| DISCOVERY #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",##### |RO| DISCOVERY #####
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106811
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| NAT GEO GRAPHIC RO" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| NAT GEO GRAPHIC RO
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106899
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| NAT GEO WILD HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| NAT GEO WILD HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106898
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| NAT GEO GRAPHIC HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| NAT GEO GRAPHIC HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106901
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| INVESTIGATION DISCOVERY" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| INVESTIGATION DISCOVERY
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106881
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DISCOVERY CHANNEL" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DISCOVERY CHANNEL
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106845
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DISCOVERY HD SHOWCASE" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DISCOVERY HD SHOWCASE
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106846
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DISCOVERY RO" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DISCOVERY RO
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106847
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DISCOVERY SCIENCE" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DISCOVERY SCIENCE
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106848
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| ANIMAL PLANET HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| ANIMAL PLANET HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106817
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| ANIMAL PLANET" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| ANIMAL PLANET
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106816
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DIGI ANIMAL WORLD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DIGI ANIMAL WORLD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106836
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| VIASAT NATURE" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| VIASAT NATURE
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106930
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| VIASAT HISTORY" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| VIASAT HISTORY
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106929
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| VIASAT EXPLORER" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| VIASAT EXPLORER
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106928
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| VIASAT EXPLORE" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| VIASAT EXPLORE
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106927
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| HISTORY" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| HISTORY
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106878
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| HISTORY HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| HISTORY HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106879
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| TRAVEL CHANNEL" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| TRAVEL CHANNEL
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106917
-#EXTINF:-1 tvg-ID="" tvg-name="##### |RO| MUSIC #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",##### |RO| MUSIC #####
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106813
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| MUSIC CHANNEL" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| MUSIC CHANNEL
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106896
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| MTV ROCKS" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| MTV ROCKS
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106895
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| MTV HITS" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| MTV HITS
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106894
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| MTV EUROPE" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| MTV EUROPE
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106893
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| MTV DANCE" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| MTV DANCE
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106892
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| MOOZ DANCE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| MOOZ DANCE HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106891
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| VH1 CLASSIC" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| VH1 CLASSIC
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106926
-#EXTINF:-1 tvg-ID="" tvg-name="##### |RO| SPORTS #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",##### |RO| SPORTS #####
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106809
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DIGI SPORT 1 HD RO" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DIGI SPORT 1 HD RO
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106839
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DIGI SPORT 1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DIGI SPORT 1
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106838
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DIGI SPORT 2 HD RO" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DIGI SPORT 2 HD RO
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106841
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DIGI SPORT 2" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DIGI SPORT 2
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106840
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DIGI SPORT 3" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DIGI SPORT 3
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106842
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| DIGI SPORT 4" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| DIGI SPORT 4
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106843
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| EXTREME SPORTS CHANNEL" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| EXTREME SPORTS CHANNEL
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106863
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| EUROSPORT 1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| EUROSPORT 1 HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106860
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| EUROSPORT 2 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| EUROSPORT 2 HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106861
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| EUROSPORT 2" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| EUROSPORT 2
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106862
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| ELEVENSPORTS 1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| ELEVENSPORTS 1
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106857
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| ELEVENSPORTS 2" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| ELEVENSPORTS 2
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106858
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| PRO TV INTERNATIONAL" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| PRO TV INTERNATIONAL
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106908
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| AUTO MOTOR SPORT" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| AUTO MOTOR SPORT
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106822
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| FIGHTBOX" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| FIGHTBOX
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106865
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| LOOKSPORT" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| LOOKSPORT
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106888
-#EXTINF:-1 tvg-ID="" tvg-name="|RO| LOOK SPORT HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_romania.png" group-title="ROMANIA",|RO| LOOK SPORT HD
-http://line.ma-cobra.com:80/LyIOFbdUMYSblF3/mwLCJkTVGOeJBHJ/106886
+#EXTINF:-1 tvg-id="" tvg-name="•●★ Generaliste & Stiri ★●•" tvg-logo="" group-title="ROMANIA",•●★ Generaliste & Stiri ★●•
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12097
+#EXTINF:-1 tvg-id="" tvg-name="Antena1" tvg-logo="https://a1.ro/templates/default/img/a1logo.png" group-title="ROMANIA",Antena1
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6406
+#EXTINF:-1 tvg-id="" tvg-name="Antena1 HD" tvg-logo="" group-title="ROMANIA",Antena1 HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17387
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena1 FHD" tvg-logo="https://4.bp.blogspot.com/--iKtLoNlMlY/U3nea7gqcTI/AAAAAAAAffc/HJ1ipbU8PCM/s1600/Antena+1+HD+16+9.jpg" group-title="ROMANIA",Antena1 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5539
+#EXTINF:-1 tvg-id="Antena2.ro" tvg-name="Antena Star" tvg-logo="" group-title="ROMANIA",Antena Star
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/13124
+#EXTINF:-1 tvg-id="" tvg-name="AntenaStar FHD" tvg-logo="https://assets.antenaplay.ro/2013/12/16/DdT9MLQ4ymw8FoP7eD2L.png" group-title="ROMANIA",AntenaStar FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5544
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 SD" tvg-logo="" group-title="ROMANIA",Antena 3 SD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17393
+#EXTINF:-1 tvg-id="Antena3.ro" tvg-name="Antena3 FHD" tvg-logo="https://www.antena3.ro/thumbs/big3/2017/01/20/antena-3-cea-mai-urmarita-televiziune-informativa-pe-targetul-comercial-429754.jpg" group-title="ROMANIA",Antena3 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5543
+#EXTINF:-1 tvg-id="" tvg-name="Antena International HD" tvg-logo="" group-title="ROMANIA",Antena International HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16864
+#EXTINF:-1 tvg-id="PROTV.ro" tvg-name="Pro Tv" tvg-logo="" group-title="ROMANIA",Pro Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/10892
+#EXTINF:-1 tvg-id="" tvg-name="Pro Tv HD" tvg-logo="" group-title="ROMANIA",Pro Tv HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17388
+#EXTINF:-1 tvg-id="PROTVHD.ro" tvg-name="PRO TV FHD 1080p" tvg-logo="https://i.ibb.co/315hBNH/protvhd.png" group-title="ROMANIA",PRO TV FHD 1080p
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16369
+#EXTINF:-1 tvg-id="" tvg-name="PRO TV Chisinau" tvg-logo="" group-title="ROMANIA",PRO TV Chisinau
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12241
+#EXTINF:-1 tvg-id="" tvg-name="ProTv International (rezerva)" tvg-logo="" group-title="ROMANIA",ProTv International (rezerva)
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/19028
+#EXTINF:-1 tvg-id="" tvg-name="KanalD" tvg-logo="" group-title="ROMANIA",KanalD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6396
+#EXTINF:-1 tvg-id="" tvg-name="KanalD HD" tvg-logo="" group-title="ROMANIA",KanalD HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17389
+#EXTINF:-1 tvg-id="KanalDHD.ro" tvg-name="KanalD FHD" tvg-logo="https://i.ibb.co/ZT9F00P/kanaldhd.png" group-title="ROMANIA",KanalD FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5547
+#EXTINF:-1 tvg-id="" tvg-name="PrimaTV" tvg-logo="https://www.brasovtv.com/images/primatv_logo_2.png" group-title="ROMANIA",PrimaTV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6410
+#EXTINF:-1 tvg-id="" tvg-name="RealitateaTv" tvg-logo="https://i.ibb.co/vLcbs7q/realitatea.png" group-title="ROMANIA",RealitateaTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/10891
+#EXTINF:-1 tvg-id="" tvg-name="RomaniaTv" tvg-logo="http://media.rtv.net/assets_new/images/safe_image.png" group-title="ROMANIA",RomaniaTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6433
+#EXTINF:-1 tvg-id="" tvg-name="DIGI24 FHD" tvg-logo="" group-title="ROMANIA",DIGI24 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17296
+#EXTINF:-1 tvg-id="" tvg-name="AgroTv" tvg-logo="http://bdincom.bg/sites/default/files/agrotv.png" group-title="ROMANIA",AgroTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6415
+#EXTINF:-1 tvg-id="" tvg-name="National24Plus" tvg-logo="http://www.manutv.net/wp-content/uploads/national24-plus.png" group-title="ROMANIA",National24Plus
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6425
+#EXTINF:-1 tvg-id="" tvg-name="Nasul Tv" tvg-logo="" group-title="ROMANIA",Nasul Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/20017
+#EXTINF:-1 tvg-id="" tvg-name="Tv Neptun" tvg-logo="" group-title="ROMANIA",Tv Neptun
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/42822
+#EXTINF:-1 tvg-id="" tvg-name="TvH" tvg-logo="" group-title="ROMANIA",TvH
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/42817
+#EXTINF:-1 tvg-id="" tvg-name="TVH HD" tvg-logo="" group-title="ROMANIA",TVH HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/42821
+#EXTINF:-1 tvg-id="" tvg-name="SperantaTv" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d5/Speranta_TV.png" group-title="ROMANIA",SperantaTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6429
+#EXTINF:-1 tvg-id="" tvg-name="Credo Tv (rezerva)" tvg-logo="" group-title="ROMANIA",Credo Tv (rezerva)
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12080
+#EXTINF:-1 tvg-id="" tvg-name="TRINITAS" tvg-logo="" group-title="ROMANIA",TRINITAS
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/19024
+#EXTINF:-1 tvg-id="" tvg-name="B1" tvg-logo="" group-title="ROMANIA",B1
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6388
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="Tvr1" tvg-logo="" group-title="ROMANIA",Tvr1
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15444
+#EXTINF:-1 tvg-id="" tvg-name="Tvr2" tvg-logo="" group-title="ROMANIA",Tvr2
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/14690
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="Tvr 3" tvg-logo="" group-title="ROMANIA",Tvr 3
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/10907
+#EXTINF:-1 tvg-id="" tvg-name="Tvr International" tvg-logo="" group-title="ROMANIA",Tvr International
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16354
+#EXTINF:-1 tvg-id="" tvg-name="TVR HD" tvg-logo="" group-title="ROMANIA",TVR HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12061
+#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="NationalTV" tvg-logo="" group-title="ROMANIA",NationalTV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6400
+#EXTINF:-1 tvg-id="" tvg-name="Profit Ro" tvg-logo="" group-title="ROMANIA",Profit Ro
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16367
+#EXTINF:-1 tvg-id="" tvg-name="•●★ EXCELENT MOVIE TIME ★●•" tvg-logo="" group-title="ROMANIA",•●★ EXCELENT MOVIE TIME ★●•
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/45852
+#EXTINF:-1 tvg-id="" tvg-name="Excelent Horror" tvg-logo="" group-title="ROMANIA",Excelent Horror
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/47516
+#EXTINF:-1 tvg-id="" tvg-name="Excelent Western" tvg-logo="" group-title="ROMANIA",Excelent Western
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/47517
+#EXTINF:-1 tvg-id="" tvg-name="Excelent Adventures" tvg-logo="" group-title="ROMANIA",Excelent Adventures
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/46493
+#EXTINF:-1 tvg-id="" tvg-name="Excelent Action" tvg-logo="" group-title="ROMANIA",Excelent Action
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/45851
+#EXTINF:-1 tvg-id="" tvg-name="Excelent Action HD" tvg-logo="" group-title="ROMANIA",Excelent Action HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/47518
+#EXTINF:-1 tvg-id="" tvg-name="Excelent Las Fierbinti" tvg-logo="" group-title="ROMANIA",Excelent Las Fierbinti
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/46530
+#EXTINF:-1 tvg-id="" tvg-name="Excelent Las Fierbinti Sez 2019 FHD" tvg-logo="" group-title="ROMANIA",Excelent Las Fierbinti Sez 2019 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/47528
+#EXTINF:-1 tvg-id="" tvg-name="Excelent Nostalgie 40+" tvg-logo="" group-title="ROMANIA",Excelent Nostalgie 40+
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/46382
+#EXTINF:-1 tvg-id="" tvg-name="•●★ CONY-MEDIA TV ★●•" tvg-logo="" group-title="ROMANIA",•●★ CONY-MEDIA TV ★●•
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16809
+#EXTINF:-1 tvg-id="" tvg-name="Lidas Action HD" tvg-logo="" group-title="",Lidas Action HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/40690
+#EXTINF:-1 tvg-id="" tvg-name="Lidas Bolywood HD" tvg-logo="" group-title="ROMANIA",Lidas Bolywood HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/40693
+#EXTINF:-1 tvg-id="" tvg-name="Lidas Family" tvg-logo="" group-title="ROMANIA",Lidas Family
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/40694
+#EXTINF:-1 tvg-id="" tvg-name="Lidas Film HD" tvg-logo="" group-title="ROMANIA",Lidas Film HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/40689
+#EXTINF:-1 tvg-id="" tvg-name="Lidas Film Zone+" tvg-logo="" group-title="ROMANIA",Lidas Film Zone+
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/40692
+#EXTINF:-1 tvg-id="" tvg-name="Lidas HD" tvg-logo="" group-title="ROMANIA",Lidas HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/40688
+#EXTINF:-1 tvg-id="" tvg-name="Lidas Horror HD" tvg-logo="" group-title="ROMANIA",Lidas Horror HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/40691
+#EXTINF:-1 tvg-id="" tvg-name="Lidas Latino" tvg-logo="" group-title="ROMANIA",Lidas Latino
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/40695
+#EXTINF:-1 tvg-id="" tvg-name="Lidas Balkan HD" tvg-logo="" group-title="ROMANIA",Lidas Balkan HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43466
+#EXTINF:-1 tvg-id="" tvg-name="Lidas Cinema+" tvg-logo="" group-title="ROMANIA",Lidas Cinema+
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43467
+#EXTINF:-1 tvg-id="" tvg-name="•●★ Cony-SAT TV ★●•" tvg-logo="" group-title="ROMANIA",•●★ Cony-SAT TV ★●•
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43487
+#EXTINF:-1 tvg-id="" tvg-name="ITV HD" tvg-logo="" group-title="ROMANIA",ITV HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/47195
+#EXTINF:-1 tvg-id="" tvg-name="Oltenia TV." tvg-logo="" group-title="ROMANIA",Oltenia TV.
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/46523
+#EXTINF:-1 tvg-id="" tvg-name="NCN" tvg-logo="" group-title="ROMANIA",NCN
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/46524
+#EXTINF:-1 tvg-id="" tvg-name="Medika TV" tvg-logo="" group-title="ROMANIA",Medika TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/46526
+#EXTINF:-1 tvg-id="" tvg-name="Super TV HD." tvg-logo="" group-title="ROMANIA",Super TV HD.
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/46528
+#EXTINF:-1 tvg-id="" tvg-name="Nsat" tvg-logo="" group-title="ROMANIA",Nsat
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43470
+#EXTINF:-1 tvg-id="" tvg-name="Mdi" tvg-logo="" group-title="ROMANIA",Mdi
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43477
+#EXTINF:-1 tvg-id="" tvg-name="Oltenia 3 TV" tvg-logo="" group-title="ROMANIA",Oltenia 3 TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43471
+#EXTINF:-1 tvg-id="" tvg-name="Rapsodia Tv Botosani" tvg-logo="" group-title="ROMANIA",Rapsodia Tv Botosani
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43472
+#EXTINF:-1 tvg-id="" tvg-name="Banat TV" tvg-logo="" group-title="ROMANIA",Banat TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43473
+#EXTINF:-1 tvg-id="" tvg-name="EvenimentTv Regional" tvg-logo="" group-title="ROMANIA",EvenimentTv Regional
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43474
+#EXTINF:-1 tvg-id="" tvg-name="EvenimentTv Sibiu" tvg-logo="" group-title="ROMANIA",EvenimentTv Sibiu
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43475
+#EXTINF:-1 tvg-id="" tvg-name="MediaSud Alexandria" tvg-logo="" group-title="ROMANIA",MediaSud Alexandria
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43476
+#EXTINF:-1 tvg-id="" tvg-name="Tv Sud" tvg-logo="" group-title="ROMANIA",Tv Sud
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43478
+#EXTINF:-1 tvg-id="" tvg-name="TeleNova Timisoara" tvg-logo="" group-title="ROMANIA",TeleNova Timisoara
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43480
+#EXTINF:-1 tvg-id="" tvg-name="ColumnaTv" tvg-logo="" group-title="ROMANIA",ColumnaTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43483
+#EXTINF:-1 tvg-id="" tvg-name="TezaurTv" tvg-logo="" group-title="ROMANIA",TezaurTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43484
+#EXTINF:-1 tvg-id="" tvg-name="Kapital Tv Deva" tvg-logo="" group-title="ROMANIA",Kapital Tv Deva
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43481
+#EXTINF:-1 tvg-id="" tvg-name="Tele2 Drobeta" tvg-logo="" group-title="ROMANIA",Tele2 Drobeta
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43482
+#EXTINF:-1 tvg-id="" tvg-name="InformatiaTv" tvg-logo="" group-title="ROMANIA",InformatiaTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43486
+#EXTINF:-1 tvg-id="" tvg-name="Balada Tv" tvg-logo="" group-title="ROMANIA",Balada Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43468
+#EXTINF:-1 tvg-id="" tvg-name="•●★ FILME ★●•" tvg-logo="" group-title="ROMANIA",•●★ FILME ★●•
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12099
+#EXTINF:-1 tvg-id="AXN.ro" tvg-name="AxN" tvg-logo="http://www.vector-logo.net/logo_preview/eps/a/AXN.png" group-title="ROMANIA",AxN
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6416
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="ROMANIA",AXN FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12238
+#EXTINF:-1 tvg-id="" tvg-name="AxnWhite" tvg-logo="" group-title="ROMANIA",AxnWhite
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/42820
+#EXTINF:-1 tvg-id="" tvg-name="AxNBlack" tvg-logo="https://static.cinemagia.ro/img/resize/db/article/02/40/34/295866l-640x400-b-028961fb.jpg" group-title="ROMANIA",AxNBlack
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6402
+#EXTINF:-1 tvg-id="AXNSpin.ro" tvg-name="AxnSpin" tvg-logo="" group-title="ROMANIA",AxnSpin
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/10899
+#EXTINF:-1 tvg-id="DivaUniversal.ro" tvg-name="Diva" tvg-logo="" group-title="ROMANIA",Diva
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6399
+#EXTINF:-1 tvg-id="" tvg-name="TV 1000" tvg-logo="" group-title="ROMANIA",TV 1000
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12234
+#EXTINF:-1 tvg-id="" tvg-name="A.M.C ROMANIA" tvg-logo="" group-title="ROMANIA",A.M.C ROMANIA
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/20427
+#EXTINF:-1 tvg-id="TNT.ro" tvg-name="TnT Ro" tvg-logo="" group-title="ROMANIA",TnT Ro
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/10901
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama" tvg-logo="" group-title="ROMANIA",Epic Drama
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15445
+#EXTINF:-1 tvg-id="ParamountChannel.ro" tvg-name="PramountChannel" tvg-logo="http://ocdn.eu/images/program-tv/NzQ7MDA_/5f5a2bc8fe1dbba5e2dac3384ca25cf4.png" group-title="ROMANIA",PramountChannel
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6405
+#EXTINF:-1 tvg-id="" tvg-name="Cinetronix HD" tvg-logo="" group-title="ROMANIA",Cinetronix HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43493
+#EXTINF:-1 tvg-id="ComedyCentralExtra.ro" tvg-name="ComedyCentral" tvg-logo="http://logo.kenh.net/logo/comedy-central-logo.svg.png" group-title="ROMANIA",ComedyCentral
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6404
+#EXTINF:-1 tvg-id="" tvg-name="FilmNow FHD" tvg-logo="" group-title="ROMANIA",FilmNow FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5551
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama FHD" tvg-logo="" group-title="ROMANIA",Epic Drama FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/20313
+#EXTINF:-1 tvg-id="CineMAX.ro" tvg-name="Cinemax1 Ro" tvg-logo="" group-title="ROMANIA",Cinemax1 Ro
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12311
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 1 FHD" tvg-logo="" group-title="ROMANIA",Cinemax 1 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5552
+#EXTINF:-1 tvg-id="Cinemax2.ro" tvg-name="Cinemax 2 FHD" tvg-logo="" group-title="ROMANIA",Cinemax 2 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12303
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="Hbo Romania" tvg-logo="" group-title="ROMANIA",Hbo Romania
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12316
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="Hbo 2 Romania" tvg-logo="" group-title="ROMANIA",Hbo 2 Romania
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12317
+#EXTINF:-1 tvg-id="HBOComedy.ro" tvg-name="Hbo 3 Romania" tvg-logo="" group-title="ROMANIA",Hbo 3 Romania
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12318
+#EXTINF:-1 tvg-id="" tvg-name="Hbo FHD" tvg-logo="" group-title="ROMANIA",Hbo FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6386
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD" tvg-logo="" group-title="ROMANIA",HBO 2 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12233
+#EXTINF:-1 tvg-id="HBO3HD.ro" tvg-name="Hbo3 FHD" tvg-logo="https://www.ines.ro/thumbs/180-180/picture-241.jpg" group-title="ROMANIA",Hbo3 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5540
+#EXTINF:-1 tvg-id="" tvg-name="HBO East HD" tvg-logo="" group-title="ROMANIA",HBO East HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/48794
+#EXTINF:-1 tvg-id="" tvg-name="ProGold" tvg-logo="" group-title="ROMANIA",ProGold
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6422
+#EXTINF:-1 tvg-id="" tvg-name="Pro-Cinema" tvg-logo="" group-title="ROMANIA",Pro-Cinema
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/19022
+#EXTINF:-1 tvg-id="" tvg-name="Film Cafe" tvg-logo="" group-title="ROMANIA",Film Cafe
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15404
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Family" tvg-logo="" group-title="ROMANIA",FilmBox Family
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15363
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Plus" tvg-logo="" group-title="ROMANIA",FilmBox Plus
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15362
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Premium" tvg-logo="" group-title="ROMANIA",FilmBox Premium
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15361
+#EXTINF:-1 tvg-id="" tvg-name="FilmBox Extra HD" tvg-logo="" group-title="ROMANIA",FilmBox Extra HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/46207
+#EXTINF:-1 tvg-id="" tvg-name="Pro2" tvg-logo="https://akphoto1.ask.fm/275/777/581/710003003-1ri8pbt-4bgtctp2lrgpgk0/original/AcasaTVlogoask.png" group-title="ROMANIA",Pro2
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6435
+#EXTINF:-1 tvg-id="" tvg-name="Pro2 FHD" tvg-logo="" group-title="ROMANIA",Pro2 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5546
+#EXTINF:-1 tvg-id="" tvg-name="Bolywood TV" tvg-logo="" group-title="ROMANIA",Bolywood TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17301
+#EXTINF:-1 tvg-id="" tvg-name="HappyChannel" tvg-logo="" group-title="ROMANIA",HappyChannel
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/10890
+#EXTINF:-1 tvg-id="" tvg-name="•●★ SPORT ★●•" tvg-logo="" group-title="ROMANIA",•●★ SPORT ★●•
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12098
+#EXTINF:-1 tvg-id="" tvg-name="DigiSport 1" tvg-logo="" group-title="ROMANIA",DigiSport 1
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15358
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="DigiSport 2" tvg-logo="" group-title="ROMANIA",DigiSport 2
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/13127
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="DigiSport 3" tvg-logo="" group-title="ROMANIA",DigiSport 3
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/13129
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="DigiSport 4" tvg-logo="" group-title="ROMANIA",DigiSport 4
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/13128
+#EXTINF:-1 tvg-id="" tvg-name="DigiSport1 FHD" tvg-logo="https://i.ibb.co/qmgK6Yn/digisport1hd.png" group-title="ROMANIA",DigiSport1 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5561
+#EXTINF:-1 tvg-id="" tvg-name="DigiSport2 FHD" tvg-logo="https://i.ibb.co/kGZg2G5/digisport2hd.png" group-title="ROMANIA",DigiSport2 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5562
+#EXTINF:-1 tvg-id="" tvg-name="DigiSport3 FHD" tvg-logo="https://i.ibb.co/N3ZQCp8/digisport3hd.png" group-title="ROMANIA",DigiSport3 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5548
+#EXTINF:-1 tvg-id="" tvg-name="DigiSport4 FHD" tvg-logo="https://i.ibb.co/G5P1qqD/digisport4hd.png" group-title="ROMANIA",DigiSport4 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5549
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 1 HD" tvg-logo="" group-title="ROMANIA",Telekom Sport 1 HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/20421
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 2 HD" tvg-logo="" group-title="ROMANIA",Telekom Sport 2 HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/20422
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 3 HD" tvg-logo="" group-title="ROMANIA",Telekom Sport 3 HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/20423
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 4 HD" tvg-logo="" group-title="ROMANIA",Telekom Sport 4 HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/20424
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 5 HD" tvg-logo="" group-title="ROMANIA",Telekom Sport 5 HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/20425
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 6 HD" tvg-logo="" group-title="ROMANIA",Telekom Sport 6 HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/20426
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 1 FHD" tvg-logo="" group-title="ROMANIA",Telekom Sport 1 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15359
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 2 FHD" tvg-logo="" group-title="ROMANIA",Telekom Sport 2 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12245
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport3 FHD" tvg-logo="" group-title="ROMANIA",Telekom Sport3 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17377
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport4 FHD" tvg-logo="" group-title="ROMANIA",Telekom Sport4 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17378
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport5 FHD" tvg-logo="" group-title="ROMANIA",Telekom Sport5 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17379
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport6 FHD" tvg-logo="" group-title="ROMANIA",Telekom Sport6 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17380
+#EXTINF:-1 tvg-id="" tvg-name="Look Sport HD" tvg-logo="" group-title="ROMANIA",Look Sport HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/42818
+#EXTINF:-1 tvg-id="" tvg-name="LookTV FHD" tvg-logo="" group-title="ROMANIA",LookTV FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12321
+#EXTINF:-1 tvg-id="LookPlus.ro" tvg-name="LookPlus" tvg-logo="" group-title="ROMANIA",LookPlus
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6394
+#EXTINF:-1 tvg-id="" tvg-name="LookPlus HD" tvg-logo="" group-title="ROMANIA",LookPlus HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12092
+#EXTINF:-1 tvg-id="" tvg-name="ProX" tvg-logo="" group-title="ROMANIA",ProX
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/42815
+#EXTINF:-1 tvg-id="" tvg-name="ProX FHD" tvg-logo="C:UsersEUROPEDownloadslogoproxhd.png" group-title="ROMANIA",ProX FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5558
+#EXTINF:-1 tvg-id="Eurosport.ro" tvg-name="Eurosport Ro" tvg-logo="" group-title="ROMANIA",Eurosport Ro
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6390
+#EXTINF:-1 tvg-id="" tvg-name="EurosportHD" tvg-logo="" group-title="ROMANIA",EurosportHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5563
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport2" tvg-logo="http://static.tvron.net/canale/mari/eurosport-2.png" group-title="ROMANIA",Eurosport2
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6403
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport2 FHD" tvg-logo="" group-title="ROMANIA",Eurosport2 FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5555
+#EXTINF:-1 tvg-id="" tvg-name="•●★ Știință ★●•" tvg-logo="" group-title="ROMANIA",•●★ Știință ★●•
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12100
+#EXTINF:-1 tvg-id="" tvg-name="Arcadia World FHD" tvg-logo="" group-title="ROMANIA",Arcadia World FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17385
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth FHD" tvg-logo="" group-title="ROMANIA",BBC Earth FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12253
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="ROMANIA",Animal Planet
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15866
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD" tvg-logo="" group-title="ROMANIA",Animal Planet FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/20312
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY RO" tvg-logo="" group-title="ROMANIA",DISCOVERY RO
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12039
+#EXTINF:-1 tvg-id="" tvg-name="Discovery FHD" tvg-logo="" group-title="ROMANIA",Discovery FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/48552
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="ROMANIA",Discovery Science
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12249
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD" tvg-logo="" group-title="ROMANIA",Discovery Science FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/43469
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Xtra" tvg-logo="" group-title="ROMANIA",Discovery Turbo Xtra
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12248
+#EXTINF:-1 tvg-id="NationalGeographic.ro" tvg-name="NatGeo" tvg-logo="" group-title="ROMANIA",NatGeo
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6389
+#EXTINF:-1 tvg-id="" tvg-name="NatGeografic FHD" tvg-logo="" group-title="ROMANIA",NatGeografic FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12503
+#EXTINF:-1 tvg-id="NatGeoWild.ro" tvg-name="NatGeoWild" tvg-logo="https://mitvstatic.com/channels/cl_nat-geo-wild-hd_m.png" group-title="ROMANIA",NatGeoWild
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6428
+#EXTINF:-1 tvg-id="NatGeoWild.ro" tvg-name="NatGeoWild FHD" tvg-logo="" group-title="ROMANIA",NatGeoWild FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5554
+#EXTINF:-1 tvg-id="" tvg-name="Digi Animal World FHD" tvg-logo="" group-title="ROMANIA",Digi Animal World FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12301
+#EXTINF:-1 tvg-id="" tvg-name="ID Extra SD" tvg-logo="" group-title="ROMANIA",ID Extra SD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15405
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD" tvg-logo="" group-title="ROMANIA",Investigation Discovery HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12251
+#EXTINF:-1 tvg-id="" tvg-name="DTX FHD" tvg-logo="" group-title="ROMANIA",DTX FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/45833
+#EXTINF:-1 tvg-id="TravelChannel.ro" tvg-name="Travel" tvg-logo="" group-title="ROMANIA",Travel
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/13125
+#EXTINF:-1 tvg-id="" tvg-name="Travel FHD" tvg-logo="" group-title="ROMANIA",Travel FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12312
+#EXTINF:-1 tvg-id="" tvg-name="TLC Romania" tvg-logo="" group-title="ROMANIA",TLC Romania
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/19025
+#EXTINF:-1 tvg-id="" tvg-name="PaprikaTv Romania" tvg-logo="" group-title="ROMANIA",PaprikaTv Romania
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/19026
+#EXTINF:-1 tvg-id="" tvg-name="Food Netwoork FHD" tvg-logo="" group-title="ROMANIA",Food Netwoork FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/48793
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV HD" tvg-logo="" group-title="ROMANIA",Fashion TV HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/42819
+#EXTINF:-1 tvg-id="DigiLife.ro" tvg-name="DigiLife" tvg-logo="http://www.digi-life.tv/wp-content/themes/digilifetv/images/DigiLife_NA_mare.jpg" group-title="ROMANIA",DigiLife
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6424
+#EXTINF:-1 tvg-id="" tvg-name="Digi Life FHD" tvg-logo="" group-title="ROMANIA",Digi Life FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12306
+#EXTINF:-1 tvg-id="DigiWorld.ro" tvg-name="DigiWorld" tvg-logo="" group-title="ROMANIA",DigiWorld
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/10887
+#EXTINF:-1 tvg-id="" tvg-name="Digi World HD" tvg-logo="" group-title="ROMANIA",Digi World HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/42816
+#EXTINF:-1 tvg-id="" tvg-name="Digi Animal World" tvg-logo="" group-title="ROMANIA",Digi Animal World
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17300
+#EXTINF:-1 tvg-id="" tvg-name="Digi World FHD" tvg-logo="" group-title="ROMANIA",Digi World FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12302
+#EXTINF:-1 tvg-id="ViasatExplorer.ro" tvg-name="Viasat Explorer" tvg-logo="" group-title="ROMANIA",Viasat Explorer
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/10906
+#EXTINF:-1 tvg-id="" tvg-name="Viasat History" tvg-logo="" group-title="ROMANIA",Viasat History
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/42823
+#EXTINF:-1 tvg-id="" tvg-name="Viasat History FHD" tvg-logo="" group-title="ROMANIA",Viasat History FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12309
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainement FHD" tvg-logo="" group-title="ROMANIA",E! Entertainement FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12458
+#EXTINF:-1 tvg-id="HistoryHD.ro" tvg-name="History FHD" tvg-logo="" group-title="ROMANIA",History FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/5560
+#EXTINF:-1 tvg-id="" tvg-name="CBS Reality" tvg-logo="" group-title="ROMANIA",CBS Reality
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15406
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="" group-title="ROMANIA",Da Vinci Learning
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12313
+#EXTINF:-1 tvg-id="" tvg-name="DOQ Romania" tvg-logo="" group-title="ROMANIA",DOQ Romania
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15448
+#EXTINF:-1 tvg-id="" tvg-name="Fishing & Hunting Romania" tvg-logo="" group-title="ROMANIA",Fishing & Hunting Romania
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12235
+#EXTINF:-1 tvg-id="" tvg-name="HistoryChannel FHD" tvg-logo="" group-title="ROMANIA",HistoryChannel FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12308
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainement" tvg-logo="" group-title="ROMANIA",E! Entertainement
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6417
+#EXTINF:-1 tvg-id="" tvg-name="•●★ DESENE ANIMATE ★●•" tvg-logo="" group-title="ROMANIA",•●★ DESENE ANIMATE ★●•
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12101
+#EXTINF:-1 tvg-id="" tvg-name="Minimax" tvg-logo="" group-title="ROMANIA",Minimax
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6421
+#EXTINF:-1 tvg-id="" tvg-name="CartoonNetwork" tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnemea/site/static-3.1.108.1/img/cnlogo_social.png" group-title="ROMANIA",CartoonNetwork
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6419
+#EXTINF:-1 tvg-id="DuckTV.ro" tvg-name="DuckTV" tvg-logo="" group-title="ROMANIA",DuckTV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6395
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="ROMANIA",Boomerang
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6413
+#EXTINF:-1 tvg-id="" tvg-name="DisneyChannel" tvg-logo="https://png.pngtree.com/element_origin_min_pic/16/11/23/5565af4c18109fbd98324befc3470f94.jpg" group-title="ROMANIA",DisneyChannel
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6411
+#EXTINF:-1 tvg-id="" tvg-name="DisneyJunior" tvg-logo="" group-title="ROMANIA",DisneyJunior
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6398
+#EXTINF:-1 tvg-id="" tvg-name="NickJuniorRO" tvg-logo="" group-title="ROMANIA",NickJuniorRO
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15247
+#EXTINF:-1 tvg-id="" tvg-name="Megamax" tvg-logo="" group-title="ROMANIA",Megamax
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6393
+#EXTINF:-1 tvg-id="" tvg-name="NikelodeonRo" tvg-logo="" group-title="ROMANIA",NikelodeonRo
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15246
+#EXTINF:-1 tvg-id="" tvg-name="Jim Jam Romania" tvg-logo="" group-title="ROMANIA",Jim Jam Romania
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16365
+#EXTINF:-1 tvg-id="" tvg-name="•●★ Muzică ★●•" tvg-logo="" group-title="ROMANIA",•●★ Muzică ★●•
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12102
+#EXTINF:-1 tvg-id="" tvg-name="Gold HD" tvg-logo="" group-title="ROMANIA",Gold HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16855
+#EXTINF:-1 tvg-id="" tvg-name="FIRST MUSIK 4K" tvg-logo="" group-title="ROMANIA",FIRST MUSIK 4K
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17303
+#EXTINF:-1 tvg-id="" tvg-name="KroneHit FHD" tvg-logo="" group-title="ROMANIA",KroneHit FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15360
+#EXTINF:-1 tvg-id="" tvg-name="ROCK TV" tvg-logo="" group-title="ROMANIA",ROCK TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16835
+#EXTINF:-1 tvg-id="" tvg-name="First Music" tvg-logo="" group-title="ROMANIA",First Music
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16366
+#EXTINF:-1 tvg-id="" tvg-name="RadioMonteCarlo TV" tvg-logo="" group-title="ROMANIA",RadioMonteCarlo TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16360
+#EXTINF:-1 tvg-id="" tvg-name="Mooz Dance" tvg-logo="" group-title="ROMANIA",Mooz Dance
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15408
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance" tvg-logo="" group-title="ROMANIA",MTV Dance
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15413
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="ROMANIA",MTV Hits
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15411
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE FHD" tvg-logo="" group-title="ROMANIA",MTV LIVE FHD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/45834
+#EXTINF:-1 tvg-id="" tvg-name="MusicChannel" tvg-logo="" group-title="ROMANIA",MusicChannel
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6423
+#EXTINF:-1 tvg-id="" tvg-name="ZuTv" tvg-logo="" group-title="ROMANIA",ZuTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/10889
+#EXTINF:-1 tvg-id="" tvg-name="U Tv" tvg-logo="" group-title="ROMANIA",U Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/10893
+#EXTINF:-1 tvg-id="" tvg-name="HitMusic" tvg-logo="http://comptelnet.net/page/wp-content/uploads/2017/07/HiTMC_logo.png" group-title="ROMANIA",HitMusic
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6409
+#EXTINF:-1 tvg-id="" tvg-name="KissTV" tvg-logo="" group-title="ROMANIA",KissTV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6397
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="ROMANIA",VH1
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15410
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="ROMANIA",VH1 Classic
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/15409
+#EXTINF:-1 tvg-id="" tvg-name="OneBy Music" tvg-logo="" group-title="ROMANIA",OneBy Music
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/13132
+#EXTINF:-1 tvg-id="" tvg-name="Diaspora TV" tvg-logo="" group-title="ROMANIA",Diaspora TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17304
+#EXTINF:-1 tvg-id="" tvg-name="Tezaur TV" tvg-logo="" group-title="ROMANIA",Tezaur TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/17305
+#EXTINF:-1 tvg-id="" tvg-name="TarafTv" tvg-logo="https://www.arax.md/assets/channels/92.png" group-title="ROMANIA",TarafTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6431
+#EXTINF:-1 tvg-id="" tvg-name="Etnic Tv" tvg-logo="" group-title="ROMANIA",Etnic Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16738
+#EXTINF:-1 tvg-id="" tvg-name="Dibi Tv" tvg-logo="" group-title="ROMANIA",Dibi Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16739
+#EXTINF:-1 tvg-id="" tvg-name="Balcan Music Tv" tvg-logo="" group-title="ROMANIA",Balcan Music Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16740
+#EXTINF:-1 tvg-id="" tvg-name="Super TV HD" tvg-logo="" group-title="ROMANIA",Super TV HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16807
+#EXTINF:-1 tvg-id="" tvg-name="Impact Tv" tvg-logo="" group-title="ROMANIA",Impact Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16744
+#EXTINF:-1 tvg-id="" tvg-name="Favorit" tvg-logo="" group-title="ROMANIA",Favorit
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6387
+#EXTINF:-1 tvg-id="" tvg-name="EtnoTv" tvg-logo="http://1.bp.blogspot.com/-B4-S1EkOG2M/UUS9GGzCfvI/AAAAAAAAAYY/FZfiylsyBAU/s1600/etno-sigla.jpg" group-title="ROMANIA",EtnoTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6408
+#EXTINF:-1 tvg-id="" tvg-name="BusuiocTv" tvg-logo="" group-title="ROMANIA",BusuiocTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16357
+#EXTINF:-1 tvg-id="" tvg-name="NorocTv" tvg-logo="" group-title="ROMANIA",NorocTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16358
+#EXTINF:-1 tvg-id="" tvg-name="HoraTv" tvg-logo="http://static.tvron.net/canale/mari/hora-tv.png" group-title="ROMANIA",HoraTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6414
+#EXTINF:-1 tvg-id="" tvg-name="•●★ REGIONALE ★●•" tvg-logo="" group-title="ROMANIA",•●★ REGIONALE ★●•
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16810
+#EXTINF:-1 tvg-id="" tvg-name="Digi 24" tvg-logo="" group-title="ROMANIA",Digi 24
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/42824
+#EXTINF:-1 tvg-id="" tvg-name="Digi24 HD" tvg-logo="https://i.ibb.co/tqNDqTF/digi24hd.png" group-title="ROMANIA",Digi24 HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12320
+#EXTINF:-1 tvg-id="" tvg-name="Digi 24 Galati" tvg-logo="" group-title="ROMANIA",Digi 24 Galati
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12095
+#EXTINF:-1 tvg-id="" tvg-name="Digi 24 Oradea" tvg-logo="" group-title="ROMANIA",Digi 24 Oradea
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12074
+#EXTINF:-1 tvg-id="" tvg-name="Digi24Iasi" tvg-logo="" group-title="ROMANIA",Digi24Iasi
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/42814
+#EXTINF:-1 tvg-id="" tvg-name="VP" tvg-logo="" group-title="ROMANIA",VP
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16804
+#EXTINF:-1 tvg-id="" tvg-name="SangeorzTV" tvg-logo="" group-title="ROMANIA",SangeorzTV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16362
+#EXTINF:-1 tvg-id="" tvg-name="MAGIC TV" tvg-logo="" group-title="ROMANIA",MAGIC TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16836
+#EXTINF:-1 tvg-id="" tvg-name="Traditii TV" tvg-logo="" group-title="ROMANIA",Traditii TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12062
+#EXTINF:-1 tvg-id="" tvg-name="AcumTV ONESTI" tvg-logo="" group-title="ROMANIA",AcumTV ONESTI
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16361
+#EXTINF:-1 tvg-id="" tvg-name="NeptunTv" tvg-logo="http://www.logotypes101.com/logos/697/9FB014DFDDDFEAD0290A98EEF88B48F5/neptuntvlogo.png" group-title="ROMANIA",NeptunTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/6437
+#EXTINF:-1 tvg-id="" tvg-name="Infinit Tv" tvg-logo="" group-title="ROMANIA",Infinit Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16741
+#EXTINF:-1 tvg-id="" tvg-name="Cromtel Tv" tvg-logo="" group-title="ROMANIA",Cromtel Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16742
+#EXTINF:-1 tvg-id="" tvg-name="Alpha Media Tv" tvg-logo="" group-title="ROMANIA",Alpha Media Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16743
+#EXTINF:-1 tvg-id="" tvg-name="IASI TV" tvg-logo="" group-title="ROMANIA",IASI TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16832
+#EXTINF:-1 tvg-id="" tvg-name="Planeta HD" tvg-logo="" group-title="ROMANIA",Planeta HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16813
+#EXTINF:-1 tvg-id="" tvg-name="Inedit TV HD" tvg-logo="" group-title="ROMANIA",Inedit TV HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16815
+#EXTINF:-1 tvg-id="" tvg-name="Kapital TV" tvg-logo="" group-title="ROMANIA",Kapital TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16816
+#EXTINF:-1 tvg-id="" tvg-name="Rapsodia TV" tvg-logo="" group-title="ROMANIA",Rapsodia TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16799
+#EXTINF:-1 tvg-id="" tvg-name="VB HD" tvg-logo="" group-title="ROMANIA",VB HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16819
+#EXTINF:-1 tvg-id="" tvg-name="Telestar !" tvg-logo="" group-title="ROMANIA",Telestar !
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16820
+#EXTINF:-1 tvg-id="" tvg-name="Tv Plus Suceava" tvg-logo="" group-title="ROMANIA",Tv Plus Suceava
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16821
+#EXTINF:-1 tvg-id="" tvg-name="Informatia TV" tvg-logo="" group-title="ROMANIA",Informatia TV
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16824
+#EXTINF:-1 tvg-id="" tvg-name="TVR Iasi" tvg-logo="" group-title="ROMANIA",TVR Iasi
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16827
+#EXTINF:-1 tvg-id="" tvg-name="6 TV RO" tvg-logo="" group-title="ROMANIA",6 TV RO
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16833
+#EXTINF:-1 tvg-id="" tvg-name="ACCENT TV TG JIU" tvg-logo="" group-title="ROMANIA",ACCENT TV TG JIU
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16834
+#EXTINF:-1 tvg-id="" tvg-name="Traditional tv" tvg-logo="" group-title="ROMANIA",Traditional tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16800
+#EXTINF:-1 tvg-id="" tvg-name="TVSE" tvg-logo="" group-title="ROMANIA",TVSE
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16803
+#EXTINF:-1 tvg-id="" tvg-name="TV SAT" tvg-logo="" group-title="ROMANIA",TV SAT
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/16805
+#EXTINF:-1 tvg-id="" tvg-name="TVSE Buzau" tvg-logo="" group-title="ROMANIA",TVSE Buzau
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12081
+#EXTINF:-1 tvg-id="" tvg-name="BitTv Pascani" tvg-logo="" group-title="ROMANIA",BitTv Pascani
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12083
+#EXTINF:-1 tvg-id="" tvg-name="BucurestiTv HD" tvg-logo="" group-title="ROMANIA",BucurestiTv HD
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12065
+#EXTINF:-1 tvg-id="" tvg-name="Columna Tv" tvg-logo="" group-title="ROMANIA",Columna Tv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12063
+#EXTINF:-1 tvg-id="" tvg-name="SomaxTv" tvg-logo="" group-title="ROMANIA",SomaxTv
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12055
+#EXTINF:-1 tvg-id="" tvg-name="Suceava Regional" tvg-logo="" group-title="ROMANIA",Suceava Regional
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12456
+#EXTINF:-1 tvg-id="" tvg-name="TeleM Iasi" tvg-logo="" group-title="ROMANIA",TeleM Iasi
+http://pro-iptv.stream:25461/Krasty_Alex/FP4hRhbXom/12056
